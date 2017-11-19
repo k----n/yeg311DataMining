@@ -1,0 +1,720 @@
+MEETING_ID,MEETING_TYPE,RECORD_TYPE,MEETING_DATE,MEETING_TIME,MEETING_LOCATION
+1143,LRT Governance Board Committee,Minutes,10/23/2013 12:00:00 AM,1:30 PM,Heritage Room
+1051,City Council,Minutes,10/29/2013 12:00:00 AM,2:30 PM,Council Chamber
+1145,Community Services Committee,Minutes,10/30/2013 12:00:00 AM,8:45 AM,River Valley Room
+1146,Executive Committee,Minutes,10/30/2013 12:00:00 AM,8:45 AM,Council Chamber
+1147,Transportation Committee,Minutes,10/30/2013 12:00:00 AM,8:45 AM,Councillors' Boardroom
+1150,City Council,Minutes,10/30/2013 12:00:00 AM,9:30 am,Heritage Room
+1160,City Council Public Hearing,Past,10/31/2013 12:00:00 AM,1:30 pm,Council Chamber
+1124,City Council Public Hearing,Minutes,11/04/2013 12:00:00 AM,1:30 pm,Council Chamber
+1140,Utility Committee,Minutes,11/05/2013 12:00:00 AM,1:30 PM,River Valley Room
+1117,City Council,Minutes,11/06/2013 12:00:00 AM,9:30 am,Council Chamber
+1156,City Council,Minutes,11/07/2013 12:00:00 AM,9:30 am,Heritage Room
+1111,CM and CA Performance Review Committee,Minutes,11/08/2013 12:00:00 AM,1:30 PM,Office of the City Clerk Boardroom
+1161,Community Standards and Licence Appeal Committee,Minutes,11/08/2013 12:00:00 AM,9:30 AM,Churchill Building
+1157,City Council,Minutes,11/12/2013 12:00:00 AM,9:30 am,Heritage Room
+1158,City Council,Minutes,11/13/2013 12:00:00 AM,9:30 am,Heritage Room
+1159,City Council,Minutes,11/14/2013 12:00:00 AM,9:30 am,Heritage Room
+1144,Audit Committee,Minutes,11/15/2013 12:00:00 AM,1:30 PM,River Valley Room
+1121,City Council Public Hearing,Minutes,11/18/2013 12:00:00 AM,1:30 pm,Council Chamber
+1149,Council Services Committee,Minutes,11/18/2013 12:00:00 AM,9:30 am,Councillors' Boardroom
+1142,City Council,Minutes,11/19/2013 12:00:00 AM,9:30 AM,Council Chamber
+1259,Audit Selection Committee,Minutes,11/25/2013 12:00:00 AM,3:30 PM,City Hall
+1153,City Council,Minutes,11/25/2013 12:00:00 AM,9:30 am,Council Chamber
+1246,CM and CA Performance Review Committee,Minutes,11/26/2013 12:00:00 AM,12:00 PM,Office of the City Clerk Boardroom
+1148,LRT Governance Board Committee,Minutes,11/26/2013 12:00:00 AM,9:30 am,River Valley Room
+1132,City Council Budget,Minutes,12/02/2013 12:00:00 AM,9:30 am,Council Chamber
+1122,City Council Public Hearing,Minutes,12/09/2013 12:00:00 AM,1:30 pm,Council Chamber
+1154,City Council,Minutes,12/11/2013 12:00:00 AM,9:30 am,Council Chamber
+1321,Special City Council,Minutes,12/17/2013 12:00:00 AM,10:30 AM,Council Chamber
+1323,Special City Council,Minutes,01/20/2014 12:00:00 AM,12:00 PM,Councillors Boardroom
+1288,Audit Selection Committee,Past,01/20/2014 12:00:00 AM,3:30 PM,Councillor's Boardroom
+1162,Community Services Committee,Minutes,01/20/2014 12:00:00 AM,9:30 am,River Valley Room
+1320,Special City Council,Minutes,01/21/2014 12:00:00 AM,1:30 PM,Heritage Room
+1164,Transportation Committee,Minutes,01/21/2014 12:00:00 AM,9:30 am,River Valley Room
+1163,Executive Committee,Minutes,01/22/2014 12:00:00 AM,9:30 AM,River Valley Room
+1165,Community Standards and Licence Appeal Committee,Minutes,01/23/2014 12:00:00 AM,9:30 AM,Churchill Building
+1167,City Council Public Hearing,Minutes,01/27/2014 12:00:00 AM,1:30 pm,Council Chamber
+1168,City Council,Minutes,01/28/2014 12:00:00 AM,9:30 am,Heritage Room
+1169,City Council,Minutes,01/29/2014 12:00:00 AM,9:30 am,Council Chamber
+1170,Utility Committee,Past,01/30/2014 12:00:00 AM,9:30 AM,River Valley Room
+1171,Community Services Committee,Minutes,02/03/2014 12:00:00 AM,9:30 am,River Valley Room
+1136,LRT Governance Board Committee,Minutes,02/04/2014 12:00:00 AM,10:30 AM,River Valley Room
+1172,Executive Committee,Minutes,02/04/2014 12:00:00 AM,9:30 AM,Council Chamber
+1173,Transportation Committee,Minutes,02/05/2014 12:00:00 AM,9:30 am,River Valley Room
+1174,Audit Committee,Minutes,02/06/2014 12:00:00 AM,9:30 am,River Valley Room
+1178,City Council Public Hearing,Minutes,02/10/2014 12:00:00 AM,1:30 pm,Council Chamber
+1177,Council Services Committee,Minutes,02/10/2014 12:00:00 AM,9:30 am,Councillors' Boardroom
+1176,City Council,Minutes,02/11/2014 12:00:00 AM,9:30 am,Council Chamber
+1179,Executive Committee,Minutes,02/18/2014 12:00:00 AM,9:30 AM,River Valley Room
+1180,Community Services Committee,Minutes,02/19/2014 12:00:00 AM,9:30 am,River Valley Room
+1325,Special Executive Committee,Minutes,02/20/2014 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1183,City Council Public Hearing,Minutes,02/24/2014 12:00:00 AM,1:30 pm,Council Chamber
+1185,City Council,Minutes,02/25/2014 12:00:00 AM,9:30 am,Council Chamber
+1186,Community Standards and Licence Appeal Committee,Minutes,02/27/2014 12:00:00 AM,9:30 AM,Churchill Building
+1187,Community Services Committee,Minutes,03/03/2014 12:00:00 AM,9:30 am,River Valley Room
+1188,Executive Committee,Minutes,03/04/2014 12:00:00 AM,9:30 AM,River Valley Room
+1189,Transportation Committee,Minutes,03/05/2014 12:00:00 AM,9:30 am,River Valley Room
+1191,City Council Public Hearing,Minutes,03/10/2014 12:00:00 AM,1:30 pm,Council Chamber
+1192,City Council,Minutes,03/11/2014 12:00:00 AM,9:30 am,Heritage Room
+1193,City Council,Minutes,03/12/2014 12:00:00 AM,9:30 am,Council Chamber
+1329,CM and CA Performance Review Committee,Minutes,03/13/2014 12:00:00 AM,11:30 AM,OCC Boardroom
+1195,Community Services Committee,Minutes,03/17/2014 12:00:00 AM,9:30 am,River Valley Room
+1196,Executive Committee,Minutes,03/18/2014 12:00:00 AM,9:30 AM,River Valley Room
+1197,Transportation Committee,Minutes,03/19/2014 12:00:00 AM,9:30 am,River Valley Room
+1327,City Council,Past,03/22/2014 12:00:00 AM,9:30 am,Council Chamber
+1199,City Council Public Hearing,Minutes,03/24/2014 12:00:00 AM,1:30 pm,Council Chamber
+1247,LRT Governance Board Committee,Minutes,03/25/2014 12:00:00 AM,10:30 AM,River Valley Room
+1200,City Council,Minutes,03/26/2014 12:00:00 AM,9:30 am,Council Chamber
+1201,Community Standards and Licence Appeal Committee,Minutes,03/27/2014 12:00:00 AM,9:30 AM,Churcill Building
+1202,Community Services Committee,Minutes,04/07/2014 12:00:00 AM,9:30 am,River Valley Room
+1203,Executive Committee,Minutes,04/08/2014 12:00:00 AM,9:30 AM,River Valley Room
+1204,Transportation Committee,Minutes,04/09/2014 12:00:00 AM,9:30 am,River Valley Room
+1322,Special City Council,Minutes,04/10/2014 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1207,City Council Public Hearing,Minutes,04/14/2014 12:00:00 AM,1:30 pm,Council Chamber
+1208,City Council,Minutes,04/15/2014 12:00:00 AM,9:30 am,Council Chamber
+1332,Special Community Services Committee,Minutes,04/17/2014 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1137,LRT Governance Board Committee,Minutes,04/17/2014 12:00:00 AM,10:30 AM,River Valley Room
+1210,Executive Committee,Minutes,04/22/2014 12:00:00 AM,9:30 AM,River Valley Room
+1211,Community Services Committee,Minutes,04/23/2014 12:00:00 AM,1:30 PM,River Valley Room
+1212,Transportation Committee,Past,04/23/2014 12:00:00 AM,9:30 am,River Valley Room
+1206,Audit Committee,Minutes,04/24/2014 12:00:00 AM,1:30 PM,River Valley Room
+1194,Utility Committee,Minutes,04/25/2014 12:00:00 AM,9:30 AM,River Valley Room
+1214,City Council Public Hearing,Minutes,04/28/2014 12:00:00 AM,1:30 PM,Council Chamber
+1215,City Council,Minutes,04/29/2014 12:00:00 AM,9:30 am,Council Chamber
+1216,City Council,Minutes,04/30/2014 12:00:00 AM,9:30 am,Council Chamber
+1217,Community Services Committee,Minutes,05/05/2014 12:00:00 AM,10:30 AM,River Valley Room
+1218,Executive Committee,Minutes,05/06/2014 12:00:00 AM,9:30 AM,River Valley Room
+1219,Transportation Committee,Minutes,05/07/2014 12:00:00 AM,9:30 am,River Valley Room
+1220,Community Standards and Licence Appeal Committee,Minutes,05/08/2014 12:00:00 AM,9:30 AM,Churchill Building
+1222,City Council Public Hearing,Minutes,05/12/2014 12:00:00 AM,1:30 pm,Council Chamber
+1334,Special City Council,Minutes,05/12/2014 12:00:00 AM,9:30 AM,Council Chamber
+1224,City Council,Minutes,05/14/2014 12:00:00 AM,9:30 am,Council Chamber
+1225,Utility Committee,Minutes,05/15/2014 12:00:00 AM,9:30 AM,River Valley Room
+1226,Executive Committee,Minutes,05/20/2014 12:00:00 AM,9:30 AM,River Valley Room
+1227,Transportation Committee,Minutes,05/21/2014 12:00:00 AM,1:30 PM,River Valley Room
+1089,Community Services Committee,Minutes,05/21/2014 12:00:00 AM,9:30 am,River Valley Room
+1229,City Council Public Hearing,Minutes,05/26/2014 12:00:00 AM,1:30 pm,Council Chamber
+1335,CM and CA Performance Review Committee,Minutes,05/27/2014 12:00:00 AM,12:00 PM,Office of the City Clerk Board Room
+1230,City Council,Minutes,05/28/2014 12:00:00 AM,9:30 am,Council Chamber
+1231,Executive Committee,Minutes,06/04/2014 12:00:00 AM,9:30 AM,River Valley Room
+1232,Community Services Committee,Minutes,06/05/2014 12:00:00 AM,9:30 am,River Valley Room
+1233,Transportation Committee,Minutes,06/05/2014 12:00:00 AM,9:30 am,River Valley Room
+1236,City Council Public Hearing,Minutes,06/09/2014 12:00:00 AM,1:30 pm,Council Chamber
+1235,Audit Committee,Minutes,06/09/2014 12:00:00 AM,9:30 am,River Valley Room
+1337,CM and CA Performance Review Committee,Minutes,06/10/2014 12:00:00 AM,12:00 PM,Office of the City Clerk Boardroom
+1237,City Council,Minutes,06/10/2014 12:00:00 AM,9:30 am,Council Chamber
+1238,City Council,Minutes,06/11/2014 12:00:00 AM,9:30 am,Council Chamber
+1239,Community Standards and Licence Appeal Committee,Minutes,06/12/2014 12:00:00 AM,9:30 AM,Churchill Building
+1340,Annexation Negotiating Committee,Agenda,06/14/2014 12:00:00 AM,8:00 AM,Councillors Boardroom
+1240,Community Services Committee,Minutes,06/16/2014 12:00:00 AM,9:30 am,River Valley Room
+1241,Executive Committee,Minutes,06/17/2014 12:00:00 AM,9:30 AM,River Valley Room
+1242,Transportation Committee,Minutes,06/18/2014 12:00:00 AM,9:30 am,River Valley Room
+1138,LRT Governance Board Committee,Minutes,06/19/2014 12:00:00 AM,10:30 AM,Council Chamber
+1244,City Council Public Hearing,Minutes,06/24/2014 12:00:00 AM,1:30 pm,Council Chamber
+1245,City Council,Minutes,06/25/2014 12:00:00 AM,1:30 PM,Council Chamber
+1252,Executive Committee,Minutes,07/02/2014 12:00:00 AM,9:30 AM,River Valley Room
+1250,Utility Committee,Minutes,07/03/2014 12:00:00 AM,9:30 AM,River Valley Room
+1251,Community Services Committee,Minutes,07/07/2014 12:00:00 AM,9:30 am,River Valley Room
+1341,Special Executive Committee,Minutes,07/08/2014 12:00:00 AM,9:30 am,River Valley Room
+1253,Transportation Committee,Minutes,07/09/2014 12:00:00 AM,9:30 am,River Valley Room
+1254,Community Standards and Licence Appeal Committee,Minutes,07/10/2014 12:00:00 AM,9:30 AM,Churchill Building
+1256,City Council Public Hearing,Minutes,07/14/2014 12:00:00 AM,1:30 pm,Council Chamber
+1255,Council Services Committee,Minutes,07/14/2014 12:00:00 AM,9:30 am,Councillors' Boardroom
+1257,City Council,Minutes,07/16/2014 12:00:00 AM,9:30 am,Council Chamber
+1342,LRT Governance Board Committee,Minutes,08/06/2014 12:00:00 AM,10:30 AM,River Valley Room
+1261,Community Services Committee,Minutes,08/18/2014 12:00:00 AM,9:30 am,River Valley Room
+1262,Executive Committee,Minutes,08/19/2014 12:00:00 AM,9:30 AM,River Valley Room
+1263,Transportation Committee,Minutes,08/20/2014 12:00:00 AM,9:30 am,River Valley Room
+1264,Community Standards and Licence Appeal Committee,Minutes,08/21/2014 12:00:00 AM,9:30 AM,Churchill Building
+1266,City Council Public Hearing,Minutes,08/25/2014 12:00:00 AM,1:30 pm,Council Chamber
+1267,City Council,Minutes,08/27/2014 12:00:00 AM,9:30 am,Council Chamber
+1268,Executive Committee,Minutes,09/02/2014 12:00:00 AM,9:30 AM,River Valley Room
+1269,Community Services Committee,Minutes,09/03/2014 12:00:00 AM,9:30 am,River Valley Room
+1273,City Council Public Hearing,Minutes,09/08/2014 12:00:00 AM,1:30 pm,Council Chamber
+1365,Special City Council,Minutes,09/08/2014 12:00:00 AM,3:45 PM,Council Chamber
+1272,Audit Committee,Minutes,09/08/2014 12:00:00 AM,9:30 am,River Valley Room
+1248,LRT Governance Board Committee,Minutes,09/09/2014 12:00:00 AM,10:30 AM,River Valley Room
+1275,City Council,Minutes,09/10/2014 12:00:00 AM,9:30 am,Council Chamber
+1276,Community Standards and Licence Appeal Committee,Minutes,09/11/2014 12:00:00 AM,9:30 AM,Churchill Building
+1278,Executive Committee,Minutes,09/16/2014 12:00:00 AM,9:30 AM,River Valley Room
+1279,Transportation Committee,Minutes,09/17/2014 12:00:00 AM,9:30 am,River Valley Room
+1280,Utility Committee,Minutes,09/18/2014 12:00:00 AM,9:30 AM,River Valley Room
+1282,City Council Public Hearing,Minutes,09/22/2014 12:00:00 AM,1:30 pm,Council Chamber
+1283,City Council,Minutes,09/23/2014 12:00:00 AM,9:30 am,Council Chamber
+1284,Community Services Committee,Minutes,09/29/2014 12:00:00 AM,9:30 am,River Valley Room
+1285,Executive Committee,Minutes,09/30/2014 12:00:00 AM,9:30 AM,Council Chamber
+1286,Transportation Committee,Minutes,10/01/2014 12:00:00 AM,9:30 am,River Valley Room
+1287,Community Standards and Licence Appeal Committee,Minutes,10/02/2014 12:00:00 AM,9:30 AM,Churchill Building
+1291,City Council Public Hearing,Minutes,10/06/2014 12:00:00 AM,1:30 pm,Council Chamber
+1292,City Council,Minutes,10/08/2014 12:00:00 AM,9:30 am,Council Chamber
+1293,Executive Committee,Minutes,10/14/2014 12:00:00 AM,9:30 AM,River Valley Room
+1295,Transportation Committee,Minutes,10/15/2014 12:00:00 AM,1:30 PM,River Valley Room
+1368,Special Community Services Committee,Minutes,10/15/2014 12:00:00 AM,4:00 PM,Office of the Councillors' Boardroom
+1294,Community Services Committee,Minutes,10/15/2014 12:00:00 AM,9:30 am,River Valley Room
+1297,City Council Public Hearing,Minutes,10/20/2014 12:00:00 AM,1:30 pm,Council Chamber
+1290,Council Services Committee,Minutes,10/20/2014 12:00:00 AM,9:30 am,Councillors' Boardroom
+1298,City Council,Minutes,10/22/2014 12:00:00 AM,9:30 am,Council Chamber
+1299,Community Services Committee,Minutes,10/27/2014 12:00:00 AM,9:30 am,River Valley Room
+1370,Special City Council,Minutes,10/28/2014 12:00:00 AM,1:30 PM,Council Chamber
+1300,Executive Committee,Minutes,10/28/2014 12:00:00 AM,9:30 AM,River Valley Room
+1301,Transportation Committee,Minutes,10/29/2014 12:00:00 AM,9:30 am,River Valley Room
+1302,Utility Committee,Minutes,10/30/2014 12:00:00 AM,9:30 AM,River Valley Room
+1304,City Council Public Hearing,Minutes,11/03/2014 12:00:00 AM,1:30 pm,Council Chamber
+1364,City Council,Minutes,11/04/2014 12:00:00 AM,9:30 am,Council Chamber
+1305,City Council,Minutes,11/05/2014 12:00:00 AM,9:30 am,Council Chamber
+1306,Executive Committee,Minutes,11/12/2014 12:00:00 AM,9:30 AM,River Valley Room
+1308,Transportation Committee,Minutes,11/13/2014 12:00:00 AM,1:30 PM,River Valley Room
+1307,Community Services Committee,Minutes,11/13/2014 12:00:00 AM,9:30 am,River Valley Room
+1474,CM and CA Performance Review Committee,Minutes,11/14/2014 12:00:00 AM,9:00 AM,OCC Boardroom
+1310,City Council Public Hearing,Minutes,11/17/2014 12:00:00 AM,1:30 pm,Council Chamber
+1312,City Council,Minutes,11/19/2014 12:00:00 AM,9:30 am,Council Chamber
+1313,Community Standards and Licence Appeal Committee,Minutes,11/20/2014 12:00:00 AM,9:30 AM,Churchill Building
+1314,City Council,Minutes,11/24/2014 12:00:00 AM,9:30 am,Council Chamber
+1494,Audit Selection Committee,Minutes,11/25/2014 12:00:00 AM,3:45 PM,River Valley Room
+1311,Audit Committee,Minutes,11/25/2014 12:00:00 AM,9:30 am,River Valley Room
+1495,CM and CA Performance Review Committee,Minutes,12/05/2014 12:00:00 AM,9:30 am,OCC Boardroom
+1496,City Council Budget,Past,12/12/2014 12:00:00 AM,9:30 am,Council Chamber
+1316,Agenda Review Committee,Past,12/15/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1317,City Council Public Hearing,Minutes,12/15/2014 12:00:00 AM,1:30 pm,Council Chamber
+1139,LRT Governance Board Committee,Minutes,12/16/2014 12:00:00 AM,10:30 AM,River Valley Room
+1318,City Council,Minutes,12/17/2014 12:00:00 AM,9:30 am,Council Chamber
+1315,City Council Budget,Minutes,11/26/2014 12:00:00 AM,9:30 am,Council Chamber
+1497,Special City Council,Past,12/31/2014 12:00:00 AM,9:30 am,Council Chamber
+1374,Agenda Review Committee,Past,01/12/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1373,Community Services Committee,Minutes,01/19/2015 12:00:00 AM,9:30 am,River Valley Room
+1372,Executive Committee,Minutes,01/20/2015 12:00:00 AM,9:30 AM,Council Chamber
+1371,Transportation Committee,Minutes,01/21/2015 12:00:00 AM,1:30 PM,River Valley Room
+1506,Special City Council,Minutes,01/21/2015 12:00:00 AM,9:30 am,Heritage Room
+1375,Agenda Review Committee,Past,01/26/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1377,City Council,Minutes,01/27/2015 12:00:00 AM,9:30 am,Council Chamber
+1376,City Council Public Hearing,Minutes,01/26/2015 12:00:00 AM,1:30 pm,Council Chamber
+1520,Special City Council,Past,02/02/2015 12:00:00 AM,1:30 PM,Council Chamber
+1380,Executive Committee,Minutes,02/03/2015 12:00:00 AM,9:30 AM,River Valley Room
+1379,Community Services Committee,Minutes,02/02/2015 12:00:00 AM,9:30 am,River Valley Room
+1381,Transportation Committee,Minutes,02/04/2015 12:00:00 AM,9:30 am,River Valley Room
+1382,Council Services Committee,Minutes,02/09/2015 12:00:00 AM,9:30 am,Councillors' Boardroom
+1498,City Council Public Hearing,Minutes,02/09/2015 12:00:00 AM,1:30 pm,Council Chamber
+1383,City Council,Minutes,02/10/2015 12:00:00 AM,9:30 am,Council Chamber
+1384,Audit Committee,Minutes,02/11/2015 12:00:00 AM,1:30 PM,River Valley Room
+1386,Agenda Review Committee,Past,02/17/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1387,Community Services Committee,Minutes,02/23/2015 12:00:00 AM,9:30 am,River Valley Room
+1388,Executive Committee,Minutes,02/24/2015 12:00:00 AM,9:30 AM,River Valley Room
+1389,Transportation Committee,Minutes,02/25/2015 12:00:00 AM,9:30 am,River Valley Room
+1390,Utility Committee,Minutes,02/26/2015 12:00:00 AM,9:30 AM,River Valley Room
+1391,Agenda Review Committee,Past,03/02/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1392,City Council Public Hearing,Minutes,03/02/2015 12:00:00 AM,1:30 pm,Council Chamber
+1499,LRT Governance Board Committee,Minutes,03/02/2015 12:00:00 AM,10:30 AM,River Valley Room
+1522,City Council Public Hearing,Past,03/04/2015 12:00:00 AM,1:15 PM,Council Chamber
+1393,City Council,Minutes,03/03/2015 12:00:00 AM,9:30 am,Council Chamber
+1521,CM and CA Performance Review Committee,Minutes,03/02/2015 12:00:00 AM,9:30 am,River Valley Room
+1397,Community Services Committee,Minutes,03/05/2015 12:00:00 AM,9:30 am,Councillors' Boardroom
+1395,Community Services Committee,Minutes,03/09/2015 12:00:00 AM,9:30 am,River Valley Room
+1398,Transportation Committee,Minutes,03/11/2015 12:00:00 AM,9:30 am,River Valley Room
+1396,Executive Committee,Minutes,03/10/2015 12:00:00 AM,9:30 AM,River Valley Room
+1399,Executive Committee,Minutes,03/12/2015 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1400,Agenda Review Committee,Past,03/16/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1510,Community Standards and Licence Appeal Committee,Minutes,02/05/2015 12:00:00 AM,9:30 AM,Churchill Building
+1511,Community Standards and Licence Appeal Committee,Minutes,02/11/2015 12:00:00 AM,9:30 AM,Churchill Building
+1512,Community Standards and Licence Appeal Committee,Past,03/18/2015 12:00:00 AM,1:30 pm,Churchill Building
+1401,City Council Public Hearing,Minutes,03/16/2015 12:00:00 AM,1:30 pm,Council Chamber
+1402,City Council,Minutes,03/17/2015 12:00:00 AM,9:30 am,Council Chamber
+1403,Community Services Committee,Minutes,03/19/2015 12:00:00 AM,8:30 AM,Councillors' Boardoom
+1404,Community Services Committee,Minutes,03/23/2015 12:00:00 AM,9:30 am,River Valley Room
+1555,Special Community Services Committee,Minutes,08/17/2015 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1537,City Council,Past,06/07/2015 12:00:00 AM,9:30 am,Council Chamber
+1408,Agenda Review Committee,Past,04/13/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1459,City Council Public Hearing,Minutes,09/08/2015 12:00:00 AM,1:30 pm,Council Chamber
+1432,City Council,Minutes,06/10/2015 12:00:00 AM,9:30 am,Council Chamber
+1515,Community Standards and Licence Appeal Committee,Minutes,07/09/2015 12:00:00 AM,9:30 AM,Churchill Building
+1564,City Manager Recruitment Committee,Minutes,09/30/2015 12:00:00 AM,12:00 PM,OCC
+1447,City Council,Minutes,07/07/2015 12:00:00 AM,9:30 am,Council Chamber
+1540,Special Transportation Committee,Past,06/17/2015 12:00:00 AM,12:00 PM,NA
+1534,Community Standards and Licence Appeal Committee,Minutes,06/02/2015 12:00:00 AM,9:30 AM,Churchill Building
+1452,Agenda Review Committee,Past,08/24/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1565,Audit Committee,Past,02/01/2015 12:00:00 AM,9:30 am,River Valley Room
+1517,Community Standards and Licence Appeal Committee,Minutes,09/10/2015 12:00:00 AM,9:30 AM,Churchill Building
+1417,City Council,Minutes,04/28/2015 12:00:00 AM,9:30 am,Council Chamber
+1529,Special Audit Committee,Minutes,04/15/2015 12:00:00 AM,6:30 PM,Councillors' Boardroom
+1544,Special Audit Committee,Minutes,08/24/2015 12:00:00 AM,9:30 am,River Valley Room
+1431,City Council Public Hearing,Minutes,06/09/2015 12:00:00 AM,1:30 pm,Council Chamber
+1454,City Council,Minutes,08/25/2015 12:00:00 AM,9:30 am,Council Chamber
+1436,Agenda Review Committee,Past,06/22/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1427,Community Services Committee,Minutes,05/25/2015 12:00:00 AM,9:30 am,River Valley Room
+1559,Special Executive Committee,Minutes,09/16/2015 12:00:00 AM,1:30 PM,Council Chamber
+1562,CM and CA Performance Review Committee,Minutes,09/22/2015 12:00:00 AM,12:00 PM,OCC Boardroom
+1405,Transportation Committee,Minutes,03/25/2015 12:00:00 AM,9:30 am,River Valley Room
+1439,City Council,Minutes,06/23/2015 12:00:00 AM,9:30 am,Council Chamber
+1546,CM and CA Performance Review Committee,Minutes,07/07/2015 12:00:00 AM,12:15 PM,OCC Boardroom
+1420,Community Services Committee,Minutes,05/04/2015 12:00:00 AM,9:30 am,River Valley Room
+1435,Transportation Committee,Minutes,06/17/2015 12:00:00 AM,2:00 PM,River Valley Room
+1461,Community Services Committee,Minutes,09/14/2015 12:00:00 AM,9:30 am,River Valley Room
+1467,Community Services Committee,Minutes,10/05/2015 12:00:00 AM,9:30 am,River Valley Room
+1502,LRT Governance Board Committee,Minutes,08/26/2015 12:00:00 AM,10:30 AM,River Valley Room
+1441,Utility Committee,Minutes,06/25/2015 12:00:00 AM,9:30 AM,River Valley Room
+1460,City Council,Minutes,09/09/2015 12:00:00 AM,9:30 am,Council Chamber
+1443,Transportation Committee,Minutes,06/29/2015 12:00:00 AM,1:30 PM,Council Chamber
+1450,Executive Committee,Minutes,08/18/2015 12:00:00 AM,9:30 AM,River Valley Room
+1421,Executive Committee,Minutes,05/05/2015 12:00:00 AM,9:30 AM,River Valley Room
+1423,City Council Public Hearing,Minutes,05/11/2015 12:00:00 AM,1:30 pm,Council Chamber
+1533,Community Standards and Licence Appeal Committee,Minutes,05/14/2015 12:00:00 AM,1:30 pm,Churchill Building
+1406,Executive Committee,Minutes,03/26/2015 12:00:00 AM,9:30 AM,Councillors' Lounge
+1446,City Council Public Hearing,Minutes,07/06/2015 12:00:00 AM,1:30 pm,Council Chamber
+1532,Special Community Services Committee,Minutes,05/20/2015 12:00:00 AM,9:30 am,River Valley Room
+1429,Transportation Committee,Minutes,05/27/2015 12:00:00 AM,9:30 am,Council Chambers
+1514,Community Standards and Licence Appeal Committee,Minutes,06/18/2015 12:00:00 AM,9:30 AM,Churchill Building
+1437,Audit Committee,Minutes,06/22/2015 12:00:00 AM,9:30 am,River Valley Room
+1568,Audit Selection Committee,Past,09/08/2015 12:00:00 AM,3:30 PM,Councillor's Boardroom
+1449,Community Services Committee,Minutes,08/17/2015 12:00:00 AM,9:30 am,River Valley Room
+1415,Agenda Review Committee,Past,04/27/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1536,Special Audit Committee,Agenda,05/25/2015 12:00:00 AM,4:00 PM,Councillors' Boardroom
+1430,Agenda Review Committee,Past,06/09/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1412,Community Services Committee,Minutes,04/20/2015 12:00:00 AM,9:30 am,River Valley Room
+1453,City Council Public Hearing,Minutes,08/24/2015 12:00:00 AM,1:30 pm,Council Chamber
+1414,Transportation Committee,Minutes,04/22/2015 12:00:00 AM,9:30 am,River Valley Room
+1422,Transportation Committee,Minutes,05/06/2015 12:00:00 AM,9:30 am,River Valley Room
+1500,LRT Governance Board Committee,Minutes,05/11/2015 12:00:00 AM,10:30 AM,River Valley Room
+1513,Community Standards and Licence Appeal Committee,Agenda,04/16/2015 12:00:00 AM,9:30 AM,Churchill Building
+1416,City Council Public Hearing,Minutes,04/27/2015 12:00:00 AM,1:30 pm,Council Chamber
+1560,Special CS and LA Committee,Minutes,09/21/2015 12:00:00 AM,10:00 AM,Churchill Building
+1456,Community Services Committee,Minutes,08/31/2015 12:00:00 AM,9:30 am,River Valley Room
+1413,Executive Committee,Minutes,04/21/2015 12:00:00 AM,9:30 AM,River Valley Room
+1464,Agenda Review Committee,Past,09/21/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1433,Community Services Committee,Minutes,06/15/2015 12:00:00 AM,9:30 am,Council Chamber
+1465,City Council Public Hearing,Minutes,09/21/2015 12:00:00 AM,1:30 pm,Council Chamber
+1563,Special City Council,Minutes,09/21/2015 12:00:00 AM,9:30 am,Council Chamber
+1425,Agenda Review Committee,Past,05/19/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1462,Executive Committee,Minutes,09/15/2015 12:00:00 AM,9:30 AM,River Valley Room
+1518,Community Standards and Licence Appeal Committee,Past,10/01/2015 12:00:00 AM,9:30 AM,Churchill Building
+1445,Council Services Committee,Minutes,07/06/2015 12:00:00 AM,9:30 am,Councillors' Boardroom
+1516,Community Standards and Licence Appeal Committee,Minutes,08/20/2015 12:00:00 AM,9:30 AM,Churchill Building
+1463,Transportation Committee,Minutes,09/16/2015 12:00:00 AM,9:30 am,River Valley Room
+1531,Special Executive Committee,Minutes,05/13/2015 12:00:00 AM,9:30 AM,River Valley Room
+1419,Utility Committee,Minutes,04/30/2015 12:00:00 AM,9:30 AM,River Valley Room
+1438,City Council Public Hearing,Minutes,06/22/2015 12:00:00 AM,1:30 pm,Council Chamber
+1434,Executive Committee,Minutes,06/16/2015 12:00:00 AM,9:30 AM,River Valley Room
+1457,Transportation Committee,Minutes,09/02/2015 12:00:00 AM,9:30 am,River Valley Room
+1455,Utility Committee,Minutes,08/27/2015 12:00:00 AM,9:30 AM,River Valley Room
+1554,Special City Council,Minutes,08/17/2015 12:00:00 AM,1:30 PM,Council Chamber
+1545,Special Executive Committee,Minutes,07/08/2015 12:00:00 AM,9:30 am,River Valley Room
+1428,Executive Committee,Minutes,05/26/2015 12:00:00 AM,9:30 AM,River Valley Room
+1424,City Council,Minutes,05/12/2015 12:00:00 AM,9:30 am,Council Chamber
+1411,City Council,Minutes,04/14/2015 12:00:00 AM,9:30 am,Council Chamber
+1458,Agenda Review Committee,Past,09/08/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1557,LRT Governance Board Committee,Minutes,09/04/2015 12:00:00 AM,2:30 PM,River Valley Room
+1448,Agenda Review Committee,Past,08/10/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1409,City Council Public Hearing,Minutes,04/13/2015 12:00:00 AM,1:30 pm,Council Chamber
+1410,Audit Committee,Minutes,04/15/2015 12:00:00 AM,1:30 PM,River Valley Room
+1548,Special Audit Committee,Minutes,07/08/2015 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1550,CM and CA Performance Review Committee,Minutes,09/04/2015 12:00:00 AM,9:00 AM,Councillors' Boardroom
+1541,Transportation Committee,Minutes,06/15/2015 12:00:00 AM,9:00 AM,Councillors Boardroom
+1426,City Council,Minutes,05/20/2015 12:00:00 AM,1:30 PM,Council Chamber
+1385,Executive Committee,Minutes,03/24/2015 12:00:00 AM,9:30 AM,River Valley Room
+1418,City Council,Minutes,04/29/2015 12:00:00 AM,9:30 am,Council Chamber
+1466,City Council,Minutes,09/22/2015 12:00:00 AM,9:30 am,Council Chamber
+1440,City Council,Minutes,06/24/2015 12:00:00 AM,9:30 am,River Valley Room
+1501,LRT Governance Board Committee,Minutes,07/09/2015 12:00:00 AM,10:30 AM,River Valley Room
+1451,Transportation Committee,Minutes,08/19/2015 12:00:00 AM,9:30 am,River Valley Room
+1444,Executive Committee,Minutes,06/30/2015 12:00:00 AM,9:30 AM,River Valley Room
+1442,Community Services Committee,Minutes,06/29/2015 12:00:00 AM,9:30 am,River Valley Room
+1469,Transportation Committee,Minutes,10/07/2015 12:00:00 AM,9:30 am,River Valley Room
+1525,Executive Committee,Minutes,09/01/2015 12:00:00 AM,9:30 AM,River Valley Room
+1569,Audit Selection Committee,Minutes,10/08/2015 12:00:00 AM,3:30 PM,Councillor's Boardroom
+1470,Audit Committee,Minutes,10/08/2015 12:00:00 AM,1:30 PM,River Valley Room
+1468,Executive Committee,Minutes,10/05/2015 12:00:00 AM,1:30 PM,River Valley Room
+1567,Special City Council,Minutes,10/14/2015 12:00:00 AM,9:00 AM,Amiskwaciy Academy
+1471,Agenda Review Committee,Past,10/19/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1575,Special CS and LA Committee,Minutes,10/15/2015 12:00:00 AM,9:30 AM,River Valley Room
+1572,City Manager Recruitment Committee,Minutes,10/20/2015 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1472,Council Services Committee,Minutes,10/19/2015 12:00:00 AM,9:30 am,River Valley Room
+1473,City Council Public Hearing,Minutes,10/19/2015 12:00:00 AM,1:30 pm,Council Chamber
+1579,City Council,Minutes,10/21/2015 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1475,City Council,Minutes,10/20/2015 12:00:00 AM,9:30 am,Council Chamber
+1583,Special CS and LA Committee,Past,10/26/2015 12:00:00 AM,9:30 AM,Hearing Room 3
+1477,Community Services Committee,Minutes,10/26/2015 12:00:00 AM,9:30 am,River Valley Room
+1478,Executive Committee,Minutes,10/27/2015 12:00:00 AM,9:30 AM,River Valley Room
+1479,Transportation Committee,Minutes,10/28/2015 12:00:00 AM,9:30 am,River Valley Room
+1482,Agenda Review Committee,Past,11/02/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1480,Utility Committee,Minutes,10/29/2015 12:00:00 AM,9:30 AM,River Valley Room
+1573,City Manager Recruitment Committee,Minutes,10/22/2015 12:00:00 AM,8:00 AM,Councillors'  Boardroom
+1483,City Council Public Hearing,Minutes,11/02/2015 12:00:00 AM,1:30 pm,Council Chamber
+1570,Special Utility Committee,Past,11/05/2015 12:00:00 AM,9:30 am,River Valley Room
+1481,City Council,Minutes,11/03/2015 12:00:00 AM,9:30 am,Council Chamber
+1610,City Manager Recruitment Committee,Minutes,11/05/2015 12:00:00 AM,9:00 AM,Councillors' Boardroom
+1484,Community Services Committee,Minutes,11/09/2015 12:00:00 AM,9:30 am,River Valley Room
+1571,LRT Governance Board Committee,Minutes,11/09/2015 12:00:00 AM,12:00 PM,River Valley Room
+1486,Executive Committee,Minutes,11/10/2015 12:00:00 AM,9:30 AM,River Valley Room
+1519,Community Standards and Licence Appeal Committee,Minutes,11/05/2015 12:00:00 AM,9:30 AM,Churchill Building
+1485,Transportation Committee,Minutes,11/09/2015 12:00:00 AM,1:30 PM,River Valley Room
+1488,Agenda Review Committee,Past,11/16/2015 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1487,Audit Committee,Minutes,11/12/2015 12:00:00 AM,1:30 PM,River Valley Room
+1489,City Council Public Hearing,Minutes,11/16/2015 12:00:00 AM,1:30 pm,Council Chamber
+1490,City Council,Minutes,11/17/2015 12:00:00 AM,9:30 am,Council Chamber
+1491,City Council,Minutes,11/18/2015 12:00:00 AM,9:30 am,Councillors' Boardroom
+1492,City Council,Minutes,11/23/2015 12:00:00 AM,1:30 PM,Council Chamber
+1503,LRT Governance Board Committee,Minutes,11/25/2015 12:00:00 AM,10:30 AM,River Valley Room
+1576,Special Executive Committee,Minutes,11/26/2015 12:00:00 AM,9:30 am,River Valley Room
+1640,City Manager Recruitment Committee,Minutes,12/02/2015 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1638,CM and CA Performance Review Committee,Minutes,11/25/2015 12:00:00 AM,9:30 am,Bunker
+1670,CM and CA Performance Review Committee,Minutes,12/08/2015 12:00:00 AM,12:00 PM,OCC Boardroom
+1577,Special Executive Committee,Minutes,12/07/2015 12:00:00 AM,9:30 am,River Valley Room
+1639,Special City Council,Minutes,12/03/2015 12:00:00 AM,3:45 PM,Council Chamber
+1523,City Council Budget,Minutes,11/27/2015 12:00:00 AM,9:30 am,Council Chamber
+1504,City Council Public Hearing,Minutes,12/14/2015 12:00:00 AM,1:30 pm,Council Chamber
+1505,City Council,Minutes,12/15/2015 12:00:00 AM,9:30 am,Council Chamber
+1584,Agenda Review Committee,Past,01/11/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1581,Executive Committee,Minutes,01/19/2016 12:00:00 AM,9:30 AM,River Valley Room
+1740,Special Audit Committee,Minutes,01/20/2016 12:00:00 AM,12:00 PM,OCC Boardroom
+1585,Community Services Committee,Minutes,01/18/2016 12:00:00 AM,9:30 am,River Valley Room
+1586,Transportation Committee,Minutes,01/20/2016 12:00:00 AM,9:30 am,River Valley Room
+1738,City Manager Recruitment Committee,Minutes,01/18/2016 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1587,Agenda Review Committee,Past,01/25/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1588,City Council Public Hearing,Minutes,01/25/2016 12:00:00 AM,1:30 pm,Council Chamber
+1589,City Council,Minutes,01/26/2016 12:00:00 AM,9:30 am,Council Chamber
+1591,Community Services Committee,Minutes,02/01/2016 12:00:00 AM,9:30 am,River Valley Room
+1741,Community Standards and Licence Appeal Committee,Agenda,02/04/2016 12:00:00 AM,9:30 AM,Hearing Room 3
+1593,Transportation Committee,Minutes,02/03/2016 12:00:00 AM,9:30 am,River Valley Room
+1592,Executive Committee,Minutes,02/02/2016 12:00:00 AM,9:30 AM,River Valley Room
+1594,Agenda Review Committee,Past,02/08/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1736,CM and CA Performance Review Committee,Minutes,02/08/2016 12:00:00 AM,12:00 PM,OCC Boardroom
+1595,Agenda Review Committee,Past,02/16/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1672,Special City Council,Agenda,02/26/2016 12:00:00 AM,1:30 PM,Council Chamber
+1671,City Council,Minutes,02/16/2016 12:00:00 AM,9:30 am,Council Chamber
+1597,City Council Public Hearing,Minutes,02/17/2016 12:00:00 AM,1:30 pm,Council Chamber
+1596,Council Services Committee,Minutes,02/19/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1742,City Manager Recruitment Committee,Minutes,02/19/2016 12:00:00 AM,12:00 PM,OCC
+1566,Audit Committee,Minutes,02/19/2016 12:00:00 AM,1:30 PM,River Valley Room
+1609,Community Services Committee,Minutes,02/22/2016 12:00:00 AM,9:30 am,River Valley Room
+1635,Transportation Committee,Minutes,02/24/2016 12:00:00 AM,9:30 am,River Valley Room
+1668,LRT Governance Board Committee,Minutes,02/23/2016 12:00:00 AM,10:30 AM,Council Chamber
+1598,Executive Committee,Minutes,02/23/2016 12:00:00 AM,9:30 AM,River Valley Room
+1653,Agenda Review Committee,Past,02/29/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1582,Utility Committee,Minutes,02/26/2016 12:00:00 AM,9:30 AM,River Valley Room
+1677,City Council Public Hearing,Minutes,02/29/2016 12:00:00 AM,1:30 pm,Council Chamber
+1547,City Council,Minutes,03/01/2016 12:00:00 AM,9:30 am,Council Chamber
+1745,Community Services Committee,Minutes,03/03/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1737,CM and CA Performance Review Committee,Minutes,03/07/2016 12:00:00 AM,12:00 PM,OCC Boardroom
+1599,Executive Committee,Minutes,03/08/2016 12:00:00 AM,9:30 AM,River Valley Room
+1613,Community Services Committee,Minutes,03/07/2016 12:00:00 AM,9:30 am,River Valley Room
+1636,Transportation Committee,Minutes,03/09/2016 12:00:00 AM,9:30 am,River Valley Room
+1749,Community Standards and Licence Appeal Committee,Agenda,03/18/2016 12:00:00 AM,9:30 AM,Hearing Room 3
+1654,Agenda Review Committee,Past,03/14/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1746,Executive Committee,Minutes,03/10/2016 12:00:00 AM,1:30 PM,Councillor's Boardroom
+1748,Community Services Committee,Past,03/17/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1678,City Council Public Hearing,Minutes,03/14/2016 12:00:00 AM,1:30 pm,Council Chamber
+1265,Agenda Review Committee,Past,08/25/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1330,Special City Council,Minutes,04/23/2014 12:00:00 AM,9:30 am,Heritage Room
+1309,Agenda Review Committee,Past,11/17/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1151,Agenda Review Committee,Past,11/04/2013 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1182,Agenda Review Committee,Past,02/24/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1243,Agenda Review Committee,Past,06/23/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1296,Agenda Review Committee,Past,10/20/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1190,Agenda Review Committee,Past,03/10/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1205,Agenda Review Committee,Past,04/14/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1234,Agenda Review Committee,Past,06/09/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1271,Agenda Review Committee,Past,09/08/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1281,Agenda Review Committee,Past,09/22/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1289,Agenda Review Committee,Past,10/06/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1260,Agenda Review Committee,Past,08/11/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1221,Agenda Review Committee,Past,05/12/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1155,Agenda Review Committee,Past,01/13/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1166,Agenda Review Committee,Past,01/27/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1674,City Council,Minutes,03/15/2016 12:00:00 AM,9:30 am,Council Chamber
+1303,Agenda Review Committee,Past,11/03/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1228,Agenda Review Committee,Past,05/26/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1175,Agenda Review Committee,Past,02/10/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1213,Agenda Review Committee,Past,04/28/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1198,Agenda Review Committee,Past,03/24/2014 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1152,Agenda Review Committee,Past,11/18/2013 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1747,Special Community Services Committee,Minutes,03/16/2016 12:00:00 AM,1:30 PM,Councillors' Lounge
+1612,Community Services Committee,Minutes,03/21/2016 12:00:00 AM,9:30 am,River Valley Room
+1637,Transportation Committee,Minutes,03/23/2016 12:00:00 AM,9:30 am,River Valley Room
+1600,Executive Committee,Minutes,03/22/2016 12:00:00 AM,9:30 AM,River Valley Room
+1758,Executive Committee,Minutes,03/24/2016 12:00:00 AM,9:30 AM,Councillors' Boardroom
+1759,Special Executive Committee,Agenda,04/06/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1655,Agenda Review Committee,Past,04/04/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1750,Community Standards and Licence Appeal Committee,Past,04/07/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1679,City Council Public Hearing,Minutes,04/04/2016 12:00:00 AM,1:30 pm,Council Chamber
+1676,City Council,Minutes,04/05/2016 12:00:00 AM,9:30 am,Council Chamber
+1614,Community Services Committee,Minutes,04/11/2016 12:00:00 AM,9:30 am,River Valley Room
+1673,City Council,Minutes,03/02/2016 12:00:00 AM,1:30 PM,Council Chamber
+1641,Transportation Committee,Minutes,04/13/2016 12:00:00 AM,9:30 am,River Valley Room
+1601,Executive Committee,Minutes,04/12/2016 12:00:00 AM,9:30 AM,River Valley Room
+1656,Agenda Review Committee,Past,04/18/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1732,Audit Committee,Minutes,04/15/2016 12:00:00 AM,9:30 am,River Valley Room
+1669,LRT Governance Board Committee,Minutes,04/14/2016 12:00:00 AM,10:30 AM,River Valley Room
+1726,Utility Committee,Minutes,04/22/2016 12:00:00 AM,9:30 AM,River Valley Room
+1680,City Council Public Hearing,Minutes,04/18/2016 12:00:00 AM,1:30 pm,Council Chamber
+1694,City Council,Minutes,04/19/2016 12:00:00 AM,9:30 am,Council Chamber
+1617,Community Services Committee,Minutes,04/25/2016 12:00:00 AM,9:30 AM,River Valley Room
+1642,Transportation Committee,Minutes,04/27/2016 12:00:00 AM,9:30 am,River Valley Room
+1766,City Council,Agenda,04/29/2016 12:00:00 AM,9:30 am,Council Chamber
+1751,Community Standards and Licence Appeal Committee,Agenda,05/05/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1602,Executive Committee,Minutes,04/26/2016 12:00:00 AM,9:30 AM,River Valley Room
+1695,City Council,Minutes,04/28/2016 12:00:00 AM,9:30 am,Council Chamber
+1657,Agenda Review Committee,Past,05/02/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1681,City Council Public Hearing,Minutes,05/02/2016 12:00:00 AM,1:30 pm,Council Chamber
+1697,City Council,Minutes,05/03/2016 12:00:00 AM,9:30 am,Council Chamber
+1767,Special Audit Committee,Minutes,05/11/2016 12:00:00 AM,1:15 PM,River Valley Room
+1603,Executive Committee,Minutes,05/10/2016 12:00:00 AM,9:30 AM,River Valley Room
+1643,Transportation Committee,Minutes,05/11/2016 12:00:00 AM,9:30 am,River Valley Room
+1615,Community Services Committee,Minutes,05/09/2016 12:00:00 AM,9:30 am,River Valley Room
+1765,CM and CA Performance Review Committee,Minutes,05/09/2016 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1743,City Manager Recruitment Committee,Minutes,02/24/2016 12:00:00 AM,1:00 PM,Councillors' Boardroom
+1727,Utility Committee,Agenda,05/27/2016 12:00:00 AM,9:30 AM,River Valley Room
+1658,Agenda Review Committee,Past,05/24/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1682,City Council Public Hearing,Minutes,05/25/2016 12:00:00 AM,1:30 pm,Council Chamber
+1699,City Council,Past,05/26/2016 12:00:00 AM,1:30 PM,Council Chamber
+1698,City Council,Minutes,05/24/2016 12:00:00 AM,9:30 am,Council Chamber
+1616,Community Services Committee,Minutes,05/30/2016 12:00:00 AM,9:30 am,River Valley Room
+1739,Transportation Committee,Minutes,06/01/2016 12:00:00 AM,9:30 am,River Valley Room
+1604,Executive Committee,Minutes,05/31/2016 12:00:00 AM,9:30 AM,River Valley Room
+1769,Special City Council,Minutes,05/31/2016 12:00:00 AM,12:10 PM,Council Chamber
+1752,Community Standards and Licence Appeal Committee,Past,06/02/2016 12:00:00 AM,9:00 AM,Hearing Room No. 3
+1772,CM and CA Performance Review Committee,Minutes,06/06/2016 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1659,Agenda Review Committee,Past,06/13/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1733,Audit Committee,Minutes,06/13/2016 12:00:00 AM,9:30 am,River Valley Room
+1701,City Council,Past,06/15/2016 12:00:00 AM,1:30 PM,River Valley Room
+1683,City Council Public Hearing,Minutes,06/13/2016 12:00:00 AM,1:30 pm,Council Chamber
+1774,Special City Council,Minutes,06/20/2016 12:00:00 AM,3:45 PM,Council Chamber
+1700,City Council,Minutes,06/14/2016 12:00:00 AM,9:30 am,Council Chamber
+1605,Executive Committee,Minutes,06/21/2016 12:00:00 AM,9:30 AM,River Valley Room
+1764,City Council,Past,06/23/2016 12:00:00 AM,9:30 am,Council Chamber
+1644,Transportation Committee,Minutes,06/22/2016 12:00:00 AM,9:30 am,River Valley Room
+1508,Community Services Committee,Minutes,06/20/2016 12:00:00 AM,9:30 am,River Valley Room
+1660,Agenda Review Committee,Past,06/27/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1728,Utility Committee,Minutes,06/24/2016 12:00:00 AM,9:30 AM,River Valley Room
+1724,Council Services Committee,Minutes,06/27/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1684,City Council Public Hearing,Minutes,06/27/2016 12:00:00 AM,1:30 pm,Council Chamber
+1703,City Council,Past,06/30/2016 12:00:00 AM,9:30 am,Council Chamber
+1688,City Council Public Hearing,Minutes,09/19/2016 12:00:00 AM,1:30 pm,Council Chamber
+1795,Agenda Review Committee,Past,10/11/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1771,Special Utility Committee,Minutes,10/14/2016 12:00:00 AM,9:30 am,River Valley Room
+1702,City Council,Minutes,06/28/2016 12:00:00 AM,9:30 am,Council Chamber
+1619,Community Services Committee,Minutes,07/04/2016 12:00:00 AM,9:30 am,River Valley Room
+1706,City Council,Agenda,07/13/2016 12:00:00 AM,1:30 PM,Council Chamber
+1778,Special Audit Committee,Minutes,07/05/2016 12:00:00 AM,12:15 PM,Council Chamber
+1645,Transportation Committee,Minutes,07/05/2016 12:00:00 AM,9:30 am,River Valley Room
+1704,City Council,Past,07/07/2016 12:00:00 AM,1:30 PM,Council Chamber
+1628,Executive Committee,Minutes,07/06/2016 12:00:00 AM,9:30 AM,River Valley Room
+1685,City Council Public Hearing,Minutes,07/11/2016 12:00:00 AM,1:30 pm,Council Chamber
+1705,City Council,Minutes,07/12/2016 12:00:00 AM,9:30 am,Council Chamber
+1753,Community Standards and Licence Appeal Committee,Minutes,07/14/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1661,Agenda Review Committee,Past,08/08/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1781,Special Audit Committee,Minutes,08/15/2016 12:00:00 AM,12:15 PM,River Valley Room
+1606,Executive Committee,Minutes,08/16/2016 12:00:00 AM,9:30 AM,River Valley Room
+1620,Community and Public Services Committee,Minutes,08/15/2016 12:00:00 AM,9:30 am,River Valley Room
+1646,Urban Planning Committee,Minutes,08/17/2016 12:00:00 AM,9:30 am,River Valley Room
+1662,Agenda Review Committee,Past,08/22/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1686,City Council Public Hearing,Minutes,08/22/2016 12:00:00 AM,1:30 pm,Council Chamber
+1783,Audit Selection Committee,Minutes,08/25/2016 12:00:00 AM,3:30 PM,Councillor's Boardroom
+1729,Utility Committee,Minutes,08/24/2016 12:00:00 AM,1:30 PM,River Valley Room
+1707,City Council,Minutes,08/23/2016 12:00:00 AM,9:30 am,Council Chamber
+1621,Community and Public Services Committee,Minutes,08/29/2016 12:00:00 AM,9:30 am,River Valley Room
+1629,Executive Committee,Minutes,08/30/2016 12:00:00 AM,9:30 AM,River Valley Room
+1730,Utility Committee,Past,09/01/2016 12:00:00 AM,9:30 AM,River Valley Room
+1647,Urban Planning Committee,Minutes,08/31/2016 12:00:00 AM,9:30 am,River Valley Room
+1779,Special City Council,Minutes,08/31/2016 12:00:00 AM,1:30 PM,Council Chamber
+1663,Agenda Review Committee,Past,09/06/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1687,City Council Public Hearing,Minutes,09/07/2016 12:00:00 AM,1:30 pm,Council Chamber
+1709,Community and Public Services Committee,Minutes,09/12/2016 12:00:00 AM,9:30 am,River Valley Room
+1630,Executive Committee,Minutes,09/13/2016 12:00:00 AM,9:30 AM,River Valley Room
+1549,Community and Public Services Committee,Minutes,09/12/2016 12:00:00 AM,9:30 am,River Valley Room
+1664,Agenda Review Committee,Past,09/19/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1788,Special City Council,Minutes,09/13/2016 12:00:00 AM,4:00 PM,Council Chamber
+1648,Urban Planning Committee,Minutes,09/14/2016 12:00:00 AM,9:30 am,River Valley Room
+1755,Community Standards and Licence Appeal Committee,Minutes,09/15/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1711,City Council,Minutes,09/20/2016 12:00:00 AM,9:30 am,Council Chamber
+1754,Community Standards and Licence Appeal Committee,Minutes,08/18/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1623,Community and Public Services Committee,Minutes,09/26/2016 12:00:00 AM,9:30 am,River Valley Room
+1607,Executive Committee,Minutes,09/27/2016 12:00:00 AM,9:30 AM,River Valley Room
+1790,CM and CA Performance Review Committee,Minutes,09/27/2016 12:00:00 AM,12:00 PM,OCC Boardroom
+1665,Agenda Review Committee,Past,10/03/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1734,Audit Committee,Minutes,09/29/2016 12:00:00 AM,1:30 PM,River Valley Room
+1649,Urban Planning Committee,Minutes,09/28/2016 12:00:00 AM,9:30 am,River Valley Room
+1689,City Council Public Hearing,Minutes,10/13/2016 12:00:00 AM,1:30 pm,Council Chamber
+1816,Pending - Urban Planning Committee,Past,10/18/2016 12:00:00 AM,8:30 AM,NA
+1713,City Council,Minutes,10/11/2016 12:00:00 AM,9:30 am,Council Chamber
+1631,Executive Committee,Minutes,10/18/2016 12:00:00 AM,9:30 AM,River Valley Room
+1624,Community and Public Services Committee,Minutes,10/17/2016 12:00:00 AM,9:30 am,River Valley Room
+1792,Audit Selection Committee,Minutes,10/20/2016 12:00:00 AM,3:30 PM,Councillors' Boardroom
+1650,Urban Planning Committee,Minutes,10/19/2016 12:00:00 AM,9:30 am,River Valley Room
+1716,City Council,Minutes,10/20/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1666,Agenda Review Committee,Past,10/24/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1821,Special Audit Committee,Minutes,10/25/2016 12:00:00 AM,3:30 PM,River Valley Room
+1725,Council Services Committee,Minutes,10/24/2016 12:00:00 AM,9:30 am,Councillors' Boardroom
+1690,City Council Public Hearing,Minutes,10/24/2016 12:00:00 AM,1:30 pm,Council Chamber
+1714,City Council,Minutes,10/25/2016 12:00:00 AM,9:30 am,Council Chamber
+1756,Community Standards and Licence Appeal Committee,Minutes,10/27/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1632,Executive Committee,Minutes,11/01/2016 12:00:00 AM,9:30 AM,River Valley Room
+1625,Community and Public Services Committee,Minutes,10/31/2016 12:00:00 AM,9:30 am,River Valley Room
+1651,Urban Planning Committee,Minutes,11/02/2016 12:00:00 AM,9:30 am,River Valley Room
+1839,Urban Planning Committee,Past,01/18/2016 12:00:00 AM,9:30 am,River Valley Room
+1840,Urban Planning Committee,Past,02/01/2016 12:00:00 AM,9:30 am,River Valley Room
+1667,Agenda Review Committee,Past,11/07/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1731,Utility Committee,Minutes,11/04/2016 12:00:00 AM,9:30 AM,River Valley Room
+1793,Audit Selection Committee,Minutes,11/03/2016 12:00:00 AM,3:30 PM,Councillors' Boardroom
+1691,City Council Public Hearing,Minutes,11/07/2016 12:00:00 AM,1:30 pm,Council Chamber
+1719,City Council,Minutes,11/09/2016 12:00:00 AM,1:30 PM,Heritage Room
+1849,Urban Planning Committee,Past,04/19/2016 12:00:00 AM,9:30 am,River Valley Room
+1717,City Council,Minutes,11/08/2016 12:00:00 AM,9:30 am,Council Chamber
+1866,City Council Public Hearing,Past,11/17/2016 12:00:00 AM,1:30 pm,Council Chamber
+1626,Community and Public Services Committee,Minutes,11/21/2016 12:00:00 AM,9:30 am,River Valley Room
+1760,Urban Planning Committee,Minutes,11/23/2016 12:00:00 AM,9:30 am,River Valley Room
+1633,Executive Committee,Minutes,11/22/2016 12:00:00 AM,9:30 AM,River Valley Room
+1735,Audit Committee,Minutes,11/24/2016 12:00:00 AM,8:30 AM,River Valley Room
+1757,Community Standards and Licence Appeal Committee,Minutes,11/03/2016 12:00:00 AM,9:30 AM,Hearing Room No. 3
+1928,Agenda Review Committee,Past,11/28/2016 12:00:00 AM,8:30 AM,Mayor's Boardroom
+1692,City Council Public Hearing,Minutes,11/28/2016 12:00:00 AM,1:30 pm,Council Chamber
+1611,City Council,Minutes,11/29/2016 12:00:00 AM,9:30 am,Council Chamber
+1720,City Council,Minutes,11/30/2016 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1627,Community and Public Services Committee,Minutes,12/05/2016 12:00:00 AM,9:30 am,River Valley Room
+1634,Executive Committee,Minutes,12/06/2016 12:00:00 AM,9:30 AM,River Valley Room
+1652,Urban Planning Committee,Minutes,12/07/2016 12:00:00 AM,9:30 am,River Valley Room
+1723,City Council,Minutes,12/15/2016 12:00:00 AM,9:30 am,Council Chamber
+1693,City Council Public Hearing,Minutes,12/12/2016 12:00:00 AM,1:30 pm,Council Chamber
+1722,City Council,Minutes,12/13/2016 12:00:00 AM,9:30 am,Council Chamber
+1815,City Council,Minutes,12/08/2016 12:00:00 AM,1:30 PM,Council Chamber
+1843,Agenda Review Committee,Past,01/10/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1844,Agenda Review Committee,Past,01/17/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1900,Community and Public Services Committee,Minutes,01/16/2017 12:00:00 AM,9:30 am,River Valley Room
+1797,Urban Planning Committee,Minutes,01/18/2017 12:00:00 AM,9:30 am,River Valley Room
+1804,Executive Committee,Minutes,01/17/2017 12:00:00 AM,9:30 AM,River Valley Room
+1845,Agenda Review Committee,Past,01/24/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1805,City Council,Minutes,01/25/2017 12:00:00 AM,1:30 PM,Heritage Room
+1901,Council Services Committee,Minutes,01/23/2017 12:00:00 AM,9:30 AM,Councillors' Boardroom
+1823,City Council Public Hearing,Minutes,01/23/2017 12:00:00 AM,1:30 pm,Council Chamber
+1798,City Council,Minutes,01/24/2017 12:00:00 AM,9:30 am,Council Chamber
+1875,Agenda Review Committee,Past,01/31/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1936,CM and CA Performance Review Committee,Minutes,01/27/2017 12:00:00 AM,9:30 am,OCC Boardroom
+1935,Special Executive Committee,Minutes,01/27/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1817,Executive Committee,Minutes,01/31/2017 12:00:00 AM,9:30 AM,River Valley Room
+1841,Urban Planning Committee,Minutes,02/01/2017 12:00:00 AM,9:30 am,River Valley Room
+1939,Special CS and LA Committee,Minutes,01/26/2017 12:00:00 AM,9:30 AM,River Valley Room
+1824,City Council Public Hearing,Minutes,02/06/2017 12:00:00 AM,1:30 pm,Council Chamber
+1876,Agenda Review Committee,Past,02/07/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1932,Community Standards and Licence Appeal Committee,Minutes,02/02/2017 12:00:00 AM,9:30 AM,Churchill Building
+1806,City Council,Minutes,02/07/2017 12:00:00 AM,9:30 am,Council Chamber
+1902,Audit Committee,Minutes,02/09/2017 12:00:00 AM,1:30 PM,River Valley Room
+1877,Agenda Review Committee,Past,02/14/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1903,Community and Public Services Committee,Minutes,02/13/2017 12:00:00 AM,9:30 am,River Valley Room
+1861,Urban Planning Committee,Minutes,02/15/2017 12:00:00 AM,9:30 am,River Valley Room
+1940,Special Audit Committee,Minutes,02/14/2017 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1784,Executive Committee,Minutes,02/14/2017 12:00:00 AM,9:30 AM,River Valley Room
+1878,Agenda Review Committee,Past,02/21/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1825,City Council Public Hearing,Minutes,02/22/2017 12:00:00 AM,1:30 pm,Council Chamber
+1808,City Council,Minutes,02/21/2017 12:00:00 AM,9:30 am,Council Chamber
+1879,Agenda Review Committee,Past,02/28/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1856,Community and Public Services Committee,Minutes,02/27/2017 12:00:00 AM,9:30 am,River Valley Room
+1802,Urban Planning Committee,Minutes,03/01/2017 12:00:00 AM,9:30 am,River Valley Room
+1820,Utility Committee,Minutes,02/24/2017 12:00:00 AM,9:30 AM,River Valley Room
+1857,Executive Committee,Minutes,02/28/2017 12:00:00 AM,9:30 AM,River Valley Room
+1880,Agenda Review Committee,Past,03/07/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1907,Community and Public Services Committee,Minutes,03/03/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1826,City Council Public Hearing,Minutes,03/06/2017 12:00:00 AM,1:30 pm,Council Chamber
+1941,Community Standards and Licence Appeal Committee,Minutes,03/02/2017 12:00:00 AM,9:30 AM,Churchill Building
+1799,City Council,Minutes,03/07/2017 12:00:00 AM,9:30 am,Council Chamber
+1898,Agenda Review Committee,Past,03/14/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1770,Community and Public Services Committee,Minutes,03/13/2017 12:00:00 AM,9:30 am,River Valley Room
+1761,Executive Committee,Minutes,03/14/2017 12:00:00 AM,9:30 AM,River Valley Room
+1858,Executive Committee,Minutes,03/16/2017 12:00:00 AM,1:30 PM,Councillors' Boardroom
+1881,Agenda Review Committee,Past,03/21/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1822,Urban Planning Committee,Minutes,03/15/2017 12:00:00 AM,9:30 am,River Valley Room
+1937,Council Services Committee,Minutes,03/20/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1827,City Council Public Hearing,Minutes,03/20/2017 12:00:00 AM,1:30 pm,Council Chamber
+1908,Community and Public Services Committee,Minutes,03/23/2017 12:00:00 AM,1:30 PM,Councillors' Lounge
+1809,City Council,Minutes,03/21/2017 12:00:00 AM,9:30 am,Council Chamber
+1847,Urban Planning Committee,Minutes,03/23/2017 12:00:00 AM,9:30 am,Councillors' Lounge
+1882,Agenda Review Committee,Past,04/04/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1796,Community and Public Services Committee,Minutes,04/03/2017 12:00:00 AM,9:30 am,River Valley Room
+1848,Urban Planning Committee,Minutes,04/05/2017 12:00:00 AM,9:30 am,River Valley Room
+1859,Executive Committee,Minutes,04/04/2017 12:00:00 AM,9:30 AM,River Valley Room
+1883,Agenda Review Committee,Past,04/11/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1828,City Council Public Hearing,Minutes,04/10/2017 12:00:00 AM,1:30 pm,Council Chamber
+1811,City Council,Minutes,04/11/2017 12:00:00 AM,9:30 am,Council Chamber
+1910,Audit Committee,Minutes,04/12/2017 12:00:00 AM,1:30 PM,River Valley Room
+1884,Agenda Review Committee,Past,04/18/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1947,Community Standards and Licence Appeal Committee,Minutes,04/06/2017 12:00:00 AM,9:30 AM,Churchill Building
+1911,Urban Planning Committee,Minutes,04/19/2017 12:00:00 AM,9:30 am,River Valley Room
+1813,City Council,Agenda,04/26/2017 12:00:00 AM,1:30 PM,Council Chamber
+1860,Executive Committee,Minutes,04/18/2017 12:00:00 AM,9:30 AM,River Valley Room
+1899,Agenda Review Committee,Past,04/25/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1912,Community and Public Services Committee,Minutes,04/21/2017 12:00:00 AM,9:30 am,River Valley Room
+1913,Utility Committee,Minutes,04/24/2017 12:00:00 AM,9:30 AM,River Valley Room
+1812,City Council,Minutes,04/25/2017 12:00:00 AM,9:30 am,Council Chamber
+1829,City Council Public Hearing,Minutes,04/24/2017 12:00:00 AM,1:30 pm,Council Chamber
+1885,Agenda Review Committee,Past,05/02/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1914,Community and Public Services Committee,Minutes,05/01/2017 12:00:00 AM,9:30 am,River Valley Room
+1952,Special City Council,Minutes,05/01/2017 12:00:00 AM,3:45 PM,Council Chamber
+1862,Executive Committee,Minutes,05/02/2017 12:00:00 AM,9:30 AM,River Valley Room
+1867,City Council,Past,05/05/2017 12:00:00 AM,9:30 am,Council Chamber
+1850,Urban Planning Committee,Minutes,05/03/2017 12:00:00 AM,9:30 am,River Valley Room
+1954,Community Standards and Licence Appeal Committee,Minutes,05/04/2017 12:00:00 AM,9:30 AM,Churchill Building
+1886,Agenda Review Committee,Past,05/09/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1915,Council Services Committee,Minutes,05/08/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1830,City Council Public Hearing,Minutes,05/08/2017 12:00:00 AM,1:30 pm,Council Chamber
+1868,City Council,Minutes,05/09/2017 12:00:00 AM,9:30 am,Council Chamber
+1956,Special Audit Committee,Minutes,05/11/2017 12:00:00 AM,3:45 PM,River Valley Room
+1887,Agenda Review Committee,Past,05/23/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1851,Urban Planning Committee,Minutes,05/24/2017 12:00:00 AM,9:30 am,River Valley Room
+1763,Executive Committee,Minutes,05/23/2017 12:00:00 AM,9:30 AM,River Valley Room
+1953,Special City Council,Minutes,05/23/2017 12:00:00 AM,3:45 PM,Council Chamber
+1888,Agenda Review Committee,Past,05/30/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1960,Special Audit Committee,Minutes,05/30/2017 12:00:00 AM,12:00 PM,River Valley Room
+1916,Community and Public Services Committee,Minutes,05/26/2017 12:00:00 AM,9:30 am,River Valley Room
+1831,City Council Public Hearing,Minutes,05/29/2017 12:00:00 AM,1:30 pm,Council Chamber
+1959,CM and CA Performance Review Committee,Minutes,05/26/2017 12:00:00 AM,12:00 PM,OCC Boardroom
+1869,City Council,Minutes,05/30/2017 12:00:00 AM,9:30 am,Council Chamber
+1889,Agenda Review Committee,Past,06/06/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1863,Executive Committee,Minutes,06/06/2017 12:00:00 AM,9:30 AM,River Valley Room
+1852,Urban Planning Committee,Minutes,06/07/2017 12:00:00 AM,9:30 am,River Valley Room
+1819,Community and Public Services Committee,Minutes,06/08/2017 12:00:00 AM,9:30 am,River Valley Room
+1890,Agenda Review Committee,Past,06/13/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1832,City Council Public Hearing,Minutes,06/12/2017 12:00:00 AM,1:30 pm,Council Chamber
+1918,Utility Committee,Minutes,06/09/2017 12:00:00 AM,9:30 AM,River Valley Room
+1938,Council Services Committee,Minutes,06/12/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1870,City Council,Minutes,06/14/2017 12:00:00 AM,1:30 PM,Council Chamber
+1800,City Council,Minutes,06/13/2017 12:00:00 AM,9:30 am,Council Chamber
+1891,Agenda Review Committee,Past,06/20/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1967,Community Standards and Licence Appeal Committee,Minutes,06/15/2017 12:00:00 AM,9:30 AM,Churchill Building
+1920,Community and Public Services Committee,Minutes,06/19/2017 12:00:00 AM,9:30 am,River Valley Room
+1762,Executive Committee,Minutes,06/20/2017 12:00:00 AM,9:30 AM,River Valley Room
+1803,Urban Planning Committee,Minutes,06/23/2017 12:00:00 AM,9:30 am,River Valley Room
+1892,Agenda Review Committee,Past,06/27/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1871,City Council,Minutes,06/27/2017 12:00:00 AM,9:30 am,Council Chamber
+1921,Audit Committee,Minutes,06/29/2017 12:00:00 AM,9:30 am,River Valley Room
+1833,City Council Public Hearing,Minutes,06/28/2017 12:00:00 AM,1:30 pm,Council Chamber
+1893,Agenda Review Committee,Past,07/04/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1864,Executive Committee,Minutes,07/04/2017 12:00:00 AM,9:30 AM,River Valley Room
+1922,Community and Public Services Committee,Minutes,07/06/2017 12:00:00 AM,9:30 am,River Valley Room
+1853,Urban Planning Committee,Minutes,07/05/2017 12:00:00 AM,9:30 am,River Valley Room
+1971,Council Compensation Committee,Minutes,07/07/2017 12:00:00 AM,2:00 PM,Office of the City Clerk Boardroom
+1834,City Council Public Hearing,Minutes,07/10/2017 12:00:00 AM,1:30 pm,Council Chamber
+1336,City Council,Minutes,07/11/2017 12:00:00 AM,9:30 am,Council Chamber
+1973,Community Standards and Licence Appeal Committee,Minutes,07/13/2017 12:00:00 AM,9:30 AM,Churchill Building
+1980,Council Compensation Committee,Minutes,08/10/2017 12:00:00 AM,2:00 PM,Office of the City Clerk Boardroom
+1894,Agenda Review Committee,Past,08/15/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1895,Agenda Review Committee,Past,08/22/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1924,Council Services Committee,Agenda,08/28/2017 12:00:00 AM,9:30 am,Councillors' Boardroom
+1984,Community Standards and Licence Appeal Committee,Agenda,08/24/2017 12:00:00 AM,1:30 pm,River Valley Room
+1923,Community and Public Services Committee,Minutes,08/21/2017 12:00:00 AM,9:30 am,River Valley Room
+1854,Urban Planning Committee,Minutes,08/23/2017 12:00:00 AM,9:30 am,River Valley Room
+1865,Executive Committee,Minutes,08/22/2017 12:00:00 AM,9:30 AM,River Valley Room
+1896,Agenda Review Committee,Past,08/29/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1835,City Council Public Hearing,Minutes,08/28/2017 12:00:00 AM,1:30 pm,Council Chamber
+1925,Utility Committee,Minutes,08/30/2017 12:00:00 AM,1:30 PM,River Valley Room
+1873,City Council,Minutes,08/29/2017 12:00:00 AM,9:30 am,Council Chamber
+1874,City Council,Past,09/01/2017 12:00:00 AM,9:30 am,Council Chamber
+1897,Agenda Review Committee,Past,09/05/2017 12:00:00 AM,8:45 AM,Mayor's Boardroom
+1777,Executive Committee,Minutes,09/05/2017 12:00:00 AM,9:30 AM,River Valley Room
+1855,Urban Planning Committee,Minutes,09/06/2017 12:00:00 AM,9:30 am,River Valley Room
+1768,Community and Public Services Committee,Minutes,09/07/2017 12:00:00 AM,9:30 am,River Valley Room
+1988,Special Executive Committee,Minutes,09/07/2017 12:00:00 AM,12:00 PM,Councillors' Boardroom
+1994,Community Standards and Licence Appeal Committee,Agenda,09/14/2017 12:00:00 AM,9:30 AM,Churchill Building
+1926,Audit Committee,Minutes,09/11/2017 12:00:00 AM,9:30 am,River Valley Room
+1836,City Council Public Hearing,Minutes,09/11/2017 12:00:00 AM,1:30 pm,Council Chamber
+1801,City Council,Minutes,09/12/2017 12:00:00 AM,9:30 am,Council Chamber
+1958,Executive Committee,Past,10/02/2017 12:00:00 AM,9:30 AM,River Valley Room
+2066,Inter-municipal and Regional Development Committee,Past,04/19/2017 12:00:00 AM,9:30 AM,River Valley Room
+2067,Audit Committee,Past,04/11/2017 12:00:00 AM,9:30 am,River Valley Room
+2071,Utility Committee,Past,06/08/2017 12:00:00 AM,9:30 AM,River Valley Room
