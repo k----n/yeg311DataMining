@@ -1,0 +1,1783 @@
+date,avg_hourly_temperature,min_windchill,avg_dew_point,max_wind_gust,wind_gust_dir_10s,avg_health_index,precipitation,sunlight
+2017-11-16,,moderate,,,,,yes,8
+2017-11-15,,moderate,,strong_winds,SE,,,8
+2017-11-14,,moderate,,windy,NNE,,yes,8
+2017-11-13,,moderate,,windy_direction,E,,yes,8
+2017-11-12,,moderate,,,,,,8
+2017-11-11,,moderate,,,,moderate,,8
+2017-11-10,,moderate,,,,,,8
+2017-11-09,,moderate,,strong_winds,S,,,8
+2017-11-08,,moderate,,,,,yes,9
+2017-11-07,,moderate,,,,,yes,9
+2017-11-06,,moderate,,windy_direction,S,,yes,9
+2017-11-05,,moderate,,,,,,9
+2017-11-04,,moderate,,,,,yes,9
+2017-11-03,,moderate,,,,,yes,9
+2017-11-02,,moderate,,,,,yes,9
+2017-11-01,,moderate,,windy_direction,NNE,,yes,9
+2017-10-31,,moderate,,strong_winds,NNW,,yes,9
+2017-10-30,,moderate,,,,,,9
+2017-10-29,,,,strong_winds,NNW,,,9
+2017-10-28,,,,strong_winds,N,,,9
+2017-10-27,,low,,,,,,9
+2017-10-26,,moderate,,windy_direction,S,,,9
+2017-10-25,,moderate,,strong_winds,NW,,,9
+2017-10-24,,,,strong_winds,NW,,,10
+2017-10-23,,,,strong_winds,WNW,,,10
+2017-10-22,,,,strong_winds,NNW,,,10
+2017-10-21,,moderate,,,,,,10
+2017-10-20,,,,windy_direction,NNW,,,10
+2017-10-19,,,,,,,,10
+2017-10-18,,,,strong_winds,WNW,,,10
+2017-10-17,,,,strong_winds,NW,,yes,10
+2017-10-16,,,,,,,,10
+2017-10-15,,,,windy_direction,SSW,,,10
+2017-10-14,,moderate,,,,,,10
+2017-10-13,,moderate,,,,,,10
+2017-10-12,,moderate,,,,,,10
+2017-10-11,,moderate,,windy_direction,NW,,,10
+2017-10-10,,,,windy_direction,ENE,,yes,10
+2017-10-09,,moderate,,strong_winds,W,,,11
+2017-10-08,,moderate,,strong_winds,NW,,yes,11
+2017-10-07,,,,strong_winds,NW,,,11
+2017-10-06,,,,strong_winds,NW,,,11
+2017-10-05,,,,,,,,11
+2017-10-04,,low,,,,,,11
+2017-10-03,,moderate,,,,,,11
+2017-10-02,,moderate,,strong_winds,NNW,,yes,11
+2017-10-01,,,,strong_winds,NNW,,yes,11
+2017-09-30,,,,windy_direction,N,,,11
+2017-09-29,,,,strong_winds,SSE,,,11
+2017-09-28,,,,strong_winds,SSE,,,11
+2017-09-27,,,,windy_direction,WNW,,,11
+2017-09-26,,,,windy_direction,WNW,,,11
+2017-09-25,,,,windy,WSW,,,12
+2017-09-24,,,,,,,,12
+2017-09-23,,,,windy_direction,S,,,12
+2017-09-22,,,,,,,yes,12
+2017-09-21,,,,windy_direction,N,,yes,12
+2017-09-20,,,,windy_direction,NNW,,yes,12
+2017-09-19,,,,strong_winds,WSW,,yes,12
+2017-09-18,,,,strong_winds,SSE,,,12
+2017-09-17,,,,strong_winds,SSE,,,12
+2017-09-16,,,,strong_winds,S,,,12
+2017-09-15,,,,,,,yes,12
+2017-09-14,,,,windy_direction,ENE,,yes,12
+2017-09-13,,,,,,,yes,12
+2017-09-12,,,,,,,yes,12
+2017-09-11,,,,windy_direction,NNW,,,12
+2017-09-10,,,,strong_winds,W,,yes,13
+2017-09-09,,,very humid,strong_winds,NW,,yes,13
+2017-09-08,,,,strong_winds,N,,,13
+2017-09-07,hot,,,windy_direction,SSE,moderate,,13
+2017-09-06,,,,,,moderate,,13
+2017-09-05,,,,,,,,13
+2017-09-04,,,,,,,,13
+2017-09-03,,,,windy_direction,W,,,13
+2017-09-02,,,,strong_winds,N,,yes,13
+2017-09-01,,,,,,,,13
+2017-08-31,,,,strong_winds,NW,,,13
+2017-08-30,,,,windy_direction,SSE,,,13
+2017-08-29,,,,strong_winds,SE,,,13
+2017-08-28,,,very humid,,,,,13
+2017-08-27,,,,,,,,14
+2017-08-26,,,,windy,WSW,,,14
+2017-08-25,,,,windy_direction,WSW,,,14
+2017-08-24,,,very humid,strong_winds,NW,,yes,14
+2017-08-23,hot,,very humid,windy_direction,SE,,,14
+2017-08-22,,,very humid,windy,W,,,14
+2017-08-21,,,,,,,,14
+2017-08-20,,,,windy_direction,W,,,14
+2017-08-19,,,,strong_winds,NW,,,14
+2017-08-18,,,very humid,strong_winds,NW,,yes,14
+2017-08-17,,,,windy_direction,W,,,14
+2017-08-16,,,,,,,,14
+2017-08-15,,,,strong_winds,WNW,,,14
+2017-08-14,,,,,,moderate,yes,14
+2017-08-13,,,very humid,strong_winds,SE,moderate,yes,14
+2017-08-12,hot,,,strong_winds,SE,,,15
+2017-08-11,,,very humid,windy,ESE,,,15
+2017-08-10,,,very humid,strong_winds,NE,,,15
+2017-08-09,,,,,,,,15
+2017-08-08,,,very humid,,,,,15
+2017-08-07,,,very humid,windy,N,,yes,15
+2017-08-06,,,very humid,,,,yes,15
+2017-08-05,,,very humid,strong_winds,NE,,yes,15
+2017-08-04,,,comfortable,windy_direction,NNW,,yes,15
+2017-08-03,,,very humid,windy_direction,WNW,,,15
+2017-08-02,,,very humid,,,,yes,15
+2017-08-01,,,very humid,,,,yes,15
+2017-07-31,,,,,,,,15
+2017-07-30,,,comfortable,windy_direction,S,,,15
+2017-07-29,,,comfortable,windy_direction,W,,yes,15
+2017-07-28,,,very humid,,,,,15
+2017-07-27,hot,,comfortable,strong_winds,N,,yes,15
+2017-07-26,hot,,very humid,windy_direction,S,,,16+
+2017-07-25,,,very humid,,,,yes,16+
+2017-07-24,,,,strong_winds,W,,yes,16+
+2017-07-23,,,very humid,strong_winds,NW,,yes,16+
+2017-07-22,,,very humid,,,,,16+
+2017-07-21,,,very humid,windy_direction,WSW,,yes,16+
+2017-07-20,,,very humid,strong_winds,WSW,moderate,yes,16+
+2017-07-19,,,very humid,,,,,16+
+2017-07-18,,,,windy_direction,WNW,,,16+
+2017-07-17,,,,strong_winds,WNW,,yes,16+
+2017-07-16,,,very humid,strong_winds,NW,,,16+
+2017-07-15,hot,,comfortable,windy_direction,S,,,16+
+2017-07-14,,,very humid,windy_direction,SE,,,16+
+2017-07-13,,,comfortable,strong_winds,NW,,yes,16+
+2017-07-12,,,comfortable,,,,,16+
+2017-07-11,,,very humid,windy_direction,ENE,,yes,16+
+2017-07-10,,,very humid,windy,N,,,16+
+2017-07-09,hot,,comfortable,strong_winds,S,,,16+
+2017-07-08,hot,,comfortable,strong_winds,E,,yes,16+
+2017-07-07,hot,,very humid,windy_direction,ESE,,,16+
+2017-07-06,hot,,very humid,windy_direction,ENE,,yes,16+
+2017-07-05,,,,windy_direction,NNE,,,16+
+2017-07-04,,,,strong_winds,SSW,,,16+
+2017-07-03,,,very humid,strong_winds,NW,,,16+
+2017-07-02,,,very humid,windy_direction,SE,,,16+
+2017-07-01,,,very humid,windy_direction,SW,,yes,16+
+2017-06-30,,,very humid,strong_winds,NW,,,16+
+2017-06-29,,,,,,,,16+
+2017-06-28,,,very humid,windy_direction,W,,yes,16+
+2017-06-27,,,,strong_winds,WNW,,yes,16+
+2017-06-26,hot,,,strong_winds,NW,,yes,16+
+2017-06-25,,,,strong_winds,SSE,,,16+
+2017-06-24,,,,strong_winds,N,,,16+
+2017-06-23,,,,windy_direction,N,,,16+
+2017-06-22,,,,strong_winds,WNW,,yes,16+
+2017-06-21,,,,strong_winds,WNW,,,16+
+2017-06-20,,,,strong_winds,NW,,yes,16+
+2017-06-19,,,,,,,yes,16+
+2017-06-18,,,,strong_winds,SW,,,16+
+2017-06-17,,,,strong_winds,WNW,,,16+
+2017-06-16,,,,strong_winds,NNW,,yes,16+
+2017-06-15,,,,windy_direction,WNW,,,16+
+2017-06-14,,,very humid,,,,yes,16+
+2017-06-13,,,,windy_direction,N,,yes,16+
+2017-06-12,,,,strong_winds,S,,,16+
+2017-06-11,,,,,,,yes,16+
+2017-06-10,,,,windy_direction,N,,yes,16+
+2017-06-09,,,very humid,strong_winds,W,,yes,16+
+2017-06-08,hot,,,strong_winds,ESE,,,16+
+2017-06-07,hot,,,windy_direction,SE,,,16+
+2017-06-06,,,,windy_direction,SE,,,16+
+2017-06-05,,,,windy_direction,NW,,yes,16+
+2017-06-04,,,,strong_winds,NNW,,,16+
+2017-06-03,,,,windy_direction,SE,,,16+
+2017-06-02,,,very humid,strong_winds,NNW,,yes,16+
+2017-06-01,,,very humid,windy_direction,NNW,,,16+
+2017-05-31,hot,,,strong_winds,SW,,yes,16+
+2017-05-30,,,,strong_winds,SSE,,,16+
+2017-05-29,,,,windy_direction,ESE,,,16+
+2017-05-28,,,,windy_direction,NNE,,,16+
+2017-05-27,,,,windy_direction,N,,,16+
+2017-05-26,,,,windy_direction,NW,,,16+
+2017-05-25,,,,strong_winds,NNW,,,16+
+2017-05-24,,,,strong_winds,N,,yes,16+
+2017-05-23,hot,,,windy_direction,SSW,,,16+
+2017-05-22,,,,,,,,16+
+2017-05-21,,,,windy_direction,NW,,,16+
+2017-05-20,,,,windy_direction,NW,,,16+
+2017-05-19,,,,windy_direction,S,,,16+
+2017-05-18,,,,strong_winds,SSE,,,16+
+2017-05-17,,,,windy,SSE,,,16+
+2017-05-16,,,,windy_direction,NE,,yes,15
+2017-05-15,,,,strong_winds,NE,,yes,15
+2017-05-14,,,,windy_direction,N,,yes,15
+2017-05-13,,,,strong_winds,E,,yes,15
+2017-05-12,,,,strong_winds,SE,,yes,15
+2017-05-11,,,,strong_winds,ESE,,,15
+2017-05-10,,,,windy_direction,W,,,15
+2017-05-09,,,,,,,,15
+2017-05-08,,,,windy_direction,WSW,,,15
+2017-05-07,,,,windy_direction,NW,,yes,15
+2017-05-06,,,,strong_winds,NNW,,yes,15
+2017-05-05,,,,strong_winds,S,,,15
+2017-05-04,,,,,,,,15
+2017-05-03,,,,,,,,15
+2017-05-02,,,,strong_winds,NW,,,15
+2017-05-01,,,,,,,,15
+2017-04-30,,,,strong_winds,WNW,,yes,15
+2017-04-29,,,,windy_direction,SSE,,,14
+2017-04-28,,moderate,,,,,,14
+2017-04-27,,,,,,,,14
+2017-04-26,,moderate,,,,,,14
+2017-04-25,,moderate,,windy_direction,SSE,,yes,14
+2017-04-24,,,,,,,yes,14
+2017-04-23,,moderate,,windy_direction,ESE,,yes,14
+2017-04-22,,,,windy_direction,E,,yes,14
+2017-04-21,,moderate,,,,,yes,14
+2017-04-20,,,,,,,,14
+2017-04-19,,,,,,,,14
+2017-04-18,,moderate,,,,,yes,14
+2017-04-17,,,,windy_direction,ENE,,,14
+2017-04-16,,moderate,,windy,S,,,14
+2017-04-15,,moderate,,windy_direction,N,,yes,14
+2017-04-14,,moderate,,windy_direction,NW,,yes,13
+2017-04-13,,,,strong_winds,E,,yes,13
+2017-04-12,,moderate,,windy_direction,E,,,13
+2017-04-11,,low,,,,,,13
+2017-04-10,,,,,,,yes,13
+2017-04-09,,moderate,,windy_direction,SSE,,,13
+2017-04-08,,,,,,,yes,13
+2017-04-07,,,,windy,NW,,yes,13
+2017-04-06,,,,windy_direction,ESE,,,13
+2017-04-05,,moderate,,strong_winds,S,,,13
+2017-04-04,,low,,windy_direction,N,,,13
+2017-04-03,,,,windy_direction,NW,,,13
+2017-04-02,,,,strong_winds,WNW,,,13
+2017-04-01,,,,,,,,13
+2017-03-31,,moderate,,strong_winds,S,,,12
+2017-03-30,,,,,,,,12
+2017-03-29,,moderate,,,,,,12
+2017-03-28,,moderate,,,,,,12
+2017-03-27,,,,,,,,12
+2017-03-26,,moderate,,,,,,12
+2017-03-25,,moderate,,,,,,12
+2017-03-24,,moderate,,windy_direction,SSE,,,12
+2017-03-23,,moderate,,,,,,12
+2017-03-22,,moderate,,,,,,12
+2017-03-21,,moderate,,strong_winds,SE,,,12
+2017-03-20,,moderate,,windy_direction,N,,,12
+2017-03-19,,moderate,,strong_winds,WNW,,yes,12
+2017-03-18,,moderate,,strong_winds,NW,,,12
+2017-03-17,,moderate,,windy_direction,SE,,yes,11
+2017-03-16,,low,,,,,yes,11
+2017-03-15,,moderate,,windy_direction,N,,,11
+2017-03-14,,moderate,,windy_direction,S,moderate,,11
+2017-03-13,,moderate,,windy_direction,SSE,,,11
+2017-03-12,,moderate,,windy_direction,SSE,,yes,11
+2017-03-11,,moderate,,,,,yes,11
+2017-03-10,,high,,,,,yes,11
+2017-03-09,,high,,,,,yes,11
+2017-03-08,,high,,,,,yes,11
+2017-03-07,,high,,windy_direction,NW,,,11
+2017-03-06,,moderate,,,,,yes,11
+2017-03-05,,moderate,,,,,yes,11
+2017-03-04,,moderate,,strong_winds,NNE,,yes,11
+2017-03-03,,moderate,,strong_winds,N,,,10
+2017-03-02,,moderate,,,,,,10
+2017-03-01,,moderate,,,,,,10
+2017-02-28,,moderate,,,,,,10
+2017-02-27,,moderate,,,,,,10
+2017-02-26,,moderate,,strong_winds,N,,yes,10
+2017-02-25,,moderate,,windy_direction,NNW,,yes,10
+2017-02-24,,moderate,,,,,yes,10
+2017-02-23,,moderate,,,,,,10
+2017-02-22,,moderate,,,,,,10
+2017-02-21,,moderate,,,,,,10
+2017-02-20,,moderate,,,,,,10
+2017-02-19,,,,windy_direction,SE,,yes,10
+2017-02-18,,moderate,,windy_direction,ESE,,yes,10
+2017-02-17,,low,,strong_winds,NW,,,10
+2017-02-16,,,,windy,NW,,,9
+2017-02-15,,,,,,moderate,,9
+2017-02-14,,moderate,,,,,,9
+2017-02-13,,,,windy_direction,W,,,9
+2017-02-12,,moderate,,windy_direction,SW,,,9
+2017-02-11,,moderate,,strong_winds,W,,,9
+2017-02-10,,moderate,,,,,yes,9
+2017-02-09,,moderate,,,,moderate,yes,9
+2017-02-08,,moderate,,,,,,9
+2017-02-07,,high,,,,,yes,9
+2017-02-06,,high,,,,,yes,9
+2017-02-05,,high,,,,,yes,9
+2017-02-04,,moderate,,,,,yes,9
+2017-02-03,,moderate,,,,,yes,9
+2017-02-02,,moderate,,,,moderate,yes,9
+2017-02-01,,moderate,,windy,NNW,,,8
+2017-01-31,,moderate,,strong_winds,NW,,yes,8
+2017-01-30,,moderate,,strong_winds,NW,,yes,8
+2017-01-29,,moderate,,windy_direction,NW,,,8
+2017-01-28,,moderate,,,,,,8
+2017-01-27,,moderate,,,,,,8
+2017-01-26,,moderate,,,,,,8
+2017-01-25,,moderate,,,,moderate,,8
+2017-01-24,,moderate,,,,,,8
+2017-01-23,,moderate,,,,,,8
+2017-01-22,,moderate,,,,,,8
+2017-01-21,,moderate,,,,,,8
+2017-01-20,,moderate,,,,,,8
+2017-01-19,,moderate,,,,,,8
+2017-01-18,,low,,,,,,8
+2017-01-17,,low,,,,,,8
+2017-01-16,,moderate,,,,,,8
+2017-01-15,,moderate,,,,,,8
+2017-01-14,,moderate,,,,,,8
+2017-01-13,,moderate,,,,moderate,,<8
+2017-01-12,,high,,,,,,<8
+2017-01-11,,high,,strong_winds,N,,,<8
+2017-01-10,,high,,strong_winds,NNW,,yes,<8
+2017-01-09,,moderate,,,,,yes,<8
+2017-01-08,,high,,,,,yes,<8
+2017-01-07,,high,,windy_direction,N,,,<8
+2017-01-06,,moderate,,windy_direction,SE,,yes,<8
+2017-01-05,,moderate,,,,,yes,<8
+2017-01-04,,moderate,,,,,,<8
+2017-01-03,,moderate,,,,,,<8
+2017-01-02,,moderate,,,,,yes,<8
+2017-01-01,,moderate,,windy_direction,NW,,yes,<8
+2016-12-31,,moderate,,windy_direction,NW,,yes,<8
+2016-12-30,,moderate,,windy_direction,NW,,,<8
+2016-12-29,,moderate,,,,,,<8
+2016-12-28,,moderate,,strong_winds,NW,,,<8
+2016-12-27,,moderate,,,,,,<8
+2016-12-26,,high,,,,,yes,<8
+2016-12-25,,high,,,,,yes,<8
+2016-12-24,,moderate,,,,,yes,<8
+2016-12-23,,moderate,,,,,yes,<8
+2016-12-22,,moderate,,,,,,<8
+2016-12-21,,moderate,,windy_direction,W,,,<8
+2016-12-20,,moderate,,,,,,<8
+2016-12-19,,moderate,,strong_winds,W,,,<8
+2016-12-18,,moderate,,strong_winds,W,,,<8
+2016-12-17,,high,,,,,yes,<8
+2016-12-16,,high,,,,,yes,<8
+2016-12-15,,high,,,,,,<8
+2016-12-14,,moderate,,,,moderate,,<8
+2016-12-13,,moderate,,strong_winds,W,,,<8
+2016-12-12,,moderate,,windy_direction,NW,,,<8
+2016-12-11,,high,,windy_direction,W,,,<8
+2016-12-10,,high,,,,,yes,<8
+2016-12-09,,high,,windy,SSE,,yes,<8
+2016-12-08,,high,,,,,yes,<8
+2016-12-07,,high,,,,,yes,<8
+2016-12-06,,high,,windy_direction,NW,,yes,<8
+2016-12-05,,high,,strong_winds,NW,,yes,<8
+2016-12-04,,moderate,,strong_winds,NW,,yes,<8
+2016-12-03,,moderate,,,,,,<8
+2016-12-02,,moderate,,windy_direction,S,,,<8
+2016-12-01,,moderate,,,,,yes,<8
+2016-11-30,,moderate,,,,,yes,<8
+2016-11-29,,moderate,,,,,,<8
+2016-11-28,,moderate,,,,,,<8
+2016-11-27,,moderate,,,,,,8
+2016-11-26,,moderate,,,,,,8
+2016-11-25,,moderate,,windy_direction,WNW,,,8
+2016-11-24,,moderate,,windy_direction,SSE,,,8
+2016-11-23,,moderate,,windy_direction,SE,,,8
+2016-11-22,,moderate,,windy_direction,SSE,,,8
+2016-11-21,,moderate,,,,,,8
+2016-11-20,,moderate,,,,,,8
+2016-11-19,,moderate,,windy_direction,SE,,yes,8
+2016-11-18,,moderate,,,,,,8
+2016-11-17,,moderate,,,,,,8
+2016-11-16,,moderate,,,,,,8
+2016-11-15,,moderate,,,,,yes,8
+2016-11-14,,,,strong_winds,W,,,8
+2016-11-13,,,,,,,yes,8
+2016-11-12,,,,,,,yes,8
+2016-11-11,,,,windy_direction,SSE,,,8
+2016-11-10,,low,,strong_winds,S,,,8
+2016-11-09,,,,windy_direction,NW,,,8
+2016-11-08,,,,,,,,9
+2016-11-07,,moderate,,,,,yes,9
+2016-11-06,,,,,,,yes,9
+2016-11-05,,,,,,,,9
+2016-11-04,,,,,,,,9
+2016-11-03,,,,,,,,9
+2016-11-02,,moderate,,,,,,9
+2016-11-01,,moderate,,,,,yes,9
+2016-10-31,,moderate,,,,,,9
+2016-10-30,,,,,,,,9
+2016-10-29,,,,,,,,9
+2016-10-28,,,,,,,yes,9
+2016-10-27,,,,,,,yes,9
+2016-10-26,,,,,,,yes,9
+2016-10-25,,,,,,,yes,9
+2016-10-24,,,,windy_direction,ESE,,,10
+2016-10-23,,moderate,,windy_direction,E,,,10
+2016-10-22,,moderate,,,,,,10
+2016-10-21,,,,strong_winds,NW,,,10
+2016-10-20,,,,,,,,10
+2016-10-19,,,,,,,,10
+2016-10-18,,moderate,,,,,,10
+2016-10-17,,moderate,,,,,,10
+2016-10-16,,moderate,,windy,ESE,,yes,10
+2016-10-15,,moderate,,,,,yes,10
+2016-10-14,,moderate,,windy,ENE,,yes,10
+2016-10-13,,moderate,,windy_direction,E,,,10
+2016-10-12,,moderate,,,,,,10
+2016-10-11,,moderate,,,,,,10
+2016-10-10,,moderate,,,,,,10
+2016-10-09,,moderate,,windy_direction,N,,yes,11
+2016-10-08,,moderate,,windy_direction,SE,,yes,11
+2016-10-07,,moderate,,strong_winds,SE,,yes,11
+2016-10-06,,moderate,,,,,,11
+2016-10-05,,moderate,,windy_direction,N,,,11
+2016-10-04,,,,windy_direction,E,,,11
+2016-10-03,,,,,,,,11
+2016-10-02,,,,windy_direction,NW,,yes,11
+2016-10-01,,,,windy_direction,E,,yes,11
+2016-09-30,,,,windy_direction,NE,,,11
+2016-09-29,,,,,,,,11
+2016-09-28,,,,windy_direction,SSE,,,11
+2016-09-27,,,,windy_direction,NW,,,11
+2016-09-26,,,,windy_direction,S,,,11
+2016-09-25,,,,,,,,12
+2016-09-24,,,,strong_winds,NW,,yes,12
+2016-09-23,,,,strong_winds,S,,,12
+2016-09-22,,,,strong_winds,S,,,12
+2016-09-21,,,,,,,,12
+2016-09-20,,,,windy_direction,N,,,12
+2016-09-19,,,,windy_direction,N,,,12
+2016-09-18,,,,strong_winds,WNW,,,12
+2016-09-17,,,,windy_direction,WNW,,yes,12
+2016-09-16,,,,,,,,12
+2016-09-15,,,,,,,,12
+2016-09-14,,,,windy_direction,W,,,12
+2016-09-13,,,,windy_direction,WSW,,,12
+2016-09-12,,,,,,,,12
+2016-09-11,,,,strong_winds,NNW,,,12
+2016-09-10,,,,strong_winds,WNW,,,13
+2016-09-09,,,,,,,,13
+2016-09-08,,,,strong_winds,NW,,yes,13
+2016-09-07,,,,,,,,13
+2016-09-06,,,,,,,yes,13
+2016-09-05,,,,,,,,13
+2016-09-04,,,,,,,,13
+2016-09-03,,,,strong_winds,NW,,,13
+2016-09-02,,,,windy_direction,WNW,,yes,13
+2016-09-01,,,very humid,windy_direction,NNW,,,13
+2016-08-31,,,very humid,strong_winds,SE,,yes,13
+2016-08-30,,,,strong_winds,SE,,,13
+2016-08-29,,,,windy_direction,S,,,13
+2016-08-28,,,,strong_winds,W,,,13
+2016-08-27,,,very humid,windy_direction,W,,yes,14
+2016-08-26,,,,,,,yes,14
+2016-08-25,,,very humid,strong_winds,NNW,,yes,14
+2016-08-24,,,very humid,strong_winds,N,,yes,14
+2016-08-23,,,very humid,strong_winds,N,,yes,14
+2016-08-22,,,very humid,strong_winds,NW,,yes,14
+2016-08-21,,,very humid,,,,yes,14
+2016-08-20,,,,,,,yes,14
+2016-08-19,,,,windy_direction,S,,,14
+2016-08-18,,,,strong_winds,NW,,,14
+2016-08-17,,,,strong_winds,N,,,14
+2016-08-16,,,very humid,windy_direction,NW,,,14
+2016-08-15,hot,,very humid,windy,W,,,14
+2016-08-14,,,very humid,,,,,14
+2016-08-13,,,very humid,,,,yes,14
+2016-08-12,,,very humid,strong_winds,NW,,yes,15
+2016-08-11,,,very humid,strong_winds,NW,,,15
+2016-08-10,,,comfortable,,,,yes,15
+2016-08-09,,,comfortable,windy_direction,NE,,yes,15
+2016-08-08,,,very humid,windy_direction,ESE,,yes,15
+2016-08-07,,,very humid,windy_direction,SSE,,,15
+2016-08-06,,,comfortable,windy_direction,ESE,,yes,15
+2016-08-05,,,very humid,windy_direction,ESE,,,15
+2016-08-04,,,very humid,windy_direction,WNW,,yes,15
+2016-08-03,,,comfortable,windy_direction,WNW,,yes,15
+2016-08-02,,,very humid,,,,,15
+2016-08-01,,,very humid,strong_winds,WNW,,yes,15
+2016-07-31,,,very humid,strong_winds,W,,yes,15
+2016-07-30,,,comfortable,strong_winds,W,,yes,15
+2016-07-29,hot,,very humid,windy_direction,SSW,,yes,15
+2016-07-28,,,comfortable,strong_winds,W,,yes,15
+2016-07-27,hot,,comfortable,strong_winds,SW,,yes,15
+2016-07-26,,,comfortable,,,,,16+
+2016-07-25,,,,windy_direction,SSE,,,16+
+2016-07-24,,,very humid,windy_direction,WSW,,,16+
+2016-07-23,,,,windy_direction,NW,,,16+
+2016-07-22,hot,,very humid,windy_direction,SW,,yes,16+
+2016-07-21,,,very humid,windy_direction,W,,,16+
+2016-07-20,,,comfortable,strong_winds,NW,,yes,16+
+2016-07-19,hot,,very humid,windy_direction,W,,,16+
+2016-07-18,,,very humid,windy_direction,S,,,16+
+2016-07-17,,,very humid,,,,yes,16+
+2016-07-16,,,very humid,,,,yes,16+
+2016-07-15,,,very humid,strong_winds,S,,yes,16+
+2016-07-14,,,very humid,,,,,16+
+2016-07-13,,,very humid,windy_direction,N,,,16+
+2016-07-12,,,very humid,windy_direction,N,,,16+
+2016-07-11,,,comfortable,strong_winds,NNE,,yes,16+
+2016-07-10,,,very humid,windy_direction,ENE,,yes,16+
+2016-07-09,,,very humid,,,,yes,16+
+2016-07-08,,,very humid,strong_winds,ENE,,yes,16+
+2016-07-07,,,very humid,windy_direction,WNW,,,16+
+2016-07-06,,,very humid,strong_winds,NNE,,,16+
+2016-07-05,,,,windy_direction,NW,,,16+
+2016-07-04,,,,,,,yes,16+
+2016-07-03,,,very humid,strong_winds,WNW,,yes,16+
+2016-07-02,,,comfortable,windy,SSE,,yes,16+
+2016-07-01,,,very humid,windy,WNW,,yes,16+
+2016-06-30,,,comfortable,strong_winds,SW,,yes,16+
+2016-06-29,,,comfortable,windy_direction,ESE,,yes,16+
+2016-06-28,hot,,very humid,windy_direction,SE,,yes,16+
+2016-06-27,,,very humid,windy_direction,WNW,,,16+
+2016-06-26,,,very humid,windy,NW,,yes,16+
+2016-06-25,,,very humid,windy_direction,NW,,yes,16+
+2016-06-24,,,very humid,windy_direction,NNW,,yes,16+
+2016-06-23,,,very humid,strong_winds,WSW,,yes,16+
+2016-06-22,,,very humid,strong_winds,WSW,,yes,16+
+2016-06-21,,,,windy_direction,SW,,yes,16+
+2016-06-20,,,,,,,,16+
+2016-06-19,,,,strong_winds,NNW,,yes,16+
+2016-06-18,,,,,,,,16+
+2016-06-17,,,,strong_winds,W,,yes,16+
+2016-06-16,,,,strong_winds,WNW,,,16+
+2016-06-15,,,,strong_winds,SSW,,yes,16+
+2016-06-14,,,,windy_direction,S,,,16+
+2016-06-13,,,,strong_winds,SSE,,,16+
+2016-06-12,,,,strong_winds,W,,yes,16+
+2016-06-11,,,,strong_winds,S,,yes,16+
+2016-06-10,,,,windy_direction,E,,,16+
+2016-06-09,,,very humid,strong_winds,NW,,yes,16+
+2016-06-08,,,very humid,windy_direction,E,,yes,16+
+2016-06-07,hot,,,windy,WNW,,,16+
+2016-06-06,hot,,,strong_winds,S,,,16+
+2016-06-05,,,,,,,,16+
+2016-06-04,,,,windy_direction,NNW,,,16+
+2016-06-03,,,,strong_winds,WNW,,,16+
+2016-06-02,,,,strong_winds,NW,,yes,16+
+2016-06-01,,,,windy_direction,S,,,16+
+2016-05-31,,,,,,,,16+
+2016-05-30,,,,windy_direction,N,,yes,16+
+2016-05-29,,,,strong_winds,N,,yes,16+
+2016-05-28,,,,strong_winds,SSW,,yes,16+
+2016-05-27,,,,windy_direction,WSW,,,16+
+2016-05-26,,,,strong_winds,S,,yes,16+
+2016-05-25,,,,windy_direction,NW,,yes,16+
+2016-05-24,,,,windy_direction,SE,,,16+
+2016-05-23,,,,windy_direction,N,,yes,16+
+2016-05-22,,,,windy_direction,N,,yes,16+
+2016-05-21,,,,windy_direction,NW,,yes,16+
+2016-05-20,,,,strong_winds,WNW,,yes,16+
+2016-05-19,,,,strong_winds,WNW,,yes,16+
+2016-05-18,,,,strong_winds,NNE,,yes,16+
+2016-05-17,,,,strong_winds,NW,,yes,16+
+2016-05-16,,,,strong_winds,S,moderate,,15
+2016-05-15,,,,windy,SE,moderate,,15
+2016-05-14,,,,,,moderate,,15
+2016-05-13,,low,,,,,yes,15
+2016-05-12,,,,strong_winds,N,,,15
+2016-05-11,,,,windy_direction,NNE,,,15
+2016-05-10,,,,windy_direction,NNW,,,15
+2016-05-09,,,,strong_winds,N,moderate,,15
+2016-05-08,,,,strong_winds,WNW,,,15
+2016-05-07,,,,windy_direction,SSW,moderate,,15
+2016-05-06,,,,windy_direction,W,moderate,,15
+2016-05-05,,,,strong_winds,NW,,,15
+2016-05-04,,,,strong_winds,N,,yes,15
+2016-05-03,hot,,,windy,SSW,,,15
+2016-05-02,,,,,,,,15
+2016-05-01,,,,windy,WNW,,,15
+2016-04-30,,,,windy_direction,SSW,,,15
+2016-04-29,,,,strong_winds,SSE,,,14
+2016-04-28,,,,strong_winds,SSE,,,14
+2016-04-27,,,,windy_direction,SSE,,yes,14
+2016-04-26,,,,,,,,14
+2016-04-25,,,,,,,yes,14
+2016-04-24,,,,,,,yes,14
+2016-04-23,,,,windy_direction,SE,,yes,14
+2016-04-22,,,,strong_winds,E,,,14
+2016-04-21,,moderate,,strong_winds,E,,,14
+2016-04-20,,,,windy_direction,E,,,14
+2016-04-19,,,,strong_winds,S,,,14
+2016-04-18,,,,strong_winds,S,,,14
+2016-04-17,,,,windy_direction,S,,,14
+2016-04-16,,,,strong_winds,S,,,14
+2016-04-15,,moderate,,strong_winds,SSE,,,14
+2016-04-14,,low,,windy_direction,NNW,,,13
+2016-04-13,,,,strong_winds,NW,,,13
+2016-04-12,,,,,,,,13
+2016-04-11,,moderate,,windy_direction,W,,,13
+2016-04-10,,moderate,,,,,,13
+2016-04-09,,moderate,,strong_winds,WNW,,,13
+2016-04-08,,,,strong_winds,WNW,,,13
+2016-04-07,,moderate,,windy_direction,NW,,,13
+2016-04-06,,,,strong_winds,WNW,,,13
+2016-04-05,,moderate,,strong_winds,NW,,yes,13
+2016-04-04,,,,strong_winds,SE,,,13
+2016-04-03,,,,windy_direction,WNW,,,13
+2016-04-02,,,,strong_winds,NW,,,13
+2016-04-01,,,,,,,,13
+2016-03-31,,,,windy,N,,yes,12
+2016-03-30,,,,windy_direction,NW,,,12
+2016-03-29,,,,windy_direction,NW,,,12
+2016-03-28,,,,strong_winds,NNW,,yes,12
+2016-03-27,,,,strong_winds,S,,,12
+2016-03-26,,,,,,,,12
+2016-03-25,,moderate,,,,,yes,12
+2016-03-24,,moderate,,,,,,12
+2016-03-23,,moderate,,,,,,12
+2016-03-22,,moderate,,,,,yes,12
+2016-03-21,,moderate,,,,,yes,12
+2016-03-20,,moderate,,,,,,12
+2016-03-19,,moderate,,windy_direction,S,,,12
+2016-03-18,,moderate,,windy,S,,yes,12
+2016-03-17,,moderate,,strong_winds,N,,,11
+2016-03-16,,moderate,,strong_winds,WNW,,,11
+2016-03-15,,moderate,,windy_direction,WNW,,,11
+2016-03-14,,moderate,,,,,,11
+2016-03-13,,low,,strong_winds,WNW,,yes,11
+2016-03-12,,,,windy_direction,ESE,,,11
+2016-03-11,,,,windy,W,,,11
+2016-03-10,,moderate,,windy,N,,,11
+2016-03-09,,moderate,,,,,,11
+2016-03-08,,moderate,,,,,,11
+2016-03-07,,moderate,,,,,yes,11
+2016-03-06,,moderate,,windy_direction,SSE,,yes,11
+2016-03-05,,moderate,,,,,,11
+2016-03-04,,moderate,,windy_direction,S,,,11
+2016-03-03,,moderate,,windy_direction,SSE,,,10
+2016-03-02,,moderate,,windy_direction,SE,,,10
+2016-03-01,,moderate,,,,,yes,10
+2016-02-29,,moderate,,windy_direction,SE,,yes,10
+2016-02-28,,moderate,,strong_winds,E,,yes,10
+2016-02-27,,moderate,,strong_winds,NNW,,,10
+2016-02-26,,moderate,,,,,,10
+2016-02-25,,moderate,,windy,SSW,,,10
+2016-02-24,,moderate,,windy_direction,S,,,10
+2016-02-23,,moderate,,strong_winds,WNW,,,10
+2016-02-22,,moderate,,windy_direction,WNW,,,10
+2016-02-21,,moderate,,,,,,10
+2016-02-20,,moderate,,,,,yes,10
+2016-02-19,,moderate,,strong_winds,N,,yes,10
+2016-02-18,,moderate,,windy_direction,NNW,,,10
+2016-02-17,,moderate,,windy_direction,SE,,,9
+2016-02-16,,moderate,,,,,,9
+2016-02-15,,moderate,,strong_winds,NW,,,9
+2016-02-14,,moderate,,,,,,9
+2016-02-13,,moderate,,windy_direction,WNW,,yes,9
+2016-02-12,,moderate,,windy_direction,SSE,,yes,9
+2016-02-11,,moderate,,,,,yes,9
+2016-02-10,,moderate,,,,,yes,9
+2016-02-09,,,,,,,,9
+2016-02-08,,moderate,,,,,,9
+2016-02-07,,moderate,,windy_direction,NW,,,9
+2016-02-06,,moderate,,strong_winds,NW,,,9
+2016-02-05,,moderate,,,,,,9
+2016-02-04,,moderate,,,,,,9
+2016-02-03,,moderate,,,,moderate,,9
+2016-02-02,,moderate,,,,,,8
+2016-02-01,,moderate,,,,,,8
+2016-01-31,,moderate,,,,,yes,8
+2016-01-30,,moderate,,,,,,8
+2016-01-29,,moderate,,strong_winds,W,,,8
+2016-01-28,,moderate,,windy_direction,NW,,,8
+2016-01-27,,,,windy_direction,W,,,8
+2016-01-26,,moderate,,windy_direction,W,,yes,8
+2016-01-25,,moderate,,,,,,8
+2016-01-24,,moderate,,,,,,8
+2016-01-23,,moderate,,,,,yes,8
+2016-01-22,,moderate,,,,moderate,,8
+2016-01-21,,moderate,,windy_direction,S,,,8
+2016-01-20,,moderate,,,,,yes,8
+2016-01-19,,moderate,,,,,,8
+2016-01-18,,moderate,,,,,yes,8
+2016-01-17,,high,,windy,SE,,,8
+2016-01-16,,high,,,,,yes,8
+2016-01-15,,moderate,,,,,yes,8
+2016-01-14,,moderate,,,,,yes,<8
+2016-01-13,,moderate,,,,moderate,,<8
+2016-01-12,,moderate,,,,,,<8
+2016-01-11,,moderate,,,,,,<8
+2016-01-10,,moderate,,windy,WNW,,yes,<8
+2016-01-09,,high,,,,,yes,<8
+2016-01-08,,moderate,,,,,yes,<8
+2016-01-07,,moderate,,,,,yes,<8
+2016-01-06,,moderate,,,,,yes,<8
+2016-01-05,,moderate,,,,moderate,,<8
+2016-01-04,,moderate,,,,,,<8
+2016-01-03,,moderate,,,,moderate,,<8
+2016-01-02,,moderate,,,,moderate,,<8
+2016-01-01,,moderate,,,,,,<8
+2015-12-31,,moderate,,,,,,<8
+2015-12-30,,moderate,,windy_direction,NW,,,<8
+2015-12-29,,moderate,,,,,,<8
+2015-12-28,,moderate,,,,moderate,,<8
+2015-12-27,,moderate,,,,,,<8
+2015-12-26,,moderate,,,,,,<8
+2015-12-25,,moderate,,,,,,<8
+2015-12-24,,moderate,,,,,yes,<8
+2015-12-23,,moderate,,,,,,<8
+2015-12-22,,moderate,,,,moderate,,<8
+2015-12-21,,moderate,,,,moderate,,<8
+2015-12-20,,moderate,,,,,yes,<8
+2015-12-19,,moderate,,,,,,<8
+2015-12-18,,moderate,,windy_direction,ESE,,yes,<8
+2015-12-17,,moderate,,,,,yes,<8
+2015-12-16,,moderate,,,,,yes,<8
+2015-12-15,,moderate,,,,,yes,<8
+2015-12-14,,moderate,,,,,yes,<8
+2015-12-13,,moderate,,,,,yes,<8
+2015-12-12,,moderate,,windy_direction,SSE,,yes,<8
+2015-12-11,,moderate,,,,,yes,<8
+2015-12-10,,moderate,,,,,,<8
+2015-12-09,,moderate,,,,,,<8
+2015-12-08,,moderate,,windy_direction,SSE,,,<8
+2015-12-07,,moderate,,,,,,<8
+2015-12-06,,moderate,,,,,,<8
+2015-12-05,,moderate,,,,,,<8
+2015-12-04,,moderate,,,,,,<8
+2015-12-03,,moderate,,,,,,<8
+2015-12-02,,moderate,,windy_direction,S,,,<8
+2015-12-01,,moderate,,,,moderate,,<8
+2015-11-30,,moderate,,,,moderate,,<8
+2015-11-29,,moderate,,,,,,<8
+2015-11-28,,moderate,,,,,,8
+2015-11-27,,moderate,,,,,,8
+2015-11-26,,moderate,,,,moderate,,8
+2015-11-25,,moderate,,,,,yes,8
+2015-11-24,,moderate,,windy,N,,yes,8
+2015-11-23,,moderate,,windy_direction,ENE,,yes,8
+2015-11-22,,moderate,,windy_direction,NW,,,8
+2015-11-21,,moderate,,,,,,8
+2015-11-20,,moderate,,,,,,8
+2015-11-19,,moderate,,,,,yes,8
+2015-11-18,,moderate,,strong_winds,WNW,,,8
+2015-11-17,,moderate,,windy_direction,N,,,8
+2015-11-16,,moderate,,strong_winds,NW,,,8
+2015-11-15,,moderate,,windy_direction,WNW,,,8
+2015-11-14,,moderate,,,,,,8
+2015-11-13,,moderate,,windy_direction,NW,,,8
+2015-11-12,,moderate,,windy_direction,S,,,8
+2015-11-11,,moderate,,strong_winds,WSW,,,8
+2015-11-10,,moderate,,,,,,8
+2015-11-09,,moderate,,,,,yes,9
+2015-11-08,,,,,,,yes,9
+2015-11-07,,,,,,,,9
+2015-11-06,,moderate,,,,,yes,9
+2015-11-05,,moderate,,,,,,9
+2015-11-04,,moderate,,,,,yes,9
+2015-11-03,,moderate,,,,,yes,9
+2015-11-02,,,,,,,yes,9
+2015-11-01,,,,,,,yes,9
+2015-10-31,,,,,,,yes,9
+2015-10-30,,,,,,,yes,9
+2015-10-29,,,,,,,,9
+2015-10-28,,moderate,,,,,,9
+2015-10-27,,moderate,,strong_winds,NW,,yes,9
+2015-10-26,,,,strong_winds,SSE,,yes,9
+2015-10-25,,moderate,,,,,,9
+2015-10-24,,,,,,,,10
+2015-10-23,,,,,,high,,10
+2015-10-22,,,,,,moderate,,10
+2015-10-21,,,,,,,,10
+2015-10-20,,,,windy_direction,WNW,,yes,10
+2015-10-19,,,,windy,SE,,,10
+2015-10-18,,,,windy,NW,,,10
+2015-10-17,,,,windy,S,,,10
+2015-10-16,,,,windy_direction,S,,,10
+2015-10-15,,moderate,,,,,,10
+2015-10-14,,,,strong_winds,NW,,,10
+2015-10-13,,,,windy_direction,WNW,,,10
+2015-10-12,,,,windy_direction,S,,yes,10
+2015-10-11,,,,strong_winds,NW,,yes,10
+2015-10-10,,,,windy_direction,SW,,,11
+2015-10-09,,,,,,,,11
+2015-10-08,,,,,,,,11
+2015-10-07,,,,windy_direction,WNW,,,11
+2015-10-06,,,,windy_direction,SSE,,,11
+2015-10-05,,moderate,,,,,,11
+2015-10-04,,,,,,,yes,11
+2015-10-03,,,,strong_winds,N,,yes,11
+2015-10-02,,,,strong_winds,NNW,,yes,11
+2015-10-01,,,,windy_direction,SE,,,11
+2015-09-30,,,,,,,,11
+2015-09-29,,,,,,,,11
+2015-09-28,,,,,,,yes,11
+2015-09-27,,,,strong_winds,NNW,,,11
+2015-09-26,,,,windy_direction,NW,,,11
+2015-09-25,,,,strong_winds,NNW,,,12
+2015-09-24,,,,windy_direction,SSE,,,12
+2015-09-23,,,,,,,,12
+2015-09-22,,,,windy_direction,E,,yes,12
+2015-09-21,,,,windy_direction,WNW,,yes,12
+2015-09-20,,,,windy_direction,NW,,yes,12
+2015-09-19,,,,windy_direction,WSW,,,12
+2015-09-18,,,,windy_direction,W,,,12
+2015-09-17,,,,,,,yes,12
+2015-09-16,,,,,,,yes,12
+2015-09-15,,,,windy,ENE,,yes,12
+2015-09-14,,,,,,,yes,12
+2015-09-13,,,,windy_direction,W,,yes,12
+2015-09-12,,,,strong_winds,N,,yes,12
+2015-09-11,,,,,,,,13
+2015-09-10,,,,,,,,13
+2015-09-09,,,,,,,,13
+2015-09-08,,,,,,,yes,13
+2015-09-07,,,,,,,yes,13
+2015-09-06,,,,windy_direction,N,,yes,13
+2015-09-05,,,,,,,yes,13
+2015-09-04,,,,,,,yes,13
+2015-09-03,,,,,,,,13
+2015-09-02,,,,windy_direction,WNW,,yes,13
+2015-09-01,,,,windy_direction,WNW,,yes,13
+2015-08-31,,,,,,,,13
+2015-08-30,,,,windy_direction,WNW,,,13
+2015-08-29,,,,strong_winds,SE,,yes,13
+2015-08-28,hot,,,,,moderate,,14
+2015-08-27,,,very humid,,,,,14
+2015-08-26,,,very humid,,,,,14
+2015-08-25,,,,,,,,14
+2015-08-24,,,,,,,,14
+2015-08-23,,,,windy_direction,S,,yes,14
+2015-08-22,,,,,,,,14
+2015-08-21,,,,windy_direction,N,,yes,14
+2015-08-20,,,,windy_direction,NNW,,yes,14
+2015-08-19,,,,windy_direction,N,,,14
+2015-08-18,,,,windy_direction,W,,,14
+2015-08-17,,,,,,,yes,14
+2015-08-16,,,,,,,,14
+2015-08-15,,,,windy,NNW,,yes,14
+2015-08-14,,,,,,,,14
+2015-08-13,hot,,very humid,windy_direction,N,moderate,,14
+2015-08-12,hot,,,,,,,15
+2015-08-11,hot,,,windy,SW,,,15
+2015-08-10,hot,,very humid,strong_winds,S,,,15
+2015-08-09,hot,,very humid,windy_direction,NNW,,,15
+2015-08-08,hot,,very humid,,,,,15
+2015-08-07,,,very humid,,,,,15
+2015-08-06,,,,,,high,yes,15
+2015-08-05,,,very humid,,,high,,15
+2015-08-04,,,comfortable,windy_direction,WNW,,yes,15
+2015-08-03,hot,,very humid,windy_direction,SSE,,,15
+2015-08-02,,,very humid,windy,SSE,,,15
+2015-08-01,,,very humid,strong_winds,WNW,,yes,15
+2015-07-31,hot,,,windy_direction,S,,,15
+2015-07-30,,,,windy_direction,WNW,,,15
+2015-07-29,,,,strong_winds,NW,,,15
+2015-07-28,,,,strong_winds,NNW,,,15
+2015-07-27,,,,,,,,15
+2015-07-26,,,,,,,yes,16+
+2015-07-25,,,very humid,,,,yes,16+
+2015-07-24,,,very humid,windy,S,,yes,16+
+2015-07-23,,,very humid,windy_direction,NNW,,yes,16+
+2015-07-22,,,very humid,windy_direction,SSW,,yes,16+
+2015-07-21,,,very humid,strong_winds,NW,,yes,16+
+2015-07-20,hot,,very humid,strong_winds,NNE,,yes,16+
+2015-07-19,,,,windy_direction,WNW,,,16+
+2015-07-18,,,,windy_direction,N,,,16+
+2015-07-17,,,very humid,strong_winds,NNW,,yes,16+
+2015-07-16,,,,strong_winds,NW,,yes,16+
+2015-07-15,,,,,,,yes,16+
+2015-07-14,,,,windy_direction,W,,,16+
+2015-07-13,,,comfortable,windy_direction,WNW,,,16+
+2015-07-12,hot,,ok,,,high,yes,16+
+2015-07-11,hot,,comfortable,windy_direction,E,high,,16+
+2015-07-10,hot,,very humid,windy_direction,ESE,moderate,,16+
+2015-07-09,hot,,,windy_direction,W,,yes,16+
+2015-07-08,hot,,,windy_direction,S,,,16+
+2015-07-07,,,,windy,N,,,16+
+2015-07-06,,,,,,,,16+
+2015-07-05,,,,windy_direction,NW,,,16+
+2015-07-04,,,,strong_winds,WNW,,,16+
+2015-07-03,hot,,,windy_direction,NW,,,16+
+2015-07-02,hot,,very humid,,,,,16+
+2015-07-01,,,comfortable,windy_direction,NW,,yes,16+
+2015-06-30,,,comfortable,,,,yes,16+
+2015-06-29,,,comfortable,windy_direction,S,,yes,16+
+2015-06-28,hot,,,windy_direction,NW,moderate,,16+
+2015-06-27,hot,,,,,,,16+
+2015-06-26,hot,,,,,,yes,16+
+2015-06-25,hot,,,windy_direction,W,,,16+
+2015-06-24,,,,,,,,16+
+2015-06-23,,,,,,,,16+
+2015-06-22,,,,windy_direction,N,,yes,16+
+2015-06-21,,,,windy_direction,NNW,,,16+
+2015-06-20,,,,windy_direction,NNW,,yes,16+
+2015-06-19,,,,strong_winds,NNE,,yes,16+
+2015-06-18,,,,windy_direction,SSE,,,16+
+2015-06-17,,,,,,,yes,16+
+2015-06-16,,,,windy_direction,NNE,,,16+
+2015-06-15,,,,,,,,16+
+2015-06-14,,,,windy_direction,N,,,16+
+2015-06-13,,,,windy_direction,WNW,,yes,16+
+2015-06-12,,,,windy_direction,NW,,yes,16+
+2015-06-11,,,,strong_winds,N,moderate,yes,16+
+2015-06-10,,,,,,high,,16+
+2015-06-09,,,,windy_direction,NNE,high,,16+
+2015-06-08,,,,strong_winds,NW,,,16+
+2015-06-07,hot,,,windy_direction,W,,,16+
+2015-06-06,hot,,,windy_direction,NW,,,16+
+2015-06-05,,,,,,,,16+
+2015-06-04,,,,windy,SE,,,16+
+2015-06-03,,,,strong_winds,S,,,16+
+2015-06-02,,,,windy_direction,S,,yes,16+
+2015-06-01,,,,windy_direction,N,,,16+
+2015-05-31,,,,strong_winds,SE,,yes,16+
+2015-05-30,,,,windy_direction,SE,,,16+
+2015-05-29,,,,windy_direction,E,,,16+
+2015-05-28,,,,windy_direction,N,,,16+
+2015-05-27,,,,windy_direction,NNE,moderate,,16+
+2015-05-26,,,,windy_direction,NE,,,16+
+2015-05-25,,,,strong_winds,WSW,moderate,,16+
+2015-05-24,,,,windy,SE,moderate,,16+
+2015-05-23,,,,,,moderate,,16+
+2015-05-22,,,,,,moderate,,16+
+2015-05-21,,,,windy_direction,SSE,,,16+
+2015-05-20,,,,strong_winds,SSE,,,16+
+2015-05-19,,,,windy_direction,SE,,,16+
+2015-05-18,,,,windy_direction,SSE,,,16+
+2015-05-17,,moderate,,,,,,15
+2015-05-16,,,,strong_winds,NE,,,15
+2015-05-15,,,,strong_winds,SSE,,,15
+2015-05-14,,,,windy_direction,SE,,,15
+2015-05-13,,,,strong_winds,SE,,,15
+2015-05-12,,,,windy_direction,SE,,,15
+2015-05-11,,,,windy_direction,SSE,,,15
+2015-05-10,,,,windy_direction,ESE,,,15
+2015-05-09,,,,windy_direction,ESE,,,15
+2015-05-08,,low,,,,moderate,,15
+2015-05-07,,moderate,,,,,yes,15
+2015-05-06,,moderate,,windy_direction,NNW,,yes,15
+2015-05-05,,,,strong_winds,E,,,15
+2015-05-04,,,,strong_winds,E,,,15
+2015-05-03,,,,windy_direction,ENE,,yes,15
+2015-05-02,,,,strong_winds,WNW,,yes,15
+2015-05-01,,,,windy,NNW,,,15
+2015-04-30,,,,strong_winds,NW,,yes,14
+2015-04-29,,,,strong_winds,NW,,,14
+2015-04-28,,,,strong_winds,NNW,,,14
+2015-04-27,,,,windy_direction,W,,,14
+2015-04-26,,moderate,,windy_direction,S,,,14
+2015-04-25,,moderate,,windy_direction,E,,,14
+2015-04-24,,,,windy_direction,E,,,14
+2015-04-23,,,,strong_winds,W,,,14
+2015-04-22,,,,strong_winds,WNW,,,14
+2015-04-21,,,,,,,,14
+2015-04-20,,,,windy_direction,NNW,,,14
+2015-04-19,,moderate,,,,,,14
+2015-04-18,,,,strong_winds,NNW,,,14
+2015-04-17,,,,strong_winds,W,,,14
+2015-04-16,,,,strong_winds,N,,yes,14
+2015-04-15,,,,windy_direction,WNW,,,13
+2015-04-14,,,,strong_winds,NNW,,,13
+2015-04-13,,,,windy_direction,W,,,13
+2015-04-12,,moderate,,strong_winds,WNW,,,13
+2015-04-11,,,,strong_winds,WNW,,,13
+2015-04-10,,,,windy_direction,SSW,,yes,13
+2015-04-09,,moderate,,,,,yes,13
+2015-04-08,,moderate,,windy_direction,W,,,13
+2015-04-07,,moderate,,,,,,13
+2015-04-06,,moderate,,strong_winds,SSE,,,13
+2015-04-05,,moderate,,,,,yes,13
+2015-04-04,,moderate,,,,,yes,13
+2015-04-03,,moderate,,strong_winds,N,,yes,13
+2015-04-02,,moderate,,windy_direction,WNW,,yes,13
+2015-04-01,,moderate,,strong_winds,NNW,,,12
+2015-03-31,,,,strong_winds,W,,yes,12
+2015-03-30,,,,,,,,12
+2015-03-29,,moderate,,strong_winds,NW,,,12
+2015-03-28,,,,strong_winds,NW,,,12
+2015-03-27,,,,,,,yes,12
+2015-03-26,,,,,,,yes,12
+2015-03-25,,moderate,,,,moderate,yes,12
+2015-03-24,,moderate,,,,,,12
+2015-03-23,,moderate,,,,,yes,12
+2015-03-22,,moderate,,,,,yes,12
+2015-03-21,,moderate,,windy_direction,ESE,,yes,12
+2015-03-20,,moderate,,windy_direction,E,,yes,12
+2015-03-19,,moderate,,,,,yes,12
+2015-03-18,,moderate,,windy_direction,NW,,,12
+2015-03-17,,moderate,,windy_direction,SE,,,11
+2015-03-16,,moderate,,windy_direction,W,,,11
+2015-03-15,,moderate,,strong_winds,NW,,,11
+2015-03-14,,,,strong_winds,W,,,11
+2015-03-13,,,,windy_direction,SSW,,,11
+2015-03-12,,moderate,,,,,,11
+2015-03-11,,moderate,,,,,,11
+2015-03-10,,moderate,,,,,,11
+2015-03-09,,,,strong_winds,NW,,,11
+2015-03-08,,,,windy_direction,SSW,,,11
+2015-03-07,,moderate,,windy,WNW,,,11
+2015-03-06,,moderate,,strong_winds,WNW,,,11
+2015-03-05,,moderate,,,,,,11
+2015-03-04,,moderate,,,,,yes,11
+2015-03-03,,moderate,,windy_direction,NNW,,,10
+2015-03-02,,moderate,,strong_winds,NNW,,yes,10
+2015-03-01,,moderate,,windy_direction,S,,yes,10
+2015-02-28,,moderate,,strong_winds,NW,,yes,10
+2015-02-27,,moderate,,,,,,10
+2015-02-26,,high,,windy_direction,SSE,,,10
+2015-02-25,,moderate,,windy_direction,N,,,10
+2015-02-24,,moderate,,strong_winds,NW,,yes,10
+2015-02-23,,,,windy_direction,W,,yes,10
+2015-02-22,,moderate,,,,,yes,10
+2015-02-21,,moderate,,,,,,10
+2015-02-20,,moderate,,windy_direction,N,,,10
+2015-02-19,,low,,strong_winds,NW,,yes,10
+2015-02-18,,moderate,,,,moderate,yes,10
+2015-02-17,,moderate,,,,moderate,,9
+2015-02-16,,moderate,,windy_direction,NE,,,9
+2015-02-15,,,,windy_direction,WNW,,,9
+2015-02-14,,moderate,,windy_direction,SE,,yes,9
+2015-02-13,,moderate,,windy_direction,E,,yes,9
+2015-02-12,,moderate,,,,,yes,9
+2015-02-11,,moderate,,strong_winds,SE,,yes,9
+2015-02-10,,moderate,,,,,yes,9
+2015-02-09,,moderate,,,,,,9
+2015-02-08,,moderate,,,,,,9
+2015-02-07,,moderate,,,,,,9
+2015-02-06,,high,,windy_direction,E,,yes,9
+2015-02-05,,high,,windy_direction,ENE,,yes,9
+2015-02-04,,moderate,,,,,yes,9
+2015-02-03,,moderate,,,,,yes,9
+2015-02-02,,moderate,,,,,yes,8
+2015-02-01,,moderate,,,,,,8
+2015-01-31,,moderate,,,,,yes,8
+2015-01-30,,moderate,,windy_direction,NNE,,,8
+2015-01-29,,moderate,,,,,,8
+2015-01-28,,moderate,,,,,yes,8
+2015-01-27,,moderate,,,,,,8
+2015-01-26,,,,,,,,8
+2015-01-25,,,,windy_direction,SSW,,yes,8
+2015-01-24,,,,strong_winds,WNW,,yes,8
+2015-01-23,,moderate,,,,,yes,8
+2015-01-22,,,,strong_winds,W,,yes,8
+2015-01-21,,moderate,,,,,yes,8
+2015-01-20,,moderate,,windy_direction,WNW,,,8
+2015-01-19,,moderate,,windy_direction,NW,,,8
+2015-01-18,,moderate,,,,,,8
+2015-01-17,,moderate,,,,,,8
+2015-01-16,,moderate,,strong_winds,NW,,,8
+2015-01-15,,moderate,,windy,S,,,8
+2015-01-14,,moderate,,,,,,<8
+2015-01-13,,moderate,,,,,yes,<8
+2015-01-12,,moderate,,,,,,<8
+2015-01-11,,moderate,,,,,yes,<8
+2015-01-10,,moderate,,,,,yes,<8
+2015-01-09,,high,,,,moderate,yes,<8
+2015-01-08,,high,,strong_winds,NW,,,<8
+2015-01-07,,high,,strong_winds,NNW,,yes,<8
+2015-01-06,,moderate,,,,,,<8
+2015-01-05,,high,,,,moderate,,<8
+2015-01-04,,high,,,,,yes,<8
+2015-01-03,,high,,,,,,<8
+2015-01-02,,high,,windy_direction,ENE,,yes,<8
+2015-01-01,,moderate,,strong_winds,NE,,,<8
+2014-12-31,,moderate,,windy_direction,W,,,<8
+2014-12-30,,high,,windy_direction,W,,,<8
+2014-12-29,,high,,,,,,<8
+2014-12-28,,moderate,,windy_direction,NNW,,,<8
+2014-12-27,,moderate,,,,,,<8
+2014-12-26,,moderate,,,,,yes,<8
+2014-12-25,,moderate,,,,,,<8
+2014-12-24,,moderate,,windy_direction,NW,,,<8
+2014-12-23,,moderate,,,,,,<8
+2014-12-22,,moderate,,,,,,<8
+2014-12-21,,moderate,,,,,,<8
+2014-12-20,,moderate,,,,,yes,<8
+2014-12-19,,moderate,,,,,,<8
+2014-12-18,,moderate,,,,,yes,<8
+2014-12-17,,moderate,,windy_direction,SSE,,,<8
+2014-12-16,,moderate,,strong_winds,SSE,,,<8
+2014-12-15,,moderate,,windy_direction,SE,,,<8
+2014-12-14,,moderate,,,,,,<8
+2014-12-13,,moderate,,,,,,<8
+2014-12-12,,moderate,,windy_direction,ESE,,,<8
+2014-12-11,,,,windy_direction,S,,,<8
+2014-12-10,,moderate,,windy_direction,S,,,<8
+2014-12-09,,moderate,,strong_winds,SW,,yes,<8
+2014-12-08,,moderate,,windy_direction,S,,,<8
+2014-12-07,,moderate,,,,,yes,<8
+2014-12-06,,moderate,,,,,,<8
+2014-12-05,,moderate,,,,moderate,,<8
+2014-12-04,,moderate,,,,moderate,yes,<8
+2014-12-03,,moderate,,,,,,<8
+2014-12-02,,moderate,,,,,yes,<8
+2014-12-01,,moderate,,,,moderate,,<8
+2014-11-30,,high,,,,,yes,<8
+2014-11-29,,high,,windy_direction,NW,,,<8
+2014-11-28,,high,,windy_direction,NW,,yes,8
+2014-11-27,,high,,strong_winds,NE,,yes,8
+2014-11-26,,moderate,,,,,yes,8
+2014-11-25,,moderate,,,,,,8
+2014-11-24,,moderate,,windy_direction,W,,yes,8
+2014-11-23,,moderate,,,,,,8
+2014-11-22,,moderate,,strong_winds,E,,yes,8
+2014-11-21,,,,windy_direction,W,,yes,8
+2014-11-20,,moderate,,,,,,8
+2014-11-19,,moderate,,,,,,8
+2014-11-18,,moderate,,windy_direction,NNW,,,8
+2014-11-17,,moderate,,,,,yes,8
+2014-11-16,,moderate,,strong_winds,NW,,,8
+2014-11-15,,moderate,,strong_winds,NNW,,,8
+2014-11-14,,moderate,,,,,,8
+2014-11-13,,moderate,,,,moderate,,8
+2014-11-12,,moderate,,,,,yes,8
+2014-11-11,,moderate,,,,,,8
+2014-11-10,,moderate,,windy_direction,NW,,yes,8
+2014-11-09,,moderate,,,,,,8
+2014-11-08,,moderate,,,,,yes,9
+2014-11-07,,moderate,,windy_direction,N,,yes,9
+2014-11-06,,,,strong_winds,SSE,,yes,9
+2014-11-05,,,,windy_direction,SSE,,yes,9
+2014-11-04,,,,windy_direction,SSE,,yes,9
+2014-11-03,,moderate,,strong_winds,W,,yes,9
+2014-11-02,,moderate,,,,,,9
+2014-11-01,,,,windy_direction,NW,,yes,9
+2014-10-31,,,,windy_direction,SE,,,9
+2014-10-30,,,,strong_winds,SSE,,yes,9
+2014-10-29,,moderate,,,,,yes,9
+2014-10-28,,moderate,,windy_direction,SE,,,9
+2014-10-27,,moderate,,windy_direction,NW,,yes,9
+2014-10-26,,moderate,,windy_direction,NW,,yes,9
+2014-10-25,,moderate,,strong_winds,E,,,9
+2014-10-24,,,,strong_winds,NW,,,10
+2014-10-23,,,,strong_winds,W,,,10
+2014-10-22,,,,strong_winds,S,,,10
+2014-10-21,,,,,,,,10
+2014-10-20,,,,,,moderate,yes,10
+2014-10-19,,,,windy_direction,S,moderate,,10
+2014-10-18,,,,windy_direction,W,,,10
+2014-10-17,,,,strong_winds,S,,,10
+2014-10-16,,,,windy,S,,yes,10
+2014-10-15,,,,,,,yes,10
+2014-10-14,,,,strong_winds,W,,,10
+2014-10-13,,,,windy_direction,SE,,,10
+2014-10-12,,,,strong_winds,NW,,,10
+2014-10-11,,,,strong_winds,WNW,,,10
+2014-10-10,,,,,,,,10
+2014-10-09,,,,windy_direction,S,,,11
+2014-10-08,,,,windy_direction,SSE,,yes,11
+2014-10-07,,,,,,,,11
+2014-10-06,,,,strong_winds,NW,,yes,11
+2014-10-05,,,,strong_winds,NW,,,11
+2014-10-04,,,,strong_winds,NW,,yes,11
+2014-10-03,,moderate,,windy_direction,S,,,11
+2014-10-02,,moderate,,strong_winds,WNW,,yes,11
+2014-10-01,,,,strong_winds,NW,,,11
+2014-09-30,,,,strong_winds,NW,,,11
+2014-09-29,,,,strong_winds,S,,,11
+2014-09-28,,,,strong_winds,S,,yes,11
+2014-09-27,,,,windy_direction,WNW,,,11
+2014-09-26,,,,strong_winds,NE,,yes,11
+2014-09-25,,,,strong_winds,NNE,,,12
+2014-09-24,,,very humid,strong_winds,W,,,12
+2014-09-23,,,,,,,,12
+2014-09-22,,,,,,,,12
+2014-09-21,,,,strong_winds,S,,,12
+2014-09-20,,,,windy_direction,WNW,,yes,12
+2014-09-19,,,,strong_winds,NW,,yes,12
+2014-09-18,,,very humid,windy_direction,NW,,,12
+2014-09-17,,,,windy,SSW,,,12
+2014-09-16,,,,,,,,12
+2014-09-15,,,,,,,,12
+2014-09-14,,,,windy_direction,W,,,12
+2014-09-13,,,,,,,yes,12
+2014-09-12,,,,windy_direction,NW,,,12
+2014-09-11,,moderate,,windy_direction,S,,yes,13
+2014-09-10,,,,,,,yes,13
+2014-09-09,,,,,,,,13
+2014-09-08,,,,strong_winds,NNE,,yes,13
+2014-09-07,,,,windy_direction,N,,yes,13
+2014-09-06,,,,windy_direction,W,,,13
+2014-09-05,,,,windy_direction,SW,,yes,13
+2014-09-04,,,,strong_winds,NNW,,yes,13
+2014-09-03,,,,windy_direction,NW,,yes,13
+2014-09-02,,,,windy_direction,NW,,yes,13
+2014-09-01,,,,,,,,13
+2014-08-31,,,,strong_winds,W,,yes,13
+2014-08-30,,,,strong_winds,NW,,yes,13
+2014-08-29,,,,strong_winds,SSE,,,13
+2014-08-28,,,,windy_direction,W,,yes,13
+2014-08-27,,,very humid,windy_direction,NNW,,,14
+2014-08-26,,,,windy_direction,SW,,,14
+2014-08-25,,,,strong_winds,SSE,,,14
+2014-08-24,,,,,,,,14
+2014-08-23,,,,,,,,14
+2014-08-22,,,,,,,,14
+2014-08-21,,,,,,,,14
+2014-08-20,,,,windy_direction,NW,moderate,yes,14
+2014-08-19,,,very humid,windy_direction,W,,yes,14
+2014-08-18,,,comfortable,windy_direction,W,,,14
+2014-08-17,,,comfortable,windy_direction,NW,,,14
+2014-08-16,hot,,ok,,,,,14
+2014-08-15,hot,,ok,,,,,14
+2014-08-14,hot,,comfortable,,,,,14
+2014-08-13,hot,,ok,windy_direction,S,,,14
+2014-08-12,hot,,comfortable,strong_winds,SE,,,15
+2014-08-11,hot,,very humid,,,,,15
+2014-08-10,,,very humid,,,,,15
+2014-08-09,,,,windy_direction,W,,yes,15
+2014-08-08,,,very humid,strong_winds,NW,,yes,15
+2014-08-07,,,very humid,,,,yes,15
+2014-08-06,,,comfortable,strong_winds,W,,yes,15
+2014-08-05,,,comfortable,windy_direction,SE,,,15
+2014-08-04,,,comfortable,,,,,15
+2014-08-03,hot,,comfortable,,,,,15
+2014-08-02,hot,,ok,windy_direction,SSE,,,15
+2014-08-01,,,comfortable,,,,,15
+2014-07-31,hot,,comfortable,windy_direction,N,,,15
+2014-07-30,hot,,ok,,,,,15
+2014-07-29,hot,,ok,,,moderate,,15
+2014-07-28,hot,,comfortable,windy_direction,SSE,,,15
+2014-07-27,,,comfortable,,,,,15
+2014-07-26,,,very humid,windy_direction,NW,,yes,16+
+2014-07-25,,,very humid,strong_winds,WNW,,yes,16+
+2014-07-24,,,comfortable,strong_winds,W,,,16+
+2014-07-23,,,ok,windy_direction,SE,,yes,16+
+2014-07-22,,,comfortable,strong_winds,SE,,yes,16+
+2014-07-21,,,very humid,,,,yes,16+
+2014-07-20,,,very humid,,,,yes,16+
+2014-07-19,,,very humid,windy_direction,NNW,,yes,16+
+2014-07-18,,,very humid,,,,yes,16+
+2014-07-17,,,very humid,windy_direction,ESE,,yes,16+
+2014-07-16,hot,,ok,windy_direction,NNW,,,16+
+2014-07-15,hot,,comfortable,windy_direction,S,,,16+
+2014-07-14,hot,,very humid,windy_direction,S,,,16+
+2014-07-13,hot,,comfortable,,,,,16+
+2014-07-12,,,comfortable,,,,yes,16+
+2014-07-11,,,very humid,,,,,16+
+2014-07-10,,,,strong_winds,WNW,,yes,16+
+2014-07-09,hot,,comfortable,windy_direction,NNW,,,16+
+2014-07-08,hot,,comfortable,windy_direction,S,,,16+
+2014-07-07,,,comfortable,windy,WNW,,,16+
+2014-07-06,,,very humid,strong_winds,W,,yes,16+
+2014-07-05,,,very humid,strong_winds,NW,,yes,16+
+2014-07-04,,,very humid,windy_direction,NW,,,16+
+2014-07-03,hot,,ok,strong_winds,NW,,yes,16+
+2014-07-02,hot,,comfortable,strong_winds,SE,,yes,16+
+2014-07-01,,,comfortable,,,,yes,16+
+2014-06-30,,,very humid,strong_winds,NW,,yes,16+
+2014-06-29,,,very humid,strong_winds,W,,yes,16+
+2014-06-28,,,comfortable,windy_direction,W,,yes,16+
+2014-06-27,,,very humid,strong_winds,W,,yes,16+
+2014-06-26,,,very humid,windy_direction,NW,,yes,16+
+2014-06-25,,,very humid,strong_winds,SSE,,,16+
+2014-06-24,,,comfortable,strong_winds,SSE,,,16+
+2014-06-23,,,very humid,windy_direction,E,,,16+
+2014-06-22,,,,windy_direction,NNW,,yes,16+
+2014-06-21,,,,strong_winds,NNW,,yes,16+
+2014-06-20,,,very humid,strong_winds,NNW,,yes,16+
+2014-06-19,,,very humid,,,,yes,16+
+2014-06-18,,,very humid,windy_direction,E,,yes,16+
+2014-06-17,,,,,,,,16+
+2014-06-16,,,,windy_direction,NE,,,16+
+2014-06-15,,,,windy_direction,ESE,,,16+
+2014-06-14,,,,windy_direction,SSW,,,16+
+2014-06-13,,,,strong_winds,ESE,,,16+
+2014-06-12,,,,windy_direction,SSE,,yes,16+
+2014-06-11,,,,,,,yes,16+
+2014-06-10,,,,strong_winds,W,,yes,16+
+2014-06-09,,,,strong_winds,W,,yes,16+
+2014-06-08,,,,,,,,16+
+2014-06-07,,,,strong_winds,NW,,yes,16+
+2014-06-06,,,,windy_direction,NW,,yes,16+
+2014-06-05,,,,strong_winds,NW,,yes,16+
+2014-06-04,,,,strong_winds,NW,,yes,16+
+2014-06-03,,,,strong_winds,NW,,yes,16+
+2014-06-02,,,,strong_winds,W,,yes,16+
+2014-06-01,,,,strong_winds,N,,yes,16+
+2014-05-31,,,,strong_winds,S,,yes,16+
+2014-05-30,,,,strong_winds,W,,yes,16+
+2014-05-29,,,,windy_direction,NW,,yes,16+
+2014-05-28,,,,,,,yes,16+
+2014-05-27,,,,windy_direction,NW,,yes,16+
+2014-05-26,,,,windy_direction,W,,yes,16+
+2014-05-25,,,,windy_direction,E,,yes,16+
+2014-05-24,,,,strong_winds,NW,,,16+
+2014-05-23,,,,strong_winds,W,,,16+
+2014-05-22,,,,,,,,16+
+2014-05-21,,,,,,,yes,16+
+2014-05-20,,,,windy_direction,SSE,,yes,16+
+2014-05-19,,,,windy_direction,ENE,,,16+
+2014-05-18,,,,strong_winds,NNE,,yes,16+
+2014-05-17,,,,windy_direction,SSE,,,16+
+2014-05-16,,,,strong_winds,NW,,yes,15
+2014-05-15,,,,strong_winds,WNW,,yes,15
+2014-05-14,,,,windy_direction,WNW,,yes,15
+2014-05-13,,,,windy_direction,N,,,15
+2014-05-12,,,,windy_direction,NW,,,15
+2014-05-11,,moderate,,windy_direction,NW,,,15
+2014-05-10,,,,strong_winds,NW,,,15
+2014-05-09,,,,windy_direction,NW,,,15
+2014-05-08,,,,windy_direction,NW,,,15
+2014-05-07,,moderate,,windy_direction,SW,,yes,15
+2014-05-06,,moderate,,strong_winds,W,,,15
+2014-05-05,,moderate,,strong_winds,NNW,,yes,15
+2014-05-04,,moderate,,,,,yes,15
+2014-05-03,,moderate,,windy_direction,NE,,,15
+2014-05-02,,,,strong_winds,NNW,,yes,15
+2014-05-01,,,,strong_winds,NW,,,15
+2014-04-30,,,,windy_direction,SSW,,yes,15
+2014-04-29,,,,windy_direction,W,,yes,14
+2014-04-28,,,,windy_direction,NW,,yes,14
+2014-04-27,,,,,,,yes,14
+2014-04-26,,,,,,,,14
+2014-04-25,,,,,,,yes,14
+2014-04-24,,,,strong_winds,NW,,,14
+2014-04-23,,,,windy_direction,WNW,,yes,14
+2014-04-22,,,,strong_winds,E,,,14
+2014-04-21,,,,,,,yes,14
+2014-04-20,,,,strong_winds,NW,,yes,14
+2014-04-19,,moderate,,,,,yes,14
+2014-04-18,,moderate,,,,,yes,14
+2014-04-17,,moderate,,strong_winds,SSE,,yes,14
+2014-04-16,,moderate,,strong_winds,SE,,yes,14
+2014-04-15,,moderate,,,,,yes,14
+2014-04-14,,moderate,,windy_direction,SSE,,,13
+2014-04-13,,moderate,,,,,,13
+2014-04-12,,moderate,,strong_winds,NNW,,,13
+2014-04-11,,moderate,,strong_winds,NW,,,13
+2014-04-10,,,,windy_direction,W,,yes,13
+2014-04-09,,,,strong_winds,W,,yes,13
+2014-04-08,,,,strong_winds,WNW,,,13
+2014-04-07,,,,windy,SSW,,yes,13
+2014-04-06,,low,,strong_winds,WNW,,,13
+2014-04-05,,moderate,,windy_direction,SSW,,,13
+2014-04-04,,moderate,,strong_winds,SE,,,13
+2014-04-03,,moderate,,windy_direction,SE,moderate,,13
+2014-04-02,,moderate,,,,,,13
+2014-04-01,,moderate,,,,,yes,13
+2014-03-31,,moderate,,windy,SSE,,,12
+2014-03-30,,moderate,,strong_winds,NNE,,,12
+2014-03-29,,moderate,,,,,,12
+2014-03-28,,moderate,,windy_direction,S,moderate,,12
+2014-03-27,,moderate,,,,,yes,12
+2014-03-26,,moderate,,,,,yes,12
+2014-03-25,,moderate,,,,,yes,12
+2014-03-24,,moderate,,,,,,12
+2014-03-23,,moderate,,windy_direction,NW,,,12
+2014-03-22,,moderate,,,,,,12
+2014-03-21,,moderate,,,,,,12
+2014-03-20,,moderate,,strong_winds,NNW,,,12
+2014-03-19,,moderate,,,,,,12
+2014-03-18,,moderate,,strong_winds,NW,,,12
+2014-03-17,,,,windy_direction,NW,,,11
+2014-03-16,,,,windy_direction,SW,,,11
+2014-03-15,,moderate,,windy_direction,S,,,11
+2014-03-14,,moderate,,windy_direction,SE,,yes,11
+2014-03-13,,moderate,,strong_winds,NW,,,11
+2014-03-12,,,,windy_direction,WNW,,,11
+2014-03-11,,moderate,,windy_direction,W,,,11
+2014-03-10,,moderate,,windy_direction,W,,,11
+2014-03-09,,,,windy_direction,NW,,yes,11
+2014-03-08,,moderate,,,,moderate,,11
+2014-03-07,,moderate,,,,,yes,11
+2014-03-06,,moderate,,,,,yes,11
+2014-03-05,,high,,,,moderate,,11
+2014-03-04,,moderate,,,,,yes,11
+2014-03-03,,high,,,,,,10
+2014-03-02,,high,,windy_direction,SE,,,10
+2014-03-01,,high,,,,,,10
+2014-02-28,,high,,windy_direction,N,,,10
+2014-02-27,,high,,strong_winds,NNW,,,10
+2014-02-26,,moderate,,,,moderate,,10
+2014-02-25,,high,,,,moderate,yes,10
+2014-02-24,,high,,,,,,10
+2014-02-23,,high,,,,,,10
+2014-02-22,,high,,windy_direction,N,,,10
+2014-02-21,,moderate,,strong_winds,NW,,,10
+2014-02-20,,moderate,,,,moderate,yes,10
+2014-02-19,,moderate,,windy_direction,SE,,,10
+2014-02-18,,moderate,,,,,,10
+2014-02-17,,moderate,,,,,,9
+2014-02-16,,moderate,,,,,,9
+2014-02-15,,moderate,,,,,yes,9
+2014-02-14,,moderate,,,,moderate,,9
+2014-02-13,,moderate,,,,,,9
+2014-02-12,,high,,windy_direction,SE,,yes,9
+2014-02-11,,high,,,,,yes,9
+2014-02-10,,high,,,,moderate,,9
+2014-02-09,,high,,,,,,9
+2014-02-08,,high,,,,,,9
+2014-02-07,,moderate,,,,,,9
+2014-02-06,,high,,,,,yes,9
+2014-02-05,,high,,,,,,9
+2014-02-04,,high,,,,,,9
+2014-02-03,,high,,strong_winds,N,,yes,9
+2014-02-02,,moderate,,windy_direction,NW,,,9
+2014-02-01,,moderate,,windy_direction,NW,,,8
+2014-01-31,,moderate,,strong_winds,NNW,,,8
+2014-01-30,,high,,strong_winds,NNW,,,8
+2014-01-29,,moderate,,strong_winds,N,,,8
+2014-01-28,,moderate,,,,,yes,8
+2014-01-27,,moderate,,,,,,8
+2014-01-26,,moderate,,strong_winds,N,,,8
+2014-01-25,,,,strong_winds,NW,,,8
+2014-01-24,,,,windy_direction,WNW,,,8
+2014-01-23,,moderate,,windy_direction,W,,,8
+2014-01-22,,moderate,,,,,,8
+2014-01-21,,moderate,,windy,NW,,,8
+2014-01-20,,moderate,,,,,,8
+2014-01-19,,moderate,,strong_winds,W,,yes,8
+2014-01-18,,moderate,,strong_winds,WNW,,,8
+2014-01-17,,moderate,,windy_direction,W,,,8
+2014-01-16,,moderate,,windy_direction,W,,yes,8
+2014-01-15,,,,strong_winds,NW,,yes,8
+2014-01-14,,moderate,,windy_direction,WNW,,yes,8
+2014-01-13,,moderate,,strong_winds,WNW,,yes,<8
+2014-01-12,,moderate,,strong_winds,NW,,,<8
+2014-01-11,,moderate,,strong_winds,SSE,,,<8
+2014-01-10,,moderate,,,,,,<8
+2014-01-09,,moderate,,,,moderate,,<8
+2014-01-08,,moderate,,windy_direction,S,,,<8
+2014-01-07,,moderate,,,,,,<8
+2014-01-06,,moderate,,,,,,<8
+2014-01-05,,high,,,,,yes,<8
+2014-01-04,,high,,strong_winds,NW,,yes,<8
+2014-01-03,,high,,windy_direction,N,,yes,<8
+2014-01-02,,moderate,,,,,yes,<8
+2014-01-01,,moderate,,,,,yes,<8
+2013-12-31,,moderate,,,,,yes,<8
+2013-12-30,,high,,,,,yes,<8
+2013-12-29,,high,,,,,yes,<8
+2013-12-28,,high,,windy_direction,NNW,,,<8
+2013-12-27,,high,,strong_winds,N,,,<8
+2013-12-26,,moderate,,,,,yes,<8
+2013-12-25,,moderate,,,,,,<8
+2013-12-24,,moderate,,windy_direction,W,,,<8
+2013-12-23,,moderate,,strong_winds,SSE,,yes,<8
+2013-12-22,,high,,windy_direction,S,,yes,<8
+2013-12-21,,high,,,,,,<8
+2013-12-20,,moderate,,,,,,<8
+2013-12-19,,high,,,,,,<8
+2013-12-18,,high,,strong_winds,N,,,<8
+2013-12-17,,moderate,,strong_winds,NW,,,<8
+2013-12-16,,moderate,,strong_winds,NW,,yes,<8
+2013-12-15,,moderate,,strong_winds,NW,,yes,<8
+2013-12-14,,moderate,,,,,yes,<8
+2013-12-13,,high,,windy,SSE,,yes,<8
+2013-12-12,,high,,,,,yes,<8
+2013-12-11,,moderate,,,,,,<8
+2013-12-10,,high,,windy_direction,N,,,<8
+2013-12-09,,moderate,,strong_winds,NW,,yes,<8
+2013-12-08,,high,,windy_direction,NNW,,,<8
+2013-12-07,,very high,,strong_winds,NW,,yes,<8
+2013-12-06,,very high,,,,,,<8
+2013-12-05,,high,,windy_direction,NNW,,,<8
+2013-12-04,,high,,windy_direction,NW,,,<8
+2013-12-03,,moderate,,windy_direction,NW,,yes,<8
+2013-12-02,,moderate,,strong_winds,NNW,,yes,<8
+2013-12-01,,moderate,,,,,,<8
+2013-11-30,,moderate,,,,,,<8
+2013-11-29,,moderate,,,,moderate,yes,<8
+2013-11-28,,moderate,,windy_direction,SSE,,,<8
+2013-11-27,,moderate,,,,,,8
+2013-11-26,,moderate,,,,,yes,8
+2013-11-25,,moderate,,,,,,8
+2013-11-24,,moderate,,windy_direction,NW,,yes,8
+2013-11-23,,moderate,,,,,yes,8
+2013-11-22,,moderate,,,,,yes,8
+2013-11-21,,moderate,,,,,yes,8
+2013-11-20,,high,,,,,,8
+2013-11-19,,high,,windy,NNW,,yes,8
+2013-11-18,,moderate,,,,,yes,8
+2013-11-17,,moderate,,,,,yes,8
+2013-11-16,,moderate,,strong_winds,NE,,yes,8
+2013-11-15,,moderate,,strong_winds,N,,yes,8
+2013-11-14,,,,,,,yes,8
+2013-11-13,,,,windy_direction,WNW,,yes,8
+2013-11-12,,moderate,,,,,,8
+2013-11-11,,moderate,,,,,,8
+2013-11-10,,moderate,,windy_direction,S,,yes,8
+2013-11-09,,moderate,,,,,,8
+2013-11-08,,moderate,,strong_winds,NW,,,9
+2013-11-07,,moderate,,windy_direction,ESE,,yes,9
+2013-11-06,,moderate,,,,,yes,9
+2013-11-05,,moderate,,,,,,9
+2013-11-04,,moderate,,,,,,9
+2013-11-03,,moderate,,windy_direction,NNE,,yes,9
+2013-11-02,,,,windy_direction,N,,yes,9
+2013-11-01,,,,windy_direction,W,,,9
+2013-10-31,,low,,strong_winds,NW,,yes,9
+2013-10-30,,low,,,,,,9
+2013-10-29,,moderate,,,,,,9
+2013-10-28,,moderate,,windy_direction,SSE,,,9
+2013-10-27,,moderate,,strong_winds,NNE,,yes,9
+2013-10-26,,,,strong_winds,WNW,,,9
+2013-10-25,,,,,,,,9
+2013-10-24,,,,windy_direction,SSE,,,10
+2013-10-23,,,,,,,,10
+2013-10-22,,,,windy_direction,NNW,,,10
+2013-10-21,,,,windy_direction,NW,,,10
+2013-10-20,,,,,,,,10
+2013-10-19,,,,strong_winds,NW,,yes,10
+2013-10-18,,moderate,,windy_direction,WNW,,,10
+2013-10-17,,,,strong_winds,NW,,,10
+2013-10-16,,moderate,,windy_direction,NW,,,10
+2013-10-15,,,,strong_winds,NW,,yes,10
+2013-10-14,,moderate,,,,,,10
+2013-10-13,,,,,,,,10
+2013-10-12,,moderate,,,,,,10
+2013-10-11,,,,windy_direction,NW,,,10
+2013-10-10,,,,,,,,10
+2013-10-09,,moderate,,windy_direction,S,,,11
+2013-10-08,,,,strong_winds,WNW,,,11
+2013-10-07,,,,strong_winds,NNW,,yes,11
+2013-10-06,,,,,,,,11
+2013-10-05,,,,,,,,11
+2013-10-04,,moderate,,windy,S,,yes,11
+2013-10-03,,,,,,,yes,11
+2013-10-02,,,,windy_direction,NW,,yes,11
+2013-10-01,,,,windy_direction,NNW,,yes,11
+2013-09-30,,,,windy_direction,NW,,,11
+2013-09-29,,,,windy_direction,NW,,yes,11
+2013-09-28,,,,windy_direction,S,,,11
+2013-09-27,,,,windy_direction,W,,,11
+2013-09-26,,,,windy_direction,NW,,,11
+2013-09-25,,,,windy_direction,NW,,,12
+2013-09-24,,,,,,,,12
+2013-09-23,,,,strong_winds,WSW,,,12
+2013-09-22,,,,strong_winds,WSW,,,12
+2013-09-21,,,,strong_winds,WNW,,yes,12
+2013-09-20,,,,,,,yes,12
+2013-09-19,,,,windy_direction,S,,,12
+2013-09-18,,,,,,,,12
+2013-09-17,,,,strong_winds,W,,,12
+2013-09-16,,,very humid,strong_winds,WNW,,yes,12
+2013-09-15,,,,strong_winds,S,,yes,12
+2013-09-14,,,,windy,SSE,,yes,12
+2013-09-13,,,very humid,windy_direction,NW,,,12
+2013-09-12,,,,windy,SSW,,,12
+2013-09-11,,,,,,,yes,13
+2013-09-10,,,,strong_winds,NW,,,13
+2013-09-09,,,,strong_winds,NW,,yes,13
+2013-09-08,,,comfortable,,,,yes,13
+2013-09-07,,,very humid,,,,yes,13
+2013-09-06,,,very humid,,,,,13
+2013-09-05,,,very humid,,,,,13
+2013-09-04,hot,,very humid,strong_winds,SE,,yes,13
+2013-09-03,,,very humid,windy_direction,NNE,,,13
+2013-09-02,,,very humid,,,,,13
+2013-09-01,,,very humid,,,,,13
+2013-08-31,,,very humid,windy_direction,NW,,yes,13
+2013-08-30,,,comfortable,strong_winds,NW,,yes,13
+2013-08-29,,,comfortable,strong_winds,NNE,,yes,13
+2013-08-28,,,very humid,windy_direction,NNE,,,13
+2013-08-27,,,very humid,windy_direction,NW,,yes,14
+2013-08-26,,,very humid,windy_direction,E,,yes,14
+2013-08-25,,,very humid,windy,WNW,,,14
+2013-08-24,,,very humid,,,,,14
+2013-08-23,,,very humid,,,,,14
+2013-08-22,,,,,,,yes,14
+2013-08-21,,,,windy_direction,NW,,,14
+2013-08-20,,,,strong_winds,WNW,,yes,14
+2013-08-19,,,,strong_winds,W,,,14
+2013-08-18,,,very humid,windy_direction,NW,,yes,14
+2013-08-17,,,comfortable,strong_winds,SSE,,yes,14
+2013-08-16,,,comfortable,,,,yes,14
+2013-08-15,hot,,comfortable,windy_direction,NW,,,14
+2013-08-14,hot,,ok,windy_direction,S,,,14
+2013-08-13,,,comfortable,,,,,14
+2013-08-12,,,comfortable,,,,yes,15
+2013-08-11,,,comfortable,strong_winds,SSE,,yes,15
+2013-08-10,,,very humid,windy_direction,SSE,,yes,15
+2013-08-09,,,,strong_winds,SSE,,,15
+2013-08-08,,,,,,,,15
+2013-08-07,,,very humid,,,,yes,15
+2013-08-06,,,very humid,,,,yes,15
+2013-08-05,,,comfortable,windy_direction,NNW,,yes,15
+2013-08-04,,,very humid,windy_direction,WNW,,,15
+2013-08-03,,,very humid,strong_winds,SE,,,15
+2013-08-02,,,very humid,,,,,15
+2013-08-01,,,very humid,,,,,15
+2013-07-31,,,very humid,windy_direction,NNW,,,15
+2013-07-30,,,,windy,W,,yes,15
+2013-07-29,,,,windy_direction,NW,,yes,15
+2013-07-28,,,,strong_winds,W,,yes,15
+2013-07-27,,,very humid,strong_winds,NW,,yes,15
+2013-07-26,,,,strong_winds,SSE,,,16+
+2013-07-25,,,,windy_direction,SSE,,,16+
+2013-07-24,,,very humid,windy_direction,NE,,,16+
+2013-07-23,,,very humid,,,,,16+
+2013-07-22,,,comfortable,windy_direction,W,,yes,16+
+2013-07-21,,,very humid,,,,yes,16+
+2013-07-20,,,comfortable,windy_direction,WNW,,yes,16+
+2013-07-19,,,comfortable,strong_winds,N,,yes,16+
+2013-07-18,hot,,comfortable,strong_winds,WNW,,,16+
+2013-07-17,,,very humid,strong_winds,SSE,,,16+
+2013-07-16,,,,,,,yes,16+
+2013-07-15,,,very humid,windy_direction,NW,,yes,16+
+2013-07-14,,,very humid,windy,S,,yes,16+
+2013-07-13,,,,windy_direction,SW,,yes,16+
+2013-07-12,,,,strong_winds,W,,yes,16+
+2013-07-11,,,very humid,strong_winds,WNW,,yes,16+
+2013-07-10,,,comfortable,strong_winds,NNW,,yes,16+
+2013-07-09,,,very humid,strong_winds,NNE,,,16+
+2013-07-08,,,very humid,windy_direction,SSW,,,16+
+2013-07-07,,,very humid,windy_direction,NNW,,yes,16+
+2013-07-06,,,,windy_direction,NW,,,16+
+2013-07-05,,,very humid,windy_direction,NNW,,,16+
+2013-07-04,,,very humid,strong_winds,NNE,,,16+
+2013-07-03,,,very humid,windy_direction,WNW,,yes,16+
+2013-07-02,hot,,somewhat,strong_winds,NW,,yes,16+
+2013-07-01,hot,,ok,windy_direction,SSE,,,16+
+2013-06-30,hot,,comfortable,windy_direction,ENE,,,16+
+2013-06-29,hot,,comfortable,windy_direction,ESE,,,16+
+2013-06-28,,,very humid,,,,,16+
+2013-06-27,,,very humid,strong_winds,WNW,,yes,16+
+2013-06-26,,,very humid,strong_winds,W,,yes,16+
+2013-06-25,,,comfortable,,,,yes,16+
+2013-06-24,,,very humid,windy_direction,S,,,16+
+2013-06-23,,,very humid,windy_direction,NE,,yes,16+
+2013-06-22,,,,strong_winds,NNW,,yes,16+
+2013-06-21,,,,strong_winds,NE,,yes,16+
+2013-06-20,,,very humid,strong_winds,E,,yes,16+
+2013-06-19,,,very humid,strong_winds,ENE,,yes,16+
+2013-06-18,,,comfortable,strong_winds,ESE,,yes,16+
+2013-06-17,,,very humid,windy_direction,S,,yes,16+
+2013-06-16,,,very humid,strong_winds,NW,,yes,16+
+2013-06-15,,,,strong_winds,NW,,yes,16+
+2013-06-14,,,,windy_direction,NNE,,yes,16+
+2013-06-13,,,,strong_winds,SSW,,yes,16+
+2013-06-12,,,,windy_direction,N,,yes,16+
+2013-06-11,,,,,,,,16+
+2013-06-10,,,,strong_winds,WNW,,yes,16+
+2013-06-09,,,,strong_winds,NW,,yes,16+
+2013-06-08,,,,strong_winds,NW,,,16+
+2013-06-07,,,,windy_direction,N,,,16+
+2013-06-06,,,,windy_direction,WNW,,yes,16+
+2013-06-05,,,,strong_winds,WNW,,yes,16+
+2013-06-04,,,,strong_winds,S,,yes,16+
+2013-06-03,,,,windy_direction,ESE,,yes,16+
+2013-06-02,,,,,,,yes,16+
+2013-06-01,,,,windy_direction,WNW,,,16+
+2013-05-31,,,very humid,,,,,16+
+2013-05-30,,,very humid,,,,yes,16+
+2013-05-29,,,,strong_winds,SSE,,yes,16+
+2013-05-28,,,,windy_direction,WSW,,yes,16+
+2013-05-27,,,,windy,E,,,16+
+2013-05-26,,,,strong_winds,NW,,,16+
+2013-05-25,,,,strong_winds,E,,yes,16+
+2013-05-24,,,,strong_winds,ENE,,yes,16+
+2013-05-23,,,,strong_winds,E,,,16+
+2013-05-22,,,,strong_winds,ESE,,,16+
+2013-05-21,,,,strong_winds,SE,moderate,yes,16+
+2013-05-20,,,,windy_direction,SSE,,,16+
+2013-05-19,,,,windy_direction,SSE,,,16+
+2013-05-18,,,,strong_winds,NNE,,yes,16+
+2013-05-17,,,,strong_winds,E,,yes,16+
+2013-05-16,,,,,,,yes,15
+2013-05-15,,,,windy_direction,NW,,yes,15
+2013-05-14,,,,strong_winds,WNW,,yes,15
+2013-05-13,,,,windy_direction,W,,,15
+2013-05-12,,,,strong_winds,NNW,,yes,15
+2013-05-11,,,,strong_winds,S,,,15
+2013-05-10,,,,,,,yes,15
+2013-05-09,,,,strong_winds,NW,,yes,15
+2013-05-08,,,,strong_winds,SSE,,,15
+2013-05-07,,,,strong_winds,N,,,15
+2013-05-06,hot,,,strong_winds,NNE,,yes,15
+2013-05-05,,,,windy_direction,NW,,,15
+2013-05-04,,,,windy_direction,SSW,,,15
+2013-05-03,,,,windy_direction,NW,,,15
+2013-05-02,,,,strong_winds,W,,,15
+2013-05-01,,moderate,,windy_direction,SSE,,yes,15
+2013-04-30,,moderate,,strong_winds,NW,,,15
+2013-04-29,,moderate,,strong_winds,NW,,yes,14
+2013-04-28,,moderate,,windy_direction,E,,yes,14
+2013-04-27,,,,strong_winds,NNW,,yes,14
+2013-04-26,,,,strong_winds,NNW,,,14
+2013-04-25,,,,strong_winds,W,,,14
+2013-04-24,,moderate,,strong_winds,NW,,,14
+2013-04-23,,moderate,,strong_winds,NW,,,14
+2013-04-22,,moderate,,,,,yes,14
+2013-04-21,,moderate,,windy_direction,NW,,,14
+2013-04-20,,moderate,,strong_winds,NW,,yes,14
+2013-04-19,,moderate,,strong_winds,SSE,,yes,14
+2013-04-18,,,,strong_winds,NW,,,14
+2013-04-17,,moderate,,windy_direction,SSE,,yes,14
+2013-04-16,,moderate,,,,,,14
+2013-04-15,,moderate,,windy_direction,ENE,,,14
+2013-04-14,,moderate,,,,,yes,13
+2013-04-13,,moderate,,strong_winds,ENE,,yes,13
+2013-04-12,,moderate,,windy_direction,SE,,,13
+2013-04-11,,moderate,,strong_winds,WNW,,yes,13
+2013-04-10,,moderate,,strong_winds,S,,yes,13
+2013-04-09,,moderate,,strong_winds,SSE,,yes,13
+2013-04-08,,moderate,,,,,yes,13
+2013-04-07,,moderate,,,,,yes,13
+2013-04-06,,moderate,,,,,,13
+2013-04-05,,moderate,,windy_direction,N,,yes,13
+2013-04-04,,moderate,,strong_winds,SSE,,,13
+2013-04-03,,moderate,,strong_winds,NW,,,13
+2013-04-02,,moderate,,strong_winds,WNW,moderate,yes,13
+2013-04-01,,moderate,,strong_winds,NNE,moderate,yes,13
+2013-03-31,,moderate,,,,moderate,,12
+2013-03-30,,moderate,,,,moderate,,12
+2013-03-29,,moderate,,,,moderate,yes,12
+2013-03-28,,moderate,,,,moderate,,12
+2013-03-27,,moderate,,,,moderate,yes,12
+2013-03-26,,moderate,,,,moderate,,12
+2013-03-25,,moderate,,,,moderate,,12
+2013-03-24,,moderate,,,,moderate,yes,12
+2013-03-23,,moderate,,,,,yes,12
+2013-03-22,,moderate,,windy_direction,NW,,yes,12
+2013-03-21,,moderate,,,,,yes,12
+2013-03-20,,moderate,,strong_winds,SE,,yes,12
+2013-03-19,,moderate,,windy_direction,N,moderate,,12
+2013-03-18,,moderate,,,,,yes,12
+2013-03-17,,moderate,,,,,yes,11
+2013-03-16,,moderate,,windy_direction,SE,,yes,11
+2013-03-15,,moderate,,windy_direction,NNW,,yes,11
+2013-03-14,,moderate,,,,,yes,11
+2013-03-13,,moderate,,,,,,11
+2013-03-12,,moderate,,strong_winds,S,,yes,11
+2013-03-11,,moderate,,strong_winds,NW,,,11
+2013-03-10,,moderate,,strong_winds,NW,,yes,11
+2013-03-09,,moderate,,,,moderate,yes,11
+2013-03-08,,moderate,,,,moderate,,11
+2013-03-07,,moderate,,,,,,11
+2013-03-06,,moderate,,,,,,11
+2013-03-05,,moderate,,windy_direction,SSE,moderate,yes,11
+2013-03-04,,moderate,,,,,,11
+2013-03-03,,moderate,,,,,yes,10
+2013-03-02,,moderate,,,,,yes,10
+2013-03-01,,moderate,,windy_direction,S,,,10
+2013-02-28,,moderate,,windy_direction,NNE,moderate,yes,10
+2013-02-27,,moderate,,windy_direction,S,,,10
+2013-02-26,,moderate,,,,,,10
+2013-02-25,,moderate,,,,,,10
+2013-02-24,,moderate,,,,,,10
+2013-02-23,,moderate,,strong_winds,NW,,yes,10
+2013-02-22,,moderate,,windy,S,,yes,10
+2013-02-21,,moderate,,windy_direction,S,,,10
+2013-02-20,,moderate,,windy_direction,S,,,10
+2013-02-19,,moderate,,strong_winds,SSE,,,10
+2013-02-18,,moderate,,strong_winds,SE,,,10
+2013-02-17,,moderate,,windy_direction,NNW,,,10
+2013-02-16,,moderate,,,,,,9
+2013-02-15,,moderate,,,,,,9
+2013-02-14,,moderate,,windy_direction,WNW,,,9
+2013-02-13,,moderate,,strong_winds,NW,,,9
+2013-02-12,,moderate,,strong_winds,WNW,,,9
+2013-02-11,,moderate,,windy_direction,WNW,,,9
+2013-02-10,,moderate,,windy_direction,S,,,9
+2013-02-09,,moderate,,strong_winds,NW,,,9
+2013-02-08,,moderate,,,,moderate,,9
+2013-02-07,,moderate,,,,moderate,,9
+2013-02-06,,moderate,,,,moderate,yes,9
+2013-02-05,,moderate,,,,moderate,,9
+2013-02-04,,moderate,,strong_winds,NW,,yes,9
+2013-02-03,,moderate,,,,,yes,9
+2013-02-02,,moderate,,windy_direction,NW,,yes,9
+2013-02-01,,moderate,,,,moderate,yes,8
+2013-01-31,,high,,,,,yes,8
+2013-01-30,,high,,windy_direction,N,,yes,8
+2013-01-29,,very high,,strong_winds,NW,,,8
+2013-01-28,,high,,strong_winds,NE,,,8
+2013-01-27,,moderate,,,,moderate,,8
+2013-01-26,,moderate,,,,moderate,,8
+2013-01-25,,moderate,,,,moderate,,8
+2013-01-24,,moderate,,windy_direction,SSE,,yes,8
+2013-01-23,,moderate,,strong_winds,SE,,yes,8
+2013-01-22,,moderate,,,,,,8
+2013-01-21,,moderate,,,,,yes,8
+2013-01-20,,high,,windy_direction,NNW,,,8
+2013-01-19,,high,,strong_winds,N,,yes,8
+2013-01-18,,moderate,,strong_winds,NNW,,yes,8
+2013-01-17,,moderate,,,,,yes,8
+2013-01-16,,moderate,,strong_winds,NW,,,8
+2013-01-15,,,,strong_winds,WNW,,yes,8
+2013-01-14,,moderate,,windy_direction,NNE,,yes,8
+2013-01-13,,moderate,,,,,,<8
+2013-01-12,,moderate,,,,,yes,<8
+2013-01-11,,moderate,,,,,,<8
+2013-01-10,,high,,windy_direction,N,,,<8
+2013-01-09,,moderate,,windy_direction,N,,,<8
+2013-01-08,,moderate,,strong_winds,WNW,,yes,<8
+2013-01-07,,moderate,,,,,,<8
+2013-01-06,,moderate,,windy_direction,WNW,,yes,<8
+2013-01-05,,moderate,,,,,,<8
+2013-01-04,,moderate,,,,moderate,yes,<8
+2013-01-03,,moderate,,,,moderate,yes,<8
+2013-01-02,,moderate,,,,,,<8
+2013-01-01,,moderate,,strong_winds,WNW,,yes,<8
+2012-12-31,,moderate,,,,,,<8
