@@ -1,0 +1,1976 @@
+(dp0
+I1
+S'Status Detail_311 Redirecting to Other Business Area'
+p1
+sI2
+S'Status Detail_Assessed-No Action Required'
+p2
+sI3
+S'Status Detail_Assessment in Progress'
+p3
+sI4
+S'Status Detail_Citizen Complied'
+p4
+sI5
+S'Status Detail_Citizen Contacted'
+p5
+sI6
+S'Status Detail_Deferred-Future Work Planned.'
+p6
+sI7
+S'Status Detail_Does Not Meet Bylaw Offence Standards'
+p7
+sI8
+S'Status Detail_Duplicate Request Exists'
+p8
+sI9
+S'Status Detail_Enforcement Action Taken'
+p9
+sI10
+S'Status Detail_Investigation Ongoing'
+p10
+sI11
+S'Status Detail_Location Not Found'
+p11
+sI12
+S'Status Detail_Lost Item Not found'
+p12
+sI13
+S'Status Detail_More Information Required, Please Call 311'
+p13
+sI14
+S'Status Detail_No Contact Information'
+p14
+sI15
+S'Status Detail_Non-City Service or Location'
+p15
+sI16
+S'Status Detail_Partially Completed-Future work planned'
+p16
+sI17
+S'Status Detail_Redirected to External Organization'
+p17
+sI18
+S'Status Detail_Redirected to Other Government Agency'
+p18
+sI19
+S'Status Detail_Unable to Locate Animal'
+p19
+sI20
+S'Status Detail_Vehicle Gone Upon Arrival'
+p20
+sI21
+S'Status Detail_Vehicle Towed'
+p21
+sI22
+S'Status Detail_Violation Remedied'
+p22
+sI23
+S'Status Detail_Warning Issued'
+p23
+sI24
+S'Status Detail_Warning Issued, No Further Action at this Time'
+p24
+sI25
+S'Status Detail_Work Planned-Route/Schedule Dependent'
+p25
+sI26
+S'Status Detail_Work Planned-Seasonal/Weather Dependent'
+p26
+sI27
+S'Status Detail_Work to be completed as per online schedule'
+p27
+sI28
+S'Service Code_Abandoned Vehicle'
+p28
+sI29
+S'Service Code_Alley'
+p29
+sI30
+S'Service Code_Alley Dust'
+p30
+sI31
+S'Service Code_Alley Flooding'
+p31
+sI32
+S'Service Code_Alley Windrow'
+p32
+sI33
+S'Service Code_Ashtray'
+p33
+sI34
+S'Service Code_Audible Signal Outage'
+p34
+sI35
+S'Service Code_Audible Signal Request'
+p35
+sI36
+S'Service Code_Ball Diamond Repair'
+p36
+sI37
+S'Service Code_Beaver/Muskrat Dam'
+p37
+sI38
+S'Service Code_Bees/Wasps'
+p38
+sI39
+S'Service Code_Bike Lanes'
+p39
+sI40
+S'Service Code_Boulevard'
+p40
+sI41
+S'Service Code_Bridge'
+p41
+sI42
+S'Service Code_Broken Branches'
+p42
+sI43
+S'Service Code_Broken Concrete'
+p43
+sI44
+S'Service Code_Broken Glass'
+p44
+sI45
+S'Service Code_Broken Manhole Cover'
+p45
+sI46
+S'Service Code_Broken Play Structure'
+p46
+sI47
+S'Service Code_Broken Sports Structure'
+p47
+sI48
+S'Service Code_Bus'
+p48
+sI49
+S'Service Code_Bus Bench Request'
+p49
+sI50
+S'Service Code_Bus Pads or Shelter Request'
+p50
+sI51
+S'Service Code_Bus Phone - Out of Order'
+p51
+sI52
+S'Service Code_Bus Stop'
+p52
+sI53
+S'Service Code_Canada Post Mail box'
+p53
+sI54
+S'Service Code_City Sidewalks'
+p54
+sI55
+S'Service Code_Crack'
+p55
+sI56
+S'Service Code_Cross Walk Painting Request'
+p56
+sI57
+S'Service Code_Curb'
+p57
+sI58
+S'Service Code_Curb Installation'
+p58
+sI59
+S'Service Code_DATS Bus Stuck in Snow'
+p59
+sI60
+S'Service Code_Damaged Bus Stop Sign'
+p60
+sI61
+S'Service Code_Damaged Emergency Sign (i.e. Stop Sign)'
+p61
+sI62
+S'Service Code_Damaged Non-Emergency Signs (i.e. Speed Limit)'
+p62
+sI63
+S'Service Code_Dead Animal'
+p63
+sI64
+S'Service Code_Dead Tree'
+p64
+sI65
+S'Service Code_Disable Stall'
+p65
+sI66
+S'Service Code_Drain/Manhole Cover/Sewer'
+p66
+sI67
+S'Service Code_Dumpster'
+p67
+sI68
+S'Service Code_EPCOR Power Box/Street Light'
+p68
+sI69
+S'Service Code_ETS Sign Request'
+p69
+sI70
+S'Service Code_Empty Sandbox at Community League'
+p70
+sI71
+S'Service Code_Facility'
+p71
+sI72
+S'Service Code_Facility Sidewalk'
+p72
+sI73
+S'Service Code_Federal/Provincial Building'
+p73
+sI74
+S'Service Code_Flooded Trail'
+p74
+sI75
+S'Service Code_Flooding - Playground'
+p75
+sI76
+S'Service Code_Flooding Sidewalk'
+p76
+sI77
+S'Service Code_Flowers'
+p77
+sI78
+S'Service Code_Garbage Can Full'
+p78
+sI79
+S'Service Code_Garbage Can Needed'
+p79
+sI80
+S'Service Code_Garbage Can Request'
+p80
+sI81
+S'Service Code_Gophers/Squirrels'
+p81
+sI82
+S'Service Code_Green Shack/Gazebo'
+p82
+sI83
+S'Service Code_Green Space'
+p83
+sI84
+S'Service Code_Green Space Grass Clipppings'
+p84
+sI85
+S'Service Code_Hazardous Branch'
+p85
+sI86
+S'Service Code_Hazardous Stump'
+p86
+sI87
+S'Service Code_Herbicide Spray Compliant'
+p87
+sI88
+S'Service Code_Holes on Soccer Field'
+p88
+sI89
+S'Service Code_LRT Arms Malfunction'
+p89
+sI90
+S'Service Code_Line Marking request'
+p90
+sI91
+S'Service Code_Manhole Cover Concern'
+p91
+sI92
+S'Service Code_Meter Maintenance'
+p92
+sI93
+S'Service Code_Newspaper Box/Sign'
+p93
+sI94
+S'Service Code_Obstruction'
+p94
+sI95
+S'Service Code_On Trail'
+p95
+sI96
+S'Service Code_Other'
+p96
+sI97
+S'Service Code_Other Grass Clippings'
+p97
+sI98
+S'Service Code_Overgrown Grass'
+p98
+sI99
+S'Service Code_Paint Marking Request'
+p99
+sI100
+S'Service Code_Park Structure'
+p100
+sI101
+S'Service Code_Parking Lot'
+p101
+sI102
+S'Service Code_Pathway'
+p102
+sI103
+S'Service Code_Pathway Grass Clippings'
+p103
+sI104
+S'Service Code_Paving'
+p104
+sI105
+S'Service Code_Pedestrian Light Request'
+p105
+sI106
+S'Service Code_Plants Need Watering'
+p106
+sI107
+S'Service Code_Play Apparatus'
+p107
+sI108
+S'Service Code_Pothole'
+p108
+sI109
+S'Service Code_Rail Crossing'
+p109
+sI110
+S'Service Code_Rail Crossing Repair'
+p110
+sI111
+S'Service Code_Request for New Off-Leash Park'
+p111
+sI112
+S'Service Code_Restricted Residential'
+p112
+sI113
+S'Service Code_River Valley'
+p113
+sI114
+S'Service Code_Road'
+p114
+sI115
+S'Service Code_Road Blocked By Snow'
+p115
+sI116
+S'Service Code_Road Dip'
+p116
+sI117
+S'Service Code_Road Flooding'
+p117
+sI118
+S'Service Code_Road Snow Removal'
+p118
+sI119
+S'Service Code_Road Vibration'
+p119
+sI120
+S'Service Code_Road Windrow'
+p120
+sI121
+S'Service Code_Safety & Other'
+p121
+sI122
+S'Service Code_Sandbox'
+p122
+sI123
+S'Service Code_Sanding'
+p123
+sI124
+S'Service Code_Seasonal Parking Ban'
+p124
+sI125
+S'Service Code_Sewer'
+p125
+sI126
+S'Service Code_Shaw/Telus Box'
+p126
+sI127
+S'Service Code_Shrubs Need Trimming'
+p127
+sI128
+S'Service Code_Sidewalk'
+p128
+sI129
+S'Service Code_Sidewalk Crack'
+p129
+sI130
+S'Service Code_Sidewalk Displacement'
+p130
+sI131
+S'Service Code_Sidewalk Windrow'
+p131
+sI132
+S'Service Code_Sidewalks'
+p132
+sI133
+S'Service Code_Sign Request'
+p133
+sI134
+S'Service Code_Sign Requested'
+p134
+sI135
+S'Service Code_Signal Malfunction - Pedestrian Walk light'
+p135
+sI136
+S'Service Code_Signal Timing (Green Light)'
+p136
+sI137
+S'Service Code_Signal Timing (Left Turn Arrow)'
+p137
+sI138
+S'Service Code_Sinkhole'
+p138
+sI139
+S'Service Code_Skateboard Park'
+p139
+sI140
+S'Service Code_Snow Fence'
+p140
+sI141
+S'Service Code_Sound Wall'
+p141
+sI142
+S'Service Code_Spillage'
+p142
+sI143
+S'Service Code_Sports Track'
+p143
+sI144
+S'Service Code_Sportsfield Grass Clippings'
+p144
+sI145
+S'Service Code_Spray Park'
+p145
+sI146
+S'Service Code_Stairs'
+p146
+sI147
+S'Service Code_Steel Plate'
+p147
+sI148
+S'Service Code_Storm Outfall'
+p148
+sI149
+S'Service Code_Street Furniture'
+p149
+sI150
+S'Service Code_Street Light'
+p150
+sI151
+S'Service Code_Street Sweeping'
+p151
+sI152
+S'Service Code_Temporary Stop Sign Damaged'
+p152
+sI153
+S'Service Code_Tennis Court Nets'
+p153
+sI154
+S'Service Code_Tow Away Zone'
+p154
+sI155
+S'Service Code_Track Repair'
+p155
+sI156
+S'Service Code_Trail'
+p156
+sI157
+S'Service Code_Trail Clearing'
+p157
+sI158
+S'Service Code_Tree Bugs'
+p158
+sI159
+S'Service Code_Tree Damage'
+p159
+sI160
+S'Service Code_Tree Light Outage'
+p160
+sI161
+S'Service Code_Tree Planting'
+p161
+sI162
+S'Service Code_Tree Pruning Debris'
+p162
+sI163
+S'Service Code_Tree Pruning Request'
+p163
+sI164
+S'Service Code_Tree Removal'
+p164
+sI165
+S'Service Code_Tree Replacement'
+p165
+sI166
+S'Service Code_Turf Damage'
+p166
+sI167
+S'Service Code_Vandalism - Play Structure'
+p167
+sI168
+S'Service Code_Vandalism - Skateboard Park'
+p168
+sI169
+S'Service Code_Vandalism - Spray Park'
+p169
+sI170
+S'Service Code_Vehicle Damaged Sign'
+p170
+sI171
+S'Service Code_Walkway'
+p171
+sI172
+S'Service Code_Waste Bin- Private Property'
+p172
+sI173
+S'Service Code_Weed Control'
+p173
+sI174
+S'Service Code_Wooden Stairs'
+p174
+sI175
+S'Neighbourhood_ABBOTTSFIELD'
+p175
+sI176
+S'Neighbourhood_ALBANY'
+p176
+sI177
+S'Neighbourhood_ALBERTA AVENUE'
+p177
+sI178
+S'Neighbourhood_ALBERTA PARK INDUSTRIAL'
+p178
+sI179
+S'Neighbourhood_ALDERGROVE'
+p179
+sI180
+S'Neighbourhood_ALLARD'
+p180
+sI181
+S'Neighbourhood_ALLENDALE'
+p181
+sI182
+S'Neighbourhood_AMBLESIDE'
+p182
+sI183
+S'Neighbourhood_ANTHONY HENDAY'
+p183
+sI184
+S'Neighbourhood_ANTHONY HENDAY BIG LAKE'
+p184
+sI185
+S'Neighbourhood_ANTHONY HENDAY CASTLEDOWNS'
+p185
+sI186
+S'Neighbourhood_ANTHONY HENDAY CLAREVIEW'
+p186
+sI187
+S'Neighbourhood_ANTHONY HENDAY ENERGY PARK'
+p187
+sI188
+S'Neighbourhood_ANTHONY HENDAY HORSE HILL'
+p188
+sI189
+S'Neighbourhood_ANTHONY HENDAY LAKE DISTRICT'
+p189
+sI190
+S'Neighbourhood_ANTHONY HENDAY MISTATIM'
+p190
+sI191
+S'Neighbourhood_ANTHONY HENDAY RAMPART'
+p191
+sI192
+S'Neighbourhood_ANTHONY HENDAY SOUTH'
+p192
+sI193
+S'Neighbourhood_ANTHONY HENDAY SOUTH EAST'
+p193
+sI194
+S'Neighbourhood_ANTHONY HENDAY SOUTH WEST'
+p194
+sI195
+S'Neighbourhood_ANTHONY HENDAY TERWILLEGAR'
+p195
+sI196
+S'Neighbourhood_ARGYLL'
+p196
+sI197
+S'Neighbourhood_ARMSTRONG INDUSTRIAL'
+p197
+sI198
+S'Neighbourhood_ASPEN GARDENS'
+p198
+sI199
+S'Neighbourhood_ASTER'
+p199
+sI200
+S'Neighbourhood_ATHLONE'
+p200
+sI201
+S'Neighbourhood_AVONMORE'
+p201
+sI202
+S'Neighbourhood_BALWIN'
+p202
+sI203
+S'Neighbourhood_BANNERMAN'
+p203
+sI204
+S'Neighbourhood_BARANOW'
+p204
+sI205
+S'Neighbourhood_BATURYN'
+p205
+sI206
+S'Neighbourhood_BEACON HEIGHTS'
+p206
+sI207
+S'Neighbourhood_BEARSPAW'
+p207
+sI208
+S'Neighbourhood_BEAUMARIS'
+p208
+sI209
+S'Neighbourhood_BELGRAVIA'
+p209
+sI210
+S'Neighbourhood_BELLE RIVE'
+p210
+sI211
+S'Neighbourhood_BELLEVUE'
+p211
+sI212
+S'Neighbourhood_BELMEAD'
+p212
+sI213
+S'Neighbourhood_BELMONT'
+p213
+sI214
+S'Neighbourhood_BELVEDERE'
+p214
+sI215
+S'Neighbourhood_BERGMAN'
+p215
+sI216
+S'Neighbourhood_BEVERLY HEIGHTS'
+p216
+sI217
+S'Neighbourhood_BISSET'
+p217
+sI218
+S'Neighbourhood_BLACKBURNE'
+p218
+sI219
+S'Neighbourhood_BLACKMUD CREEK'
+p219
+sI220
+S'Neighbourhood_BLACKMUD CREEK RAVINE'
+p220
+sI221
+S'Neighbourhood_BLATCHFORD AREA'
+p221
+sI222
+S'Neighbourhood_BLUE QUILL'
+p222
+sI223
+S'Neighbourhood_BLUE QUILL ESTATES'
+p223
+sI224
+S'Neighbourhood_BONAVENTURE INDUSTRIAL'
+p224
+sI225
+S'Neighbourhood_BONNIE DOON'
+p225
+sI226
+S'Neighbourhood_BOYLE STREET'
+p226
+sI227
+S'Neighbourhood_BRANDER GARDENS'
+p227
+sI228
+S'Neighbourhood_BRECKENRIDGE GREENS'
+p228
+sI229
+S'Neighbourhood_BRINTNELL'
+p229
+sI230
+S'Neighbourhood_BRITANNIA YOUNGSTOWN'
+p230
+sI231
+S'Neighbourhood_BROOKSIDE'
+p231
+sI232
+S'Neighbourhood_BROWN INDUSTRIAL'
+p232
+sI233
+S'Neighbourhood_BULYEA HEIGHTS'
+p233
+sI234
+S'Neighbourhood_CAERNARVON'
+p234
+sI235
+S'Neighbourhood_CALDER'
+p235
+sI236
+S'Neighbourhood_CALGARY TRAIL NORTH'
+p236
+sI237
+S'Neighbourhood_CALGARY TRAIL SOUTH'
+p237
+sI238
+S'Neighbourhood_CALLAGHAN'
+p238
+sI239
+S'Neighbourhood_CALLINGWOOD NORTH'
+p239
+sI240
+S'Neighbourhood_CALLINGWOOD SOUTH'
+p240
+sI241
+S'Neighbourhood_CAMERON HEIGHTS'
+p241
+sI242
+S'Neighbourhood_CANON RIDGE'
+p242
+sI243
+S'Neighbourhood_CANORA'
+p243
+sI244
+S'Neighbourhood_CANOSSA'
+p244
+sI245
+S'Neighbourhood_CAPILANO'
+p245
+sI246
+S'Neighbourhood_CARLETON SQUARE INDUSTRIAL'
+p246
+sI247
+S'Neighbourhood_CARLISLE'
+p247
+sI248
+S'Neighbourhood_CARLTON'
+p248
+sI249
+S'Neighbourhood_CARTER CREST'
+p249
+sI250
+S'Neighbourhood_CASHMAN'
+p250
+sI251
+S'Neighbourhood_CASSELMAN'
+p251
+sI252
+S'Neighbourhood_CAVANAGH'
+p252
+sI253
+S'Neighbourhood_CENTRAL MCDOUGALL'
+p253
+sI254
+S'Neighbourhood_CHAMBERY'
+p254
+sI255
+S'Neighbourhood_CHAPPELLE AREA'
+p255
+sI256
+S'Neighbourhood_CHARLESWORTH'
+p256
+sI257
+S'Neighbourhood_CLAREVIEW TOWN CENTRE'
+p257
+sI258
+S'Neighbourhood_CLOVER BAR AREA'
+p258
+sI259
+S'Neighbourhood_CLOVERDALE'
+p259
+sI260
+S'Neighbourhood_CORONET ADDITION INDUSTRIAL'
+p260
+sI261
+S'Neighbourhood_CORONET INDUSTRIAL'
+p261
+sI262
+S'Neighbourhood_CPR IRVINE'
+p262
+sI263
+S'Neighbourhood_CRAWFORD PLAINS'
+p263
+sI264
+S'Neighbourhood_CRESTWOOD'
+p264
+sI265
+S'Neighbourhood_CROMDALE'
+p265
+sI266
+S'Neighbourhood_CRYSTALLINA NERA WEST'
+p266
+sI267
+S'Neighbourhood_CUMBERLAND'
+p267
+sI268
+S'Neighbourhood_CY BECKER'
+p268
+sI269
+S'Neighbourhood_DALY GROVE'
+p269
+sI270
+S'Neighbourhood_DAVIES INDUSTRIAL EAST'
+p270
+sI271
+S'Neighbourhood_DAVIES INDUSTRIAL WEST'
+p271
+sI272
+S'Neighbourhood_DECHENE'
+p272
+sI273
+S'Neighbourhood_DECOTEAU'
+p273
+sI274
+S'Neighbourhood_DELTON'
+p274
+sI275
+S'Neighbourhood_DELWOOD'
+p275
+sI276
+S'Neighbourhood_DESROCHERS AREA'
+p276
+sI277
+S'Neighbourhood_DOMINION INDUSTRIAL'
+p277
+sI278
+S'Neighbourhood_DONSDALE'
+p278
+sI279
+S'Neighbourhood_DOVERCOURT'
+p279
+sI280
+S'Neighbourhood_DOWNTOWN'
+p280
+sI281
+S'Neighbourhood_DUGGAN'
+p281
+sI282
+S'Neighbourhood_DUNLUCE'
+p282
+sI283
+S'Neighbourhood_EASTGATE BUSINESS PARK'
+p283
+sI284
+S'Neighbourhood_EASTWOOD'
+p284
+sI285
+S'Neighbourhood_EAUX CLAIRES'
+p285
+sI286
+S'Neighbourhood_EBBERS'
+p286
+sI287
+S'Neighbourhood_EDGEMONT'
+p287
+sI288
+S'Neighbourhood_EDMISTON INDUSTRIAL'
+p288
+sI289
+S'Neighbourhood_EDMONTON ENERGY AND TECHNOLOGY PARK'
+p289
+sI290
+S'Neighbourhood_EDMONTON NORTHLANDS'
+p290
+sI291
+S'Neighbourhood_EDMONTON RESEARCH AND DEVELOPMENT PARK'
+p291
+sI292
+S'Neighbourhood_EKOTA'
+p292
+sI293
+S'Neighbourhood_ELLERSLIE'
+p293
+sI294
+S'Neighbourhood_ELLERSLIE INDUSTRIAL'
+p294
+sI295
+S'Neighbourhood_ELMWOOD'
+p295
+sI296
+S'Neighbourhood_ELMWOOD PARK'
+p296
+sI297
+S'Neighbourhood_ELSINORE'
+p297
+sI298
+S'Neighbourhood_EMPIRE PARK'
+p298
+sI299
+S'Neighbourhood_ERMINESKIN'
+p299
+sI300
+S'Neighbourhood_EVANSDALE'
+p300
+sI301
+S'Neighbourhood_EVERGREEN'
+p301
+sI302
+S'Neighbourhood_FALCONER HEIGHTS'
+p302
+sI303
+S'Neighbourhood_FOREST HEIGHTS'
+p303
+sI304
+S'Neighbourhood_FRASER'
+p304
+sI305
+S'Neighbourhood_FULTON PLACE'
+p305
+sI306
+S'Neighbourhood_GAGNON ESTATE INDUSTRIAL'
+p306
+sI307
+S'Neighbourhood_GAINER INDUSTRIAL'
+p307
+sI308
+S'Neighbourhood_GARIEPY'
+p308
+sI309
+S'Neighbourhood_GARNEAU'
+p309
+sI310
+S'Neighbourhood_GARSIDE INDUSTRIAL'
+p310
+sI311
+S'Neighbourhood_GIRARD INDUSTRIAL'
+p311
+sI312
+S'Neighbourhood_GLASTONBURY'
+p312
+sI313
+S'Neighbourhood_GLENGARRY'
+p313
+sI314
+S'Neighbourhood_GLENORA'
+p314
+sI315
+S'Neighbourhood_GLENRIDDING AREA'
+p315
+sI316
+S'Neighbourhood_GLENRIDDING HEIGHTS'
+p316
+sI317
+S'Neighbourhood_GLENWOOD'
+p317
+sI318
+S'Neighbourhood_GOLD BAR'
+p318
+sI319
+S'Neighbourhood_GOODRIDGE CORNERS'
+p319
+sI320
+S'Neighbourhood_GORMAN'
+p320
+sI321
+S'Neighbourhood_GRANDVIEW HEIGHTS'
+p321
+sI322
+S'Neighbourhood_GRANVILLE'
+p322
+sI323
+S'Neighbourhood_GRAYDON HILL'
+p323
+sI324
+S'Neighbourhood_GREENFIELD'
+p324
+sI325
+S'Neighbourhood_GREENVIEW'
+p325
+sI326
+S'Neighbourhood_GRIESBACH'
+p326
+sI327
+S'Neighbourhood_GROVENOR'
+p327
+sI328
+S'Neighbourhood_HADDOW'
+p328
+sI329
+S'Neighbourhood_HAGMANN ESTATE INDUSTRIAL'
+p329
+sI330
+S'Neighbourhood_HAIRSINE'
+p330
+sI331
+S'Neighbourhood_HAWIN PARK ESTATE INDUSTRIAL'
+p331
+sI332
+S'Neighbourhood_HAWKS RIDGE'
+p332
+sI333
+S'Neighbourhood_HAYS RIDGE AREA'
+p333
+sI334
+S'Neighbourhood_HAZELDEAN'
+p334
+sI335
+S'Neighbourhood_HENDERSON ESTATES'
+p335
+sI336
+S'Neighbourhood_HERITAGE VALLEY AREA'
+p336
+sI337
+S'Neighbourhood_HERITAGE VALLEY TOWN CENTRE AREA'
+p337
+sI338
+S'Neighbourhood_HIGH PARK'
+p338
+sI339
+S'Neighbourhood_HIGH PARK INDUSTRIAL'
+p339
+sI340
+S'Neighbourhood_HIGHLANDS'
+p340
+sI341
+S'Neighbourhood_HILLVIEW'
+p341
+sI342
+S'Neighbourhood_HODGSON'
+p342
+sI343
+S'Neighbourhood_HOLLICK-KENYON'
+p343
+sI344
+S'Neighbourhood_HOLYROOD'
+p344
+sI345
+S'Neighbourhood_HOMESTEADER'
+p345
+sI346
+S'Neighbourhood_HUDSON'
+p346
+sI347
+S'Neighbourhood_HUFF BREMNER ESTATE INDUSTRIAL'
+p347
+sI348
+S'Neighbourhood_IDYLWYLDE'
+p348
+sI349
+S'Neighbourhood_INDUSTRIAL HEIGHTS'
+p349
+sI350
+S'Neighbourhood_INGLEWOOD'
+p350
+sI351
+S'Neighbourhood_JACKSON HEIGHTS'
+p351
+sI352
+S'Neighbourhood_JAMIESON PLACE'
+p352
+sI353
+S'Neighbourhood_JASPER PARK'
+p353
+sI354
+S'Neighbourhood_KAMEYOSEK'
+p354
+sI355
+S'Neighbourhood_KEHEEWIN'
+p355
+sI356
+S'Neighbourhood_KENILWORTH'
+p356
+sI357
+S'Neighbourhood_KENNEDALE INDUSTRIAL'
+p357
+sI358
+S'Neighbourhood_KENSINGTON'
+p358
+sI359
+S'Neighbourhood_KERNOHAN'
+p359
+sI360
+S'Neighbourhood_KESWICK AREA'
+p360
+sI361
+S'Neighbourhood_KILDARE'
+p361
+sI362
+S'Neighbourhood_KILKENNY'
+p362
+sI363
+S'Neighbourhood_KILLARNEY'
+p363
+sI364
+S'Neighbourhood_KING EDWARD PARK'
+p364
+sI365
+S'Neighbourhood_KINGLET GARDENS'
+p365
+sI366
+S'Neighbourhood_KINISKI GARDENS'
+p366
+sI367
+S'Neighbourhood_KINOKAMAU PLAINS AREA'
+p367
+sI368
+S'Neighbourhood_KIRKNESS'
+p368
+sI369
+S'Neighbourhood_KLARVATTEN'
+p369
+sI370
+S'Neighbourhood_LA PERLE'
+p370
+sI371
+S'Neighbourhood_LAGO LINDO'
+p371
+sI372
+S'Neighbourhood_LAMBTON INDUSTRIAL'
+p372
+sI373
+S'Neighbourhood_LANSDOWNE'
+p373
+sI374
+S'Neighbourhood_LARKSPUR'
+p374
+sI375
+S'Neighbourhood_LAUDERDALE'
+p375
+sI376
+S'Neighbourhood_LAUREL'
+p376
+sI377
+S'Neighbourhood_LAURIER HEIGHTS'
+p377
+sI378
+S'Neighbourhood_LEE RIDGE'
+p378
+sI379
+S'Neighbourhood_LEGER'
+p379
+sI380
+S'Neighbourhood_LENDRUM PLACE'
+p380
+sI381
+S'Neighbourhood_LEWIS FARMS INDUSTRIAL'
+p381
+sI382
+S'Neighbourhood_LORELEI'
+p382
+sI383
+S'Neighbourhood_LYMBURN'
+p383
+sI384
+S'Neighbourhood_LYNNWOOD'
+p384
+sI385
+S'Neighbourhood_MACEWAN'
+p385
+sI386
+S'Neighbourhood_MACTAGGART'
+p386
+sI387
+S'Neighbourhood_MAGRATH HEIGHTS'
+p387
+sI388
+S'Neighbourhood_MALMO PLAINS'
+p388
+sI389
+S'Neighbourhood_MAPLE'
+p389
+sI390
+S'Neighbourhood_MAPLE RIDGE'
+p390
+sI391
+S'Neighbourhood_MAPLE RIDGE INDUSTRIAL'
+p391
+sI392
+S'Neighbourhood_MATT BERRY'
+p392
+sI393
+S'Neighbourhood_MAYFIELD'
+p393
+sI394
+S'Neighbourhood_MAYLIEWAN'
+p394
+sI395
+S'Neighbourhood_MCARTHUR INDUSTRIAL'
+p395
+sI396
+S'Neighbourhood_MCCAULEY'
+p396
+sI397
+S'Neighbourhood_MCCONACHIE AREA'
+p397
+sI398
+S'Neighbourhood_MCINTYRE INDUSTRIAL'
+p398
+sI399
+S'Neighbourhood_MCKERNAN'
+p399
+sI400
+S'Neighbourhood_MCLEOD'
+p400
+sI401
+S'Neighbourhood_MCNAMARA INDUSTRIAL'
+p401
+sI402
+S'Neighbourhood_MCQUEEN'
+p402
+sI403
+S'Neighbourhood_MEADOWLARK PARK'
+p403
+sI404
+S'Neighbourhood_MENISA'
+p404
+sI405
+S'Neighbourhood_MEYOKUMIN'
+p405
+sI406
+S'Neighbourhood_MEYONOHK'
+p406
+sI407
+S'Neighbourhood_MICHAELS PARK'
+p407
+sI408
+S'Neighbourhood_MILL CREEK RAVINE NORTH'
+p408
+sI409
+S'Neighbourhood_MILL CREEK RAVINE SOUTH'
+p409
+sI410
+S'Neighbourhood_MILL WOODS GOLF COURSE'
+p410
+sI411
+S'Neighbourhood_MILL WOODS PARK'
+p411
+sI412
+S'Neighbourhood_MILL WOODS TOWN CENTRE'
+p412
+sI413
+S'Neighbourhood_MILLER'
+p413
+sI414
+S'Neighbourhood_MINCHAU'
+p414
+sI415
+S'Neighbourhood_MISTATIM INDUSTRIAL'
+p415
+sI416
+S'Neighbourhood_MITCHELL INDUSTRIAL'
+p416
+sI417
+S'Neighbourhood_MONTROSE'
+p417
+sI418
+S'Neighbourhood_MORIN INDUSTRIAL'
+p418
+sI419
+S'Neighbourhood_MORRIS INDUSTRIAL'
+p419
+sI420
+S'Neighbourhood_NEWTON'
+p420
+sI421
+S'Neighbourhood_NORTH GLENORA'
+p421
+sI422
+S'Neighbourhood_NORTHMOUNT'
+p422
+sI423
+S'Neighbourhood_NORWESTER INDUSTRIAL'
+p423
+sI424
+S'Neighbourhood_OGILVIE RIDGE'
+p424
+sI425
+S'Neighbourhood_OLESKIW'
+p425
+sI426
+S'Neighbourhood_OLIVER'
+p426
+sI427
+S'Neighbourhood_ORMSBY PLACE'
+p427
+sI428
+S'Neighbourhood_OTTEWELL'
+p428
+sI429
+S'Neighbourhood_OVERLANDERS'
+p429
+sI430
+S'Neighbourhood_OXFORD'
+p430
+sI431
+S'Neighbourhood_OZERNA'
+p431
+sI432
+S'Neighbourhood_PAISLEY'
+p432
+sI433
+S'Neighbourhood_PAPASCHASE INDUSTRIAL'
+p433
+sI434
+S'Neighbourhood_PARKALLEN'
+p434
+sI435
+S'Neighbourhood_PARKDALE'
+p435
+sI436
+S'Neighbourhood_PARKVIEW'
+p436
+sI437
+S'Neighbourhood_PARSONS INDUSTRIAL'
+p437
+sI438
+S'Neighbourhood_PATRICIA HEIGHTS'
+p438
+sI439
+S'Neighbourhood_PEMBINA'
+p439
+sI440
+S'Neighbourhood_PLACE LARUE'
+p440
+sI441
+S'Neighbourhood_PLEASANTVIEW'
+p441
+sI442
+S'Neighbourhood_POLLARD MEADOWS'
+p442
+sI443
+S'Neighbourhood_POTTER GREENS'
+p443
+sI444
+S'Neighbourhood_POUNDMAKER INDUSTRIAL'
+p444
+sI445
+S'Neighbourhood_PRINCE CHARLES'
+p445
+sI446
+S'Neighbourhood_PRINCE RUPERT'
+p446
+sI447
+S'Neighbourhood_PYLYPOW INDUSTRIAL'
+p447
+sI448
+S'Neighbourhood_QUEEN ALEXANDRA'
+p448
+sI449
+S'Neighbourhood_QUEEN MARY PARK'
+p449
+sI450
+S'Neighbourhood_QUESNELL HEIGHTS'
+p450
+sI451
+S'Neighbourhood_RAMPART INDUSTRIAL'
+p451
+sI452
+S'Neighbourhood_RAMSAY HEIGHTS'
+p452
+sI453
+S'Neighbourhood_RAPPERSWILL'
+p453
+sI454
+S'Neighbourhood_RHATIGAN RIDGE'
+p454
+sI455
+S'Neighbourhood_RICHFIELD'
+p455
+sI456
+S'Neighbourhood_RICHFORD'
+p456
+sI457
+S'Neighbourhood_RIDEAU PARK'
+p457
+sI458
+S'Neighbourhood_RIO TERRACE'
+p458
+sI459
+S'Neighbourhood_RITCHIE'
+p459
+sI460
+S'Neighbourhood_RIVER VALLEY CAMERON'
+p460
+sI461
+S'Neighbourhood_RIVER VALLEY CAPITOL HILL'
+p461
+sI462
+S'Neighbourhood_RIVER VALLEY FORT EDMONTON'
+p462
+sI463
+S'Neighbourhood_RIVER VALLEY GLENORA'
+p463
+sI464
+S'Neighbourhood_RIVER VALLEY GOLD BAR'
+p464
+sI465
+S'Neighbourhood_RIVER VALLEY HERMITAGE'
+p465
+sI466
+S'Neighbourhood_RIVER VALLEY HIGHLANDS'
+p466
+sI467
+S'Neighbourhood_RIVER VALLEY KINNAIRD'
+p467
+sI468
+S'Neighbourhood_RIVER VALLEY LAURIER'
+p468
+sI469
+S'Neighbourhood_RIVER VALLEY LESSARD NORTH'
+p469
+sI470
+S'Neighbourhood_RIVER VALLEY MAYFAIR'
+p470
+sI471
+S'Neighbourhood_RIVER VALLEY OLESKIW'
+p471
+sI472
+S'Neighbourhood_RIVER VALLEY RIVERSIDE'
+p472
+sI473
+S'Neighbourhood_RIVER VALLEY RUNDLE'
+p473
+sI474
+S'Neighbourhood_RIVER VALLEY TERWILLEGAR'
+p474
+sI475
+S'Neighbourhood_RIVER VALLEY VICTORIA'
+p475
+sI476
+S'Neighbourhood_RIVER VALLEY WALTERDALE'
+p476
+sI477
+S'Neighbourhood_RIVER VALLEY WHITEMUD'
+p477
+sI478
+S'Neighbourhood_RIVER VALLEY WINDERMERE'
+p478
+sI479
+S"Neighbourhood_RIVER'S EDGE"
+p479
+sI480
+S'Neighbourhood_RIVERDALE'
+p480
+sI481
+S'Neighbourhood_RIVERVIEW AREA'
+p481
+sI482
+S'Neighbourhood_ROPER INDUSTRIAL'
+p482
+sI483
+S'Neighbourhood_ROSEDALE INDUSTRIAL'
+p483
+sI484
+S'Neighbourhood_ROSENTHAL'
+p484
+sI485
+S'Neighbourhood_ROSSDALE'
+p485
+sI486
+S'Neighbourhood_ROSSLYN'
+p486
+sI487
+S'Neighbourhood_ROYAL GARDENS'
+p487
+sI488
+S'Neighbourhood_RUNDLE HEIGHTS'
+p488
+sI489
+S'Neighbourhood_RURAL NORTH EAST HORSE HILL'
+p489
+sI490
+S'Neighbourhood_RURAL NORTH EAST SOUTH STURGEON'
+p490
+sI491
+S'Neighbourhood_RURAL SOUTH EAST'
+p491
+sI492
+S'Neighbourhood_RURAL WEST BIG LAKE'
+p492
+sI493
+S'Neighbourhood_RUTHERFORD'
+p493
+sI494
+S'Neighbourhood_SAKAW'
+p494
+sI495
+S'Neighbourhood_SATOO'
+p495
+sI496
+S'Neighbourhood_SCHONSEE'
+p496
+sI497
+S'Neighbourhood_SECORD'
+p497
+sI498
+S'Neighbourhood_SHEFFIELD INDUSTRIAL'
+p498
+sI499
+S'Neighbourhood_SHERBROOKE'
+p499
+sI500
+S'Neighbourhood_SHERWOOD'
+p500
+sI501
+S'Neighbourhood_SIFTON PARK'
+p501
+sI502
+S'Neighbourhood_SILVER BERRY'
+p502
+sI503
+S'Neighbourhood_SKYRATTLER'
+p503
+sI504
+S'Neighbourhood_SOUTH EDMONTON COMMON'
+p504
+sI505
+S'Neighbourhood_SOUTH TERWILLEGAR'
+p505
+sI506
+S'Neighbourhood_SOUTHEAST INDUSTRIAL'
+p506
+sI507
+S'Neighbourhood_SPRUCE AVENUE'
+p507
+sI508
+S'Neighbourhood_STARLING'
+p508
+sI509
+S'Neighbourhood_STEINHAUER'
+p509
+sI510
+S'Neighbourhood_STEWART GREENS'
+p510
+sI511
+S'Neighbourhood_STILLWATER'
+p511
+sI512
+S'Neighbourhood_STONE INDUSTRIAL'
+p512
+sI513
+S'Neighbourhood_STRATHCONA'
+p513
+sI514
+S'Neighbourhood_STRATHCONA INDUSTRIAL PARK'
+p514
+sI515
+S'Neighbourhood_STRATHCONA JUNCTION'
+p515
+sI516
+S'Neighbourhood_STRATHEARN'
+p516
+sI517
+S'Neighbourhood_SUDER GREENS'
+p517
+sI518
+S'Neighbourhood_SUMMERLEA'
+p518
+sI519
+S'Neighbourhood_SUMMERSIDE'
+p519
+sI520
+S'Neighbourhood_SUNWAPTA INDUSTRIAL'
+p520
+sI521
+S'Neighbourhood_SWEET GRASS'
+p521
+sI522
+S'Neighbourhood_TAMARACK'
+p522
+sI523
+S'Neighbourhood_TAWA'
+p523
+sI524
+S'Neighbourhood_TERRA LOSA'
+p524
+sI525
+S'Neighbourhood_TERRACE HEIGHTS'
+p525
+sI526
+S'Neighbourhood_TERWILLEGAR TOWNE'
+p526
+sI527
+S'Neighbourhood_THE HAMPTONS'
+p527
+sI528
+S'Neighbourhood_THE ORCHARDS AT ELLERSLIE'
+p528
+sI529
+S'Neighbourhood_THE UPLANDS'
+p529
+sI530
+S'Neighbourhood_THORNCLIFF'
+p530
+sI531
+S'Neighbourhood_TIPASKAN'
+p531
+sI532
+S'Neighbourhood_TRUMPETER AREA'
+p532
+sI533
+S'Neighbourhood_TWEDDLE PLACE'
+p533
+sI534
+S'Neighbourhood_TWIN BROOKS'
+p534
+sI535
+S'Neighbourhood_UNIVERSITY OF ALBERTA'
+p535
+sI536
+S'Neighbourhood_UNIVERSITY OF ALBERTA FARM'
+p536
+sI537
+S'Neighbourhood_VIRGINIA PARK'
+p537
+sI538
+S'Neighbourhood_WALKER'
+p538
+sI539
+S'Neighbourhood_WEBBER GREENS'
+p539
+sI540
+S'Neighbourhood_WEDGEWOOD HEIGHTS'
+p540
+sI541
+S'Neighbourhood_WEINLOS'
+p541
+sI542
+S'Neighbourhood_WEIR INDUSTRIAL'
+p542
+sI543
+S'Neighbourhood_WELLINGTON'
+p543
+sI544
+S'Neighbourhood_WEST JASPER PLACE'
+p544
+sI545
+S'Neighbourhood_WEST MEADOWLARK PARK'
+p545
+sI546
+S'Neighbourhood_WEST SHEFFIELD INDUSTRIAL'
+p546
+sI547
+S'Neighbourhood_WESTBROOK ESTATES'
+p547
+sI548
+S'Neighbourhood_WESTMOUNT'
+p548
+sI549
+S'Neighbourhood_WESTRIDGE'
+p549
+sI550
+S'Neighbourhood_WESTVIEW VILLAGE'
+p550
+sI551
+S'Neighbourhood_WESTWOOD'
+p551
+sI552
+S'Neighbourhood_WHITE INDUSTRIAL'
+p552
+sI553
+S'Neighbourhood_WHITEMUD CREEK RAVINE NORTH'
+p553
+sI554
+S'Neighbourhood_WHITEMUD CREEK RAVINE SOUTH'
+p554
+sI555
+S'Neighbourhood_WHITEMUD CREEK RAVINE TWIN BROOKS'
+p555
+sI556
+S'Neighbourhood_WILD ROSE'
+p556
+sI557
+S'Neighbourhood_WILSON INDUSTRIAL'
+p557
+sI558
+S'Neighbourhood_WINDERMERE'
+p558
+sI559
+S'Neighbourhood_WINDERMERE AREA'
+p559
+sI560
+S'Neighbourhood_WINDSOR PARK'
+p560
+sI561
+S'Neighbourhood_WINTERBURN INDUSTRIAL AREA EAST'
+p561
+sI562
+S'Neighbourhood_WINTERBURN INDUSTRIAL AREA WEST'
+p562
+sI563
+S'Neighbourhood_WOODCROFT'
+p563
+sI564
+S'Neighbourhood_YELLOWHEAD CORRIDOR EAST'
+p564
+sI565
+S'Neighbourhood_YELLOWHEAD CORRIDOR WEST'
+p565
+sI566
+S'Neighbourhood_YORK'
+p566
+sI567
+S'Neighbourhood_YOUNGSTOWN INDUSTRIAL'
+p567
+sI568
+S'Ticket Source_Internet Mail'
+p568
+sI569
+S'Ticket Source_MobileApp'
+p569
+sI570
+S'Ticket Source_Posse Auto'
+p570
+sI571
+S'Ticket Source_Telephone call'
+p571
+sI572
+S'Ticket Source_Web Form'
+p572
+sI573
+S'Days to Resolution_(10, 12]'
+p573
+sI574
+S'Days to Resolution_(12, 14]'
+p574
+sI575
+S'Days to Resolution_(14, 16]'
+p575
+sI576
+S'Days to Resolution_(16, 18]'
+p576
+sI577
+S'Days to Resolution_(18, 20]'
+p577
+sI578
+S'Days to Resolution_(2, 4]'
+p578
+sI579
+S'Days to Resolution_(20, 40]'
+p579
+sI580
+S'Days to Resolution_(4, 6]'
+p580
+sI581
+S'Days to Resolution_(40, 60]'
+p581
+sI582
+S'Days to Resolution_(6, 8]'
+p582
+sI583
+S'Days to Resolution_(60, 80]'
+p583
+sI584
+S'Days to Resolution_(8, 10]'
+p584
+sI585
+S'Days to Resolution_(80, inf]'
+p585
+sI586
+S'Days to Resolution_[0, 2]'
+p586
+sI587
+S'Month Created_1'
+p587
+sI588
+S'Month Created_2'
+p588
+sI589
+S'Month Created_3'
+p589
+sI590
+S'Month Created_4'
+p590
+sI591
+S'Month Created_5'
+p591
+sI592
+S'Month Created_6'
+p592
+sI593
+S'Month Created_7'
+p593
+sI594
+S'Month Created_8'
+p594
+sI595
+S'Month Created_9'
+p595
+sI596
+S'Month Created_10'
+p596
+sI597
+S'Month Created_11'
+p597
+sI598
+S'Month Created_12'
+p598
+sI599
+S'Day of Week Request Created_Friday'
+p599
+sI600
+S'Day of Week Request Created_Monday'
+p600
+sI601
+S'Day of Week Request Created_Saturday'
+p601
+sI602
+S'Day of Week Request Created_Sunday'
+p602
+sI603
+S'Day of Week Request Created_Thursday'
+p603
+sI604
+S'Day of Week Request Created_Tuesday'
+p604
+sI605
+S'Day of Week Request Created_Wednesday'
+p605
+sI606
+S'Holidays Created_True'
+p606
+sI607
+S'avg_hourly_temperature Created_above_freezing'
+p607
+sI608
+S'min_windchill Created_high'
+p608
+sI609
+S'min_windchill Created_low'
+p609
+sI610
+S'min_windchill Created_moderate'
+p610
+sI611
+S'min_windchill Created_very high'
+p611
+sI612
+S'avg_relative_humidity Created_yes'
+p612
+sI613
+S'avg_dew_point Created_comfortable'
+p613
+sI614
+S'avg_dew_point Created_ok'
+p614
+sI615
+S'avg_dew_point Created_somewhat'
+p615
+sI616
+S'avg_dew_point Created_very'
+p616
+sI617
+S'max_wind_gust Created_strong_winds'
+p617
+sI618
+S'max_wind_gust Created_windy'
+p618
+sI619
+S'max_wind_gust Created_windy_direction'
+p619
+sI620
+S'wind_gust_dir_10s Created_E'
+p620
+sI621
+S'wind_gust_dir_10s Created_ENE'
+p621
+sI622
+S'wind_gust_dir_10s Created_ESE'
+p622
+sI623
+S'wind_gust_dir_10s Created_N'
+p623
+sI624
+S'wind_gust_dir_10s Created_NE'
+p624
+sI625
+S'wind_gust_dir_10s Created_NNE'
+p625
+sI626
+S'wind_gust_dir_10s Created_NNW'
+p626
+sI627
+S'wind_gust_dir_10s Created_NW'
+p627
+sI628
+S'wind_gust_dir_10s Created_S'
+p628
+sI629
+S'wind_gust_dir_10s Created_SE'
+p629
+sI630
+S'wind_gust_dir_10s Created_SSE'
+p630
+sI631
+S'wind_gust_dir_10s Created_SSW'
+p631
+sI632
+S'wind_gust_dir_10s Created_SW'
+p632
+sI633
+S'wind_gust_dir_10s Created_W'
+p633
+sI634
+S'wind_gust_dir_10s Created_WNW'
+p634
+sI635
+S'wind_gust_dir_10s Created_WSW'
+p635
+sI636
+S'avg_health_index Created_high'
+p636
+sI637
+S'avg_health_index Created_moderate'
+p637
+sI638
+S'heatdegdays Created_yes'
+p638
+sI639
+S'cooldegdays Created_yes'
+p639
+sI640
+S'growdegdays_10 Created_yes'
+p640
+sI641
+S'precipitation Created_yes'
+p641
+sI642
+S'sunlight Created_10'
+p642
+sI643
+S'sunlight Created_11'
+p643
+sI644
+S'sunlight Created_12'
+p644
+sI645
+S'sunlight Created_13'
+p645
+sI646
+S'sunlight Created_14'
+p646
+sI647
+S'sunlight Created_15'
+p647
+sI648
+S'sunlight Created_16+'
+p648
+sI649
+S'sunlight Created_8'
+p649
+sI650
+S'sunlight Created_9'
+p650
+sI651
+S'sunlight Created_<8'
+p651
+sI652
+S'MEETING_TYPE Created_Committee'
+p652
+sI653
+S'MEETING_TYPE Created_Council'
+p653
+sI654
+S'MEETING_TYPE Created_Council/Committee'
+p654
+sI655
+S'MEETING_TYPE Created_Council/Hearing/Committee'
+p655
+sI656
+S'MEETING_TYPE Created_Hearing'
+p656
+sI657
+S'MEETING_TYPE Created_Hearing/Committee'
+p657
+sI658
+S'Neighbourhood_nan'
+p658
+s.
