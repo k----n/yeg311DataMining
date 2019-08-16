@@ -1,0 +1,44 @@
+import numpy as np
+import pandas as pd
+import math
+import os
+import pickle
+df = pd.read_csv('data_merged_created_neighbourhoods.csv')
+for x in df.columns:
+    df[x] = df[x].astype('category')
+
+neighbourhoods = df['Neighbourhood'].unique()
+
+for x in neighbourhoods:
+    with open('yeg/data/'+str(x).replace(" ", "_")+'_created.txt', 'wb') as f:
+        s = df.loc[df['Neighbourhood'] == x]
+        s = pd.get_dummies(s)
+        # missing NaN
+        #save to pickle
+        d = {}
+        for i,y in enumerate(df.columns):
+            d[i+1] = y
+
+        with open('yeg/data_obj/'+str(x)+'_columns.obj', 'wb') as g:
+            pickle.dump(d, g)     
+
+        s.columns = np.arange(1,len(s.columns)+1)
+        for i in s.columns:
+            s[i] = s[i] * int(i)
+
+        for i,r in s.iterrows():
+            for y in r:
+                if y!=0 and not math.isnan(y):
+                    f.write(str(int(y)))
+                    f.write(" ")
+            f.seek(-1, os.SEEK_CUR)
+            f.write("\n")
+
+    # write sbatch files
+    with open('yeg/batch/'+str(x).replace(" ", "_")+'_created.sh', 'wb') as f:
+        f.write("#!/bin/bash\n#SBATCH --account=def-jsander\n#SBATCH --time=3:00:00\n#SBATCH --mem=256000M\n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=32\n#SBATCH --mail-user=kalvin1@ualberta.ca\n#SBATCH --mail-type=BEGIN\n#SBATCH --mail-type=END\nmodule load java/1.8.0_121\n")
+        f.write("echo \"0.05% 50% 1 5 1\"\n")
+        f.write('java -Xmx128000M -jar ../../spmf.jar run FPGrowth_association_rules_with_lift ')
+        f.write('../../data/'+str(x)+'.txt ')
+        f.write('../../projects/def-jsander/kalvin1/'+str(x)+'_result.txt ')
+        f.write('0.05% 50% 1 5 1\n')

@@ -1,0 +1,39 @@
+import pandas as pd
+import numpy as np
+import math
+df = pd.read_csv('sequence_merged_created_min.csv', parse_dates=['Date Created'])
+for i in df.columns:
+    if i!='Date Created':
+        df[i] = df[i].astype('category')
+dates = df['Date Created'].unique()
+with open('spmf_sequence_created_min.txt', 'wb') as f:
+    for x in dates:
+        s = df.loc[df['Date Created'] == x]
+        del s['Date Created']
+        del s['Reference Number']
+
+        s2 = pd.get_dummies(s,dummy_na= True)
+        s = pd.get_dummies(s)
+        s['Neighbourhood_nan'] = s2['Neighbourhood_nan']
+
+        s.columns = np.arange(1,len(s.columns)+1)
+        for i in s.columns:
+            s[i] = s[i] * int(i)
+
+        for i,r in s.iterrows():
+            for y in r:
+                if y!=0 and not math.isnan(y):
+                    f.write(str(int(y)))
+                    f.write(" ")
+            f.write("-1 ")
+        f.write("-2\n")
+
+d = {}
+df2 = df
+del df2['Date Created']
+del df2['Reference Number']
+df3 = pd.get_dummies(df2, dummy_na= True)
+df2 = pd.get_dummies(df2)
+df2['Neighbourhood_nan'] = df3['Neighbourhood_nan']
+for x,i in enumerate(df2.columns):
+    d[x+1] = i

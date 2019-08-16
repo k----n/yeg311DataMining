@@ -1,0 +1,69 @@
+import numpy as np
+import pandas as pd
+import math
+import os
+import pickle
+df = pd.read_csv('data_merged_created_wards.csv')
+for x in df.columns:
+    df[x] = df[x].astype('category')
+
+wards = df['Ward'].unique()
+
+for x in wards:
+    with open('yeg/wards_created/data/'+str(x).replace(" ", "_")+'_created.txt', 'wb') as f:
+        if not math.isnan(x):
+            s = df.loc[df['Ward'] == x]
+        else:
+            s = df.loc[df['Ward'].isnull()]
+        del s['Ward']
+
+        s2 = pd.get_dummies(s,dummy_na= True)
+        s = pd.get_dummies(s)
+        s['Neighbourhood_nan'] = s2['Neighbourhood_nan']
+
+        #save to pickle
+        d = {}
+        for i,y in enumerate(s.columns):
+            d[i+1] = y
+
+        with open('yeg/wards_created/data_obj/'+str(x)+'_columns.obj', 'wb') as g:
+            pickle.dump(d, g)     
+
+        s.columns = np.arange(1,len(s.columns)+1)
+        for i in s.columns:
+            s[i] = s[i] * int(i)
+
+        for i,r in s.iterrows():
+            for y in r:
+                if y!=0 and not math.isnan(y):
+                    f.write(str(int(y)))
+                    f.write(" ")
+            f.seek(-1, os.SEEK_CUR)
+            f.write("\n")
+
+    # write sbatch files
+    with open('yeg/wards_created/batch/'+str(x).replace(" ", "_")+'_created.sh', 'wb') as f:
+        f.write("#!/bin/bash\n#SBATCH --account=def-jsander\n#SBATCH --time=1:00:00\n#SBATCH --mem=256000M\n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=32\n#SBATCH --mail-user=kalvin1@ualberta.ca\n#SBATCH --mail-type=BEGIN\n#SBATCH --mail-type=END\nmodule load java/1.8.0_121\n")
+        f.write("echo \"5% 50% 1 5 1\"\n")
+        f.write('java -Xmx128000M -jar ../../spmf.jar run FPGrowth_association_rules_with_lift ')
+        f.write('data/'+str(x)+'_created.txt ')
+        f.write('../../projects/def-jsander/kalvin1/wards_created/'+str(x)+'_created_result.txt ')
+        f.write('5% 50% 1 5 1\n')
+
+import numpy as np
+import pandas as pd
+import math
+import os
+import pickle
+df = pd.read_csv('data_merged_closed_wards.csv')
+wards = df['Ward'].unique()
+for x in wards:
+    # write sbatch files
+    with open('yeg/wards_created/batch/'+str(x).replace(" ", "_")+'_created.sh', 'wb') as f:
+        f.write("#!/bin/bash\n#SBATCH --account=def-jsander\n#SBATCH --time=1:00:00\n#SBATCH --mem=256000M\n#SBATCH --nodes=1\n#SBATCH --ntasks-per-node=32\n#SBATCH --mail-user=kalvin1@ualberta.ca\n#SBATCH --mail-type=BEGIN\n#SBATCH --mail-type=END\nmodule load java/1.8.0_121\n")
+        f.write("echo"+"ward "+str(x)+"_closed.txt\n")
+        f.write("echo \"1% 50% 1 5 1\"\n")
+        f.write('java -Xmx128000M -jar ../../spmf.jar run FPGrowth_association_rules_with_lift ')
+        f.write('data/'+str(x)+'_created.txt ')
+        f.write('../../projects/def-jsander/kalvin1/wards_created/'+str(x)+'_created_result_1.txt ')
+        f.write('1% 50% 1 5 1\n')

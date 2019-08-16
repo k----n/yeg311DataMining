@@ -1,0 +1,31 @@
+import numpy as np
+import pandas as pd
+import math
+import os
+import pickle
+df = pd.read_csv('data_merged_created.csv')
+for x in df.columns:
+    df[x] = df[x].astype('category')
+
+df2 = pd.get_dummies(df,dummy_na= True)
+df = pd.get_dummies(df)
+df['Neighbourhood_nan'] = df2['Neighbourhood_nan']
+d = {}
+for i,x in enumerate(df.columns):
+    d[i+1] = x 
+
+df.columns = np.arange(1,len(df.columns)+1)
+for x in df.columns:
+    df[x] = df[x] * int(x)
+
+with open('columns.obj', 'wb') as f:
+    pickle.dump(d, f)
+
+with open('spmf_created.txt', 'w') as f:
+    for i,r in df.iterrows():
+        for x in r:
+            if x!=0 and not math.isnan(x):
+                f.write(str(int(x)))
+                f.write(" ")
+        f.seek(-1, os.SEEK_CUR)
+        f.write("\n")
